@@ -33,7 +33,23 @@
 - **画面の確認**: 同じワークフロー内で `KobunAppUITests` がシミュレータ上でアプリを操作し、主要画面を [`xcparse`](https://github.com/ChargePoint/xcparse) でPNG抽出する。Actionsの実行結果 → Artifacts欄の **`ui-screenshots`**
 - **TestFlight配信**: Actionsタブ → **TestFlight** ワークフローを手動実行。push のたびに配信するとビルドが溜まりテスターへの通知も続くため、意図的に手動トリガーにしている
 
-証明書とProvisioning Profileは持ち回らず、App Store Connect APIキーを使って `-allowProvisioningUpdates` でXcodeに取得させる。必要なSecretsは `ASC_API_KEY_ID` / `ASC_API_ISSUER_ID` / `ASC_API_KEY_P8` の3つ。
+証明書とProvisioning Profileは持ち回らず、App Store Connect APIキーを使って `-allowProvisioningUpdates` でXcodeに取得させる。必要なSecretsは `ASC_API_KEY_ID` / `ASC_API_ISSUER_ID` / `ASC_API_KEY_P8` の3つ（登録済み）。APIキーはアカウント単位なので英単語アプリと同じものを使っている。
+
+## アプリアイコン
+
+```bash
+python scripts/make_app_icon.py            # 描いて生成
+python scripts/make_app_icon.py --check    # 既存アイコンの検証のみ
+```
+
+素材を持たないため、スクリプトがその場で描いて `Assets.xcassets` へ書き出す（配色と字は
+スクリプト冒頭の定数で変えられる）。自前の画像から作る場合は `--source <画像>` を渡す。
+
+1024x1024・アルファなし・角丸を焼き込まないという App Store の条件は、守らないと審査ではなく
+**アップロードの検証で弾かれ**、ビルドを上げ直すことになる。スクリプトが生成後に自動で検証する。
+
+現在のアイコンは暫定。ストア公開前に、シリーズとして英単語アプリと並べたときの見え方を含めて
+作り直す前提で置いている。
 
 Macがある場合のローカル手順:
 
