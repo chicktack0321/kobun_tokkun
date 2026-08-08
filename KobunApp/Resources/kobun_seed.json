@@ -1,0 +1,6333 @@
+{
+  "version": 2,
+  "words": [
+    {
+      "wordId": "KOBUN_W_AINASHI",
+      "word": "あいなし",
+      "reading": "あいなし",
+      "meaning": "気に入らない、つまらない、わけもなく",
+      "partOfSpeech": "adjective",
+      "example": "あいなく思へど、えとどめず。",
+      "exampleTranslation": "気に入らないと思うが、止めることができない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_AKARASAMANARI",
+      "word": "あからさまなり",
+      "reading": "あからさまなり",
+      "meaning": "ちょっとの間だ、かりそめだ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "あからさまに立ち出でて、やがて帰りぬ。",
+      "exampleTranslation": "ちょっとの間出かけて、すぐに帰った。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_AKIRAMU",
+      "word": "あきらむ",
+      "reading": "あきらむ",
+      "meaning": "明らかにする、心を晴らす",
+      "partOfSpeech": "verb",
+      "example": "事の心をあきらめむとす。",
+      "exampleTranslation": "事の道理を明らかにしようとする。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_AKUGARU",
+      "word": "あくがる",
+      "reading": "あくがる",
+      "meaning": "さまよい出る、心が体から離れる",
+      "partOfSpeech": "verb",
+      "example": "もの思ふ人の魂はあくがるるものなり。",
+      "exampleTranslation": "もの思いをする人の魂は体から離れさまようものだ。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ASAMASHI",
+      "word": "あさまし",
+      "reading": "あさまし",
+      "meaning": "驚きあきれる、情けない",
+      "partOfSpeech": "adjective",
+      "example": "かかる姿を見て、あさましと思ふ。",
+      "exampleTranslation": "このような姿を見て、驚きあきれると思う。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ASHI",
+      "word": "あし",
+      "reading": "あし",
+      "meaning": "悪い、劣っている",
+      "partOfSpeech": "adjective",
+      "example": "あしき事をば言ふまじ。",
+      "exampleTranslation": "悪いことは言うべきでない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ASHITA",
+      "word": "あした",
+      "reading": "あした",
+      "meaning": "朝、翌朝",
+      "partOfSpeech": "noun",
+      "example": "つとめてより、あしたまで待ちけり。",
+      "exampleTranslation": "早朝から、翌朝まで待った。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ASOBU",
+      "word": "あそぶ",
+      "reading": "あそぶ",
+      "meaning": "管弦を楽しむ、詩歌を楽しむ",
+      "partOfSpeech": "verb",
+      "example": "夜もすがら、月のもとにあそぶ。",
+      "exampleTranslation": "一晩中、月の下で管弦を楽しむ。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ATARASHI",
+      "word": "あたらし",
+      "reading": "あたらし",
+      "meaning": "惜しい、もったいない",
+      "partOfSpeech": "adjective",
+      "example": "あたらしき人を失ひぬ。",
+      "exampleTranslation": "惜しい人を失ってしまった。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ADANARI",
+      "word": "あだなり",
+      "reading": "あだなり",
+      "meaning": "はかない、誠実でない、無駄だ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "あだなる契りを頼みけり。",
+      "exampleTranslation": "はかない約束をあてにしていた。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ATSUSHI",
+      "word": "あつし",
+      "reading": "あつし",
+      "meaning": "病気が重い",
+      "partOfSpeech": "adjective",
+      "example": "日ごろあつしくなりて、起き上がらず。",
+      "exampleTranslation": "何日も病気が重くなって、起き上がらない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ATENARI",
+      "word": "あてなり",
+      "reading": "あてなり",
+      "meaning": "高貴だ、上品だ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "あてなる女の、笛吹きゐたり。",
+      "exampleTranslation": "高貴な女性が、笛を吹いて座っていた。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ADIKINASHI",
+      "word": "あぢきなし",
+      "reading": "あじきなし",
+      "meaning": "どうしようもない、つまらない",
+      "partOfSpeech": "adjective",
+      "example": "世の中はあぢきなきものなり。",
+      "exampleTranslation": "世の中はどうしようもないものだ。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ANAKAMA",
+      "word": "あなかま",
+      "reading": "あなかま",
+      "meaning": "しっ、静かにしろ",
+      "partOfSpeech": "phrase",
+      "example": "あなかま、人に聞かすな。",
+      "exampleTranslation": "しっ、静かに、人に聞かせるな。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ANAGACHINARI",
+      "word": "あながちなり",
+      "reading": "あながちなり",
+      "meaning": "強引だ、いちずだ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "あながちに乞ふゆゑ、許しつ。",
+      "exampleTranslation": "強引に頼むので、許した。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_AMATA",
+      "word": "あまた",
+      "reading": "あまた",
+      "meaning": "たくさん、非常に",
+      "partOfSpeech": "adverb",
+      "example": "人あまた集まりて、騒ぎけり。",
+      "exampleTranslation": "人がたくさん集まって、騒いだ。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_AHARENARI",
+      "word": "あはれなり",
+      "reading": "あわれなり",
+      "meaning": "しみじみと趣深い、いとしい、気の毒だ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "秋の夕暮こそ、あはれなれ。",
+      "exampleTranslation": "秋の夕暮れは、しみじみと趣深い。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_AU",
+      "word": "あふ",
+      "reading": "あう",
+      "meaning": "結婚する、契りを結ぶ",
+      "partOfSpeech": "verb",
+      "example": "忍びて、女にあひにけり。",
+      "exampleTranslation": "人目を忍んで、女と結婚した。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_AYASHI",
+      "word": "あやし",
+      "reading": "あやし",
+      "meaning": "不思議だ、身分が低い、粗末だ",
+      "partOfSpeech": "adjective",
+      "example": "あやしき賤の家に宿りぬ。",
+      "exampleTranslation": "粗末な身分の低い者の家に泊まった。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_AYANASHI",
+      "word": "あやなし",
+      "reading": "あやなし",
+      "meaning": "筋が通らない、無意味だ",
+      "partOfSpeech": "adjective",
+      "example": "あやなく人を恨みけり。",
+      "exampleTranslation": "わけもなく人を恨んだ。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_AYANIKUNARI",
+      "word": "あやにくなり",
+      "reading": "あやにくなり",
+      "meaning": "あいにくだ、意地悪だ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "あやにくに雨降りて、え出でず。",
+      "exampleTranslation": "あいにく雨が降って、出かけられない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ARAMAHOSHI",
+      "word": "あらまほし",
+      "reading": "あらまほし",
+      "meaning": "理想的だ、望ましい",
+      "partOfSpeech": "adjective",
+      "example": "あらまほしき住まひなり。",
+      "exampleTranslation": "理想的な住まいである。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ARIGATASHI",
+      "word": "ありがたし",
+      "reading": "ありがたし",
+      "meaning": "めったにない、優れている",
+      "partOfSpeech": "adjective",
+      "example": "かかる人は世にありがたし。",
+      "exampleTranslation": "このような人は世にめったにいない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ARIKU",
+      "word": "ありく",
+      "reading": "ありく",
+      "meaning": "歩き回る、出歩く",
+      "partOfSpeech": "verb",
+      "example": "野山にまじりて、ありきけり。",
+      "exampleTranslation": "野山に分け入って、歩き回った。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ARUJI",
+      "word": "あるじ",
+      "reading": "あるじ",
+      "meaning": "主人、もてなし",
+      "partOfSpeech": "noun",
+      "example": "あるじまうけしていたはる。",
+      "exampleTranslation": "ごちそうを用意してもてなす。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_IKADE",
+      "word": "いかで",
+      "reading": "いかで",
+      "meaning": "どうして、なんとかして",
+      "partOfSpeech": "adverb",
+      "example": "いかで京へ帰らむ。",
+      "exampleTranslation": "なんとかして都へ帰りたい。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_IGITANASHI",
+      "word": "いぎたなし",
+      "reading": "いぎたなし",
+      "meaning": "寝坊だ、眠りこけている",
+      "partOfSpeech": "adjective",
+      "example": "いぎたなくて、朝の勤めを怠る。",
+      "exampleTranslation": "眠りこけていて、朝の勤めを怠る。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ISASAKA",
+      "word": "いささか",
+      "reading": "いささか",
+      "meaning": "少し、わずかに",
+      "partOfSpeech": "adverb",
+      "example": "いささかも心を許さず。",
+      "exampleTranslation": "少しも気を許さない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ISOGU",
+      "word": "いそぐ",
+      "reading": "いそぐ",
+      "meaning": "準備する、急ぐ",
+      "partOfSpeech": "verb",
+      "example": "旅の装ひをいそぐ。",
+      "exampleTranslation": "旅の支度を準備する。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ITASHI",
+      "word": "いたし",
+      "reading": "いたし",
+      "meaning": "はなはだしい、立派だ",
+      "partOfSpeech": "adjective",
+      "example": "いたく嘆きて、水も飲まず。",
+      "exampleTranslation": "ひどく嘆いて、水も飲まない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ITAHARU",
+      "word": "いたはる",
+      "reading": "いたわる",
+      "meaning": "世話をする、大切にする、病気になる",
+      "partOfSpeech": "verb",
+      "example": "親をいたはりて仕ふ。",
+      "exampleTranslation": "親を大切に世話して仕える。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ITADURANARI",
+      "word": "いたづらなり",
+      "reading": "いたずらなり",
+      "meaning": "無駄だ、むなしい、暇だ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "いたづらに日を過ぐす。",
+      "exampleTranslation": "無駄に日を過ごす。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ITSUKU",
+      "word": "いつく",
+      "reading": "いつく",
+      "meaning": "大切に育てる、神に仕える",
+      "partOfSpeech": "verb",
+      "example": "娘をいつきかしづく。",
+      "exampleTranslation": "娘を大切に育てる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ITSUSHIKA",
+      "word": "いつしか",
+      "reading": "いつしか",
+      "meaning": "早く〜したい、いつの間にか",
+      "partOfSpeech": "adverb",
+      "example": "いつしか花の咲かなむ。",
+      "exampleTranslation": "早く花が咲いてほしい。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ITODO",
+      "word": "いとど",
+      "reading": "いとど",
+      "meaning": "ますます、いっそう",
+      "partOfSpeech": "adverb",
+      "example": "いとど心細くなりぬ。",
+      "exampleTranslation": "ますます心細くなった。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ITOHOSHI",
+      "word": "いとほし",
+      "reading": "いとおし",
+      "meaning": "気の毒だ、かわいい",
+      "partOfSpeech": "adjective",
+      "example": "幼き子をいとほしと思ふ。",
+      "exampleTranslation": "幼い子をかわいいと思う。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_IDOMU",
+      "word": "いどむ",
+      "reading": "いどむ",
+      "meaning": "競い合う、言い寄る",
+      "partOfSpeech": "verb",
+      "example": "歌をもていどみけり。",
+      "exampleTranslation": "歌で競い合った。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_INABU",
+      "word": "いなぶ",
+      "reading": "いなぶ",
+      "meaning": "断る、辞退する",
+      "partOfSpeech": "verb",
+      "example": "強ひて乞へど、いなびけり。",
+      "exampleTranslation": "無理に頼んだが、断った。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_IFUKAHINASHI",
+      "word": "いふかひなし",
+      "reading": "いうかいなし",
+      "meaning": "言っても仕方がない、取るに足りない",
+      "partOfSpeech": "adjective",
+      "example": "いふかひなき身と嘆く。",
+      "exampleTranslation": "取るに足りない身だと嘆く。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_IMAIMASHI",
+      "word": "いまいまし",
+      "reading": "いまいまし",
+      "meaning": "不吉だ、忌み慎むべきだ",
+      "partOfSpeech": "adjective",
+      "example": "いまいましき事を口にす。",
+      "exampleTranslation": "不吉なことを口にする。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_IMAMEKASHI",
+      "word": "いまめかし",
+      "reading": "いまめかし",
+      "meaning": "現代風だ、華やかだ",
+      "partOfSpeech": "adjective",
+      "example": "いまめかしき装ひなり。",
+      "exampleTranslation": "現代風で華やかな装いである。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_IMIJI",
+      "word": "いみじ",
+      "reading": "いみじ",
+      "meaning": "程度がはなはだしい、すばらしい、ひどい",
+      "partOfSpeech": "adjective",
+      "example": "いみじうめでたき琴の音なり。",
+      "exampleTranslation": "たいそうすばらしい琴の音である。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_IYASHI",
+      "word": "いやし",
+      "reading": "いやし",
+      "meaning": "身分が低い、下品だ",
+      "partOfSpeech": "adjective",
+      "example": "いやしき者も、心はいやしからず。",
+      "exampleTranslation": "身分の低い者も、心は下品ではない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_IRAFU",
+      "word": "いらふ",
+      "reading": "いらう",
+      "meaning": "返事をする、答える",
+      "partOfSpeech": "verb",
+      "example": "問へど、いらへもせず。",
+      "exampleTranslation": "尋ねるが、返事もしない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_IRO",
+      "word": "いろ",
+      "reading": "いろ",
+      "meaning": "色、恋愛、美しさ",
+      "partOfSpeech": "noun",
+      "example": "色を好む人なりけり。",
+      "exampleTranslation": "恋愛を好む人であった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_UKETAMAHARU",
+      "word": "うけたまはる",
+      "reading": "うけたまわる",
+      "meaning": "お聞きする、お受けする",
+      "partOfSpeech": "verb",
+      "example": "仰せをうけたまはりぬ。",
+      "exampleTranslation": "お言葉をお聞きした。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_USHI",
+      "word": "うし",
+      "reading": "うし",
+      "meaning": "つらい、いやだ",
+      "partOfSpeech": "adjective",
+      "example": "世をうしと思ひて、山に入る。",
+      "exampleTranslation": "世の中をつらいと思って、山に入る。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_USHIROMETASHI",
+      "word": "うしろめたし",
+      "reading": "うしろめたし",
+      "meaning": "気がかりだ、不安だ",
+      "partOfSpeech": "adjective",
+      "example": "子の行く末うしろめたし。",
+      "exampleTranslation": "子の将来が気がかりだ。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_USHIROYASUSHI",
+      "word": "うしろやすし",
+      "reading": "うしろやすし",
+      "meaning": "安心だ、心配がない",
+      "partOfSpeech": "adjective",
+      "example": "かの人に任せば、うしろやすし。",
+      "exampleTranslation": "あの人に任せれば、安心だ。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_USU",
+      "word": "うす",
+      "reading": "うす",
+      "meaning": "消える、亡くなる",
+      "partOfSpeech": "verb",
+      "example": "去年の秋、母うせ給ひぬ。",
+      "exampleTranslation": "去年の秋、母が亡くなられた。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_UTATESHI",
+      "word": "うたてし",
+      "reading": "うたてし",
+      "meaning": "いやだ、不快だ",
+      "partOfSpeech": "adjective",
+      "example": "うたてき事を聞きて、心憂し。",
+      "exampleTranslation": "不快なことを聞いて、つらい。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_UCHITSUKENARI",
+      "word": "うちつけなり",
+      "reading": "うちつけなり",
+      "meaning": "突然だ、軽率だ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "うちつけに言ひ寄るは、をこなり。",
+      "exampleTranslation": "突然言い寄るのは、愚かである。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_UTSUKUSHI",
+      "word": "うつくし",
+      "reading": "うつくし",
+      "meaning": "かわいい、いとしい",
+      "partOfSpeech": "adjective",
+      "example": "三寸ばかりなる人、いとうつくしうてゐたり。",
+      "exampleTranslation": "三寸ほどの人が、たいそうかわいらしい様子で座っていた。",
+      "source": "竹取物語",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_UTSUTSU",
+      "word": "うつつ",
+      "reading": "うつつ",
+      "meaning": "現実、正気",
+      "partOfSpeech": "noun",
+      "example": "夢かうつつかわかず。",
+      "exampleTranslation": "夢か現実か区別がつかない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_UTSUROFU",
+      "word": "うつろふ",
+      "reading": "うつろう",
+      "meaning": "色あせる、心変わりする、移る",
+      "partOfSpeech": "verb",
+      "example": "花の色はうつろひにけり。",
+      "exampleTranslation": "花の色はあせてしまった。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_URUSASHI",
+      "word": "うるさし",
+      "reading": "うるさし",
+      "meaning": "わずらわしい、立派だ",
+      "partOfSpeech": "adjective",
+      "example": "うるさく言ひののしる。",
+      "exampleTranslation": "わずらわしく大声で言う。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_URUHASHI",
+      "word": "うるはし",
+      "reading": "うるわし",
+      "meaning": "端正で美しい、きちんとしている",
+      "partOfSpeech": "adjective",
+      "example": "うるはしき姿にて参れり。",
+      "exampleTranslation": "端正な姿で参上した。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_UREFU",
+      "word": "うれふ",
+      "reading": "うれう",
+      "meaning": "嘆く、訴える",
+      "partOfSpeech": "verb",
+      "example": "身の憂きをうれへけり。",
+      "exampleTranslation": "わが身のつらさを嘆いた。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_EZU",
+      "word": "え〜ず",
+      "reading": "えず",
+      "meaning": "〜できない",
+      "partOfSpeech": "phrase",
+      "example": "え答へず。",
+      "exampleTranslation": "答えることができない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ENNARI",
+      "word": "えんなり",
+      "reading": "えんなり",
+      "meaning": "優美だ、あでやかだ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "えんなる姿を見せけり。",
+      "exampleTranslation": "優美な姿を見せた。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_OKITSU",
+      "word": "おきつ",
+      "reading": "おきつ",
+      "meaning": "指図する、決めておく",
+      "partOfSpeech": "verb",
+      "example": "かねておきてしことなり。",
+      "exampleTranslation": "前もって決めておいたことである。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_OKOSU",
+      "word": "おこす",
+      "reading": "おこす",
+      "meaning": "よこす、送ってくる",
+      "partOfSpeech": "verb",
+      "example": "文をおこせたり。",
+      "exampleTranslation": "手紙をよこした。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_OKOTARU",
+      "word": "おこたる",
+      "reading": "おこたる",
+      "meaning": "病気がよくなる、なまける",
+      "partOfSpeech": "verb",
+      "example": "病おこたりて、起き出でぬ。",
+      "exampleTranslation": "病気がよくなって、起き出した。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_OKONAFU",
+      "word": "おこなふ",
+      "reading": "おこなう",
+      "meaning": "仏道修行をする",
+      "partOfSpeech": "verb",
+      "example": "山にこもりておこなふ。",
+      "exampleTranslation": "山にこもって仏道修行をする。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_OKURU",
+      "word": "おくる",
+      "reading": "おくる",
+      "meaning": "死におくれる、劣る",
+      "partOfSpeech": "verb",
+      "example": "親におくれて、頼るかたなし。",
+      "exampleTranslation": "親に先立たれて、頼るところがない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_OSANASHI",
+      "word": "をさなし",
+      "reading": "おさなし",
+      "meaning": "幼い、未熟だ",
+      "partOfSpeech": "adjective",
+      "example": "をさなき心にも、悲しと思ふ。",
+      "exampleTranslation": "幼い心にも、悲しいと思う。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_OSAOSAZU",
+      "word": "をさをさ〜ず",
+      "reading": "おさおさず",
+      "meaning": "ほとんど〜ない",
+      "partOfSpeech": "phrase",
+      "example": "をさをさ人も通はず。",
+      "exampleTranslation": "ほとんど人も通わない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ODOROKU",
+      "word": "おどろく",
+      "reading": "おどろく",
+      "meaning": "目を覚ます、はっと気づく",
+      "partOfSpeech": "verb",
+      "example": "雨の音におどろきぬ。",
+      "exampleTranslation": "雨の音で目を覚ました。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ODOROODOROSHI",
+      "word": "おどろおどろし",
+      "reading": "おどろおどろし",
+      "meaning": "大げさだ、恐ろしい",
+      "partOfSpeech": "adjective",
+      "example": "おどろおどろしく泣きさわぐ。",
+      "exampleTranslation": "大げさに泣き騒ぐ。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_ONOZUKARA",
+      "word": "おのづから",
+      "reading": "おのずから",
+      "meaning": "自然と、偶然に、万一",
+      "partOfSpeech": "adverb",
+      "example": "おのづから道は開くるものなり。",
+      "exampleTranslation": "自然と道は開けるものだ。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_ONOGAJISHI",
+      "word": "おのがじし",
+      "reading": "おのがじし",
+      "meaning": "めいめいに、それぞれに",
+      "partOfSpeech": "adverb",
+      "example": "おのがじし家に帰りぬ。",
+      "exampleTranslation": "めいめい家に帰った。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_OHOKATA",
+      "word": "おほかた",
+      "reading": "おおかた",
+      "meaning": "だいたい、まったく（下に打消）",
+      "partOfSpeech": "adverb",
+      "example": "おほかた知る人もなし。",
+      "exampleTranslation": "まったく知る人もいない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_OHOKENASHI",
+      "word": "おほけなし",
+      "reading": "おおけなし",
+      "meaning": "身のほど知らずだ、恐れ多い",
+      "partOfSpeech": "adjective",
+      "example": "おほけなき望みを抱く。",
+      "exampleTranslation": "身のほど知らずな望みを抱く。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_OHOSU",
+      "word": "おほす",
+      "reading": "おおす",
+      "meaning": "おっしゃる",
+      "partOfSpeech": "verb",
+      "example": "帝、かくおほせらる。",
+      "exampleTranslation": "帝が、このようにおっしゃる。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_OHOTONOGOMORU",
+      "word": "おほとのごもる",
+      "reading": "おおとのごもる",
+      "meaning": "お休みになる",
+      "partOfSpeech": "verb",
+      "example": "夜更けて、おほとのごもりぬ。",
+      "exampleTranslation": "夜が更けて、お休みになった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_OHOYAKE",
+      "word": "おほやけ",
+      "reading": "おおやけ",
+      "meaning": "朝廷、天皇、公的なこと",
+      "partOfSpeech": "noun",
+      "example": "おほやけに仕へ奉る。",
+      "exampleTranslation": "朝廷にお仕え申し上げる。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_OBOE",
+      "word": "おぼえ",
+      "reading": "おぼえ",
+      "meaning": "評判、寵愛",
+      "partOfSpeech": "noun",
+      "example": "時の帝のおぼえめでたし。",
+      "exampleTranslation": "当時の帝の寵愛が厚い。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_OBOSU",
+      "word": "おぼす",
+      "reading": "おぼす",
+      "meaning": "お思いになる",
+      "partOfSpeech": "verb",
+      "example": "いとあはれとおぼしたり。",
+      "exampleTranslation": "たいそう気の毒だとお思いになった。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_OBOSHIMESU",
+      "word": "おぼしめす",
+      "reading": "おぼしめす",
+      "meaning": "お思いになる（「おぼす」より高い敬意）",
+      "partOfSpeech": "verb",
+      "example": "帝、いかにおぼしめすらむ。",
+      "exampleTranslation": "帝は、どのようにお思いになっているだろうか。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_OBOTSUKANASHI",
+      "word": "おぼつかなし",
+      "reading": "おぼつかなし",
+      "meaning": "はっきりしない、気がかりだ、待ち遠しい",
+      "partOfSpeech": "adjective",
+      "example": "音沙汰なくて、おぼつかなし。",
+      "exampleTranslation": "便りがなくて、気がかりだ。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_OBOYU",
+      "word": "おぼゆ",
+      "reading": "おぼゆ",
+      "meaning": "自然と思われる、似る、思い出される",
+      "partOfSpeech": "verb",
+      "example": "昔のことぞおぼゆる。",
+      "exampleTranslation": "昔のことが自然と思い出される。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_OTONASHI",
+      "word": "おとなし",
+      "reading": "おとなし",
+      "meaning": "大人びている、思慮深い",
+      "partOfSpeech": "adjective",
+      "example": "年のわりにおとなしき人なり。",
+      "exampleTranslation": "年齢のわりに思慮深い人である。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_OMOSHIROSHI",
+      "word": "おもしろし",
+      "reading": "おもしろし",
+      "meaning": "趣深い、美しい、楽しい",
+      "partOfSpeech": "adjective",
+      "example": "月おもしろき夜なりけり。",
+      "exampleTranslation": "月が趣深い夜であった。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_OROKANARI",
+      "word": "おろかなり",
+      "reading": "おろかなり",
+      "meaning": "いいかげんだ、言い尽くせない",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "言へばおろかなり。",
+      "exampleTranslation": "言葉では言い尽くせない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KAGIRI",
+      "word": "かぎり",
+      "reading": "かぎり",
+      "meaning": "最期、全部、限度",
+      "partOfSpeech": "noun",
+      "example": "今はかぎりと思ひ定む。",
+      "exampleTranslation": "今が最期だと心を決める。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KAGIRINASHI",
+      "word": "かぎりなし",
+      "reading": "かぎりなし",
+      "meaning": "この上ない、限りがない",
+      "partOfSpeech": "adjective",
+      "example": "かぎりなくうれしと思ふ。",
+      "exampleTranslation": "この上なくうれしいと思う。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KAKOTSU",
+      "word": "かこつ",
+      "reading": "かこつ",
+      "meaning": "不平を言う、口実にする",
+      "partOfSpeech": "verb",
+      "example": "身の不運をかこちけり。",
+      "exampleTranslation": "わが身の不運に不平を言った。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KAGOTO",
+      "word": "かごと",
+      "reading": "かごと",
+      "meaning": "言い訳、恨み言",
+      "partOfSpeech": "noun",
+      "example": "かごとがましく言ひなす。",
+      "exampleTranslation": "恨み言めいた言い方をする。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KASHIKOSHI",
+      "word": "かしこし",
+      "reading": "かしこし",
+      "meaning": "恐れ多い、優れている、はなはだしい",
+      "partOfSpeech": "adjective",
+      "example": "かしこき仰せを承る。",
+      "exampleTranslation": "恐れ多いお言葉を承る。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KASHIKOMARU",
+      "word": "かしこまる",
+      "reading": "かしこまる",
+      "meaning": "恐縮する、謹慎する",
+      "partOfSpeech": "verb",
+      "example": "かしこまりて、退きぬ。",
+      "exampleTranslation": "恐縮して、退出した。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KASHIDZUKU",
+      "word": "かしづく",
+      "reading": "かしずく",
+      "meaning": "大切に育てる、後見する",
+      "partOfSpeech": "verb",
+      "example": "一人娘をかしづき給ふ。",
+      "exampleTranslation": "一人娘を大切にお育てになる。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KATASHI",
+      "word": "かたし",
+      "reading": "かたし",
+      "meaning": "難しい、めったにない",
+      "partOfSpeech": "adjective",
+      "example": "知るはかたく、行ふはなほかたし。",
+      "exampleTranslation": "知ることは難しく、行うことはさらに難しい。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KATAJIKENASHI",
+      "word": "かたじけなし",
+      "reading": "かたじけなし",
+      "meaning": "恐れ多い、ありがたい",
+      "partOfSpeech": "adjective",
+      "example": "かたじけなき御心ざしなり。",
+      "exampleTranslation": "恐れ多いお心遣いである。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KATAHARAITASHI",
+      "word": "かたはらいたし",
+      "reading": "かたわらいたし",
+      "meaning": "みっともない、気の毒だ、恥ずかしい",
+      "partOfSpeech": "adjective",
+      "example": "人の見るにかたはらいたし。",
+      "exampleTranslation": "人が見ているのでみっともない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KATACHI",
+      "word": "かたち",
+      "reading": "かたち",
+      "meaning": "顔立ち、容姿",
+      "partOfSpeech": "noun",
+      "example": "かたちいとうるはしき人なり。",
+      "exampleTranslation": "顔立ちがたいそう端正な人である。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KATARAFU",
+      "word": "かたらふ",
+      "reading": "かたらう",
+      "meaning": "親しく話す、言い寄る、仲間に引き入れる",
+      "partOfSpeech": "verb",
+      "example": "夜もすがらかたらひ明かす。",
+      "exampleTranslation": "一晩中親しく語り明かす。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KATAMINI",
+      "word": "かたみに",
+      "reading": "かたみに",
+      "meaning": "互いに",
+      "partOfSpeech": "adverb",
+      "example": "かたみに袖をぬらしけり。",
+      "exampleTranslation": "互いに涙で袖をぬらした。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KANASHI",
+      "word": "かなし",
+      "reading": "かなし",
+      "meaning": "いとしい、悲しい、心ひかれる",
+      "partOfSpeech": "adjective",
+      "example": "子をかなしと思ふ心は同じ。",
+      "exampleTranslation": "子をいとしいと思う心は同じである。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KANAFU",
+      "word": "かなふ",
+      "reading": "かなう",
+      "meaning": "思い通りになる、ふさわしい",
+      "partOfSpeech": "verb",
+      "example": "願ひかなひて、都に帰る。",
+      "exampleTranslation": "願いがかなって、都に帰る。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KAHINASHI",
+      "word": "かひなし",
+      "reading": "かいなし",
+      "meaning": "効果がない、どうしようもない",
+      "partOfSpeech": "adjective",
+      "example": "嘆きてもかひなし。",
+      "exampleTranslation": "嘆いても効果がない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KAHERIGOTO",
+      "word": "かへりごと",
+      "reading": "かえりごと",
+      "meaning": "返事、返歌",
+      "partOfSpeech": "noun",
+      "example": "かへりごとも申さず。",
+      "exampleTranslation": "返事も申し上げない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KAHESUGAHESU",
+      "word": "かへすがへす",
+      "reading": "かえすがえす",
+      "meaning": "繰り返し、本当に",
+      "partOfSpeech": "adverb",
+      "example": "かへすがへす口惜し。",
+      "exampleTranslation": "本当に残念だ。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KADZUKU",
+      "word": "かづく",
+      "reading": "かずく",
+      "meaning": "褒美をいただく、褒美を与える、水に潜る",
+      "partOfSpeech": "verb",
+      "example": "衣をかづきて、退でぬ。",
+      "exampleTranslation": "褒美の衣をいただいて、退出した。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KARAUJITE",
+      "word": "からうじて",
+      "reading": "かろうじて",
+      "meaning": "やっとのことで",
+      "partOfSpeech": "adverb",
+      "example": "からうじて京にたどり着く。",
+      "exampleTranslation": "やっとのことで都にたどり着く。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KARASHI",
+      "word": "からし",
+      "reading": "からし",
+      "meaning": "つらい、ひどい",
+      "partOfSpeech": "adjective",
+      "example": "からき命を生きのぶ。",
+      "exampleTranslation": "つらい命を生きながらえる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KARU",
+      "word": "かる",
+      "reading": "かる",
+      "meaning": "離れる、疎遠になる",
+      "partOfSpeech": "verb",
+      "example": "足も遠くかれにけり。",
+      "exampleTranslation": "足も遠のいて疎遠になってしまった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KIKOYU",
+      "word": "きこゆ",
+      "reading": "きこゆ",
+      "meaning": "申し上げる、噂される、聞こえる",
+      "partOfSpeech": "verb",
+      "example": "御返り、かく聞こえけり。",
+      "exampleTranslation": "お返事を、このように申し上げた。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KIKOSHIMESU",
+      "word": "きこしめす",
+      "reading": "きこしめす",
+      "meaning": "お聞きになる、召し上がる",
+      "partOfSpeech": "verb",
+      "example": "帝、この由をきこしめしけり。",
+      "exampleTranslation": "帝が、このことをお聞きになった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KIHA",
+      "word": "きは",
+      "reading": "きわ",
+      "meaning": "身分、程度、限界",
+      "partOfSpeech": "noun",
+      "example": "きは高き人にもあらず。",
+      "exampleTranslation": "身分の高い人でもない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KIYORANARI",
+      "word": "きよらなり",
+      "reading": "きよらなり",
+      "meaning": "気品があって美しい",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "きよらなる玉の御子なり。",
+      "exampleTranslation": "気品があって美しい皇子である。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KIYOGENARI",
+      "word": "きよげなり",
+      "reading": "きよげなり",
+      "meaning": "こぎれいだ、さっぱりと美しい",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "きよげなる家に住みけり。",
+      "exampleTranslation": "こぎれいな家に住んでいた。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KUMANASHI",
+      "word": "くまなし",
+      "reading": "くまなし",
+      "meaning": "陰りがない、抜け目がない",
+      "partOfSpeech": "adjective",
+      "example": "月くまなくさし入りたり。",
+      "exampleTranslation": "月が陰りなくさし込んでいる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KUMOI",
+      "word": "くもゐ",
+      "reading": "くもい",
+      "meaning": "宮中、空、はるかに遠い所",
+      "partOfSpeech": "noun",
+      "example": "くもゐの遠きを思ふ。",
+      "exampleTranslation": "宮中の遠いのを思う。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KUYASHI",
+      "word": "くやし",
+      "reading": "くやし",
+      "meaning": "後悔される、残念だ",
+      "partOfSpeech": "adjective",
+      "example": "言はざりしぞくやしき。",
+      "exampleTranslation": "言わなかったのが後悔される。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KUCHIWOSHI",
+      "word": "くちをし",
+      "reading": "くちおし",
+      "meaning": "残念だ、つまらない",
+      "partOfSpeech": "adjective",
+      "example": "見ざりしこそくちをしけれ。",
+      "exampleTranslation": "見なかったのが残念だ。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KUNZU",
+      "word": "くんず",
+      "reading": "くんず",
+      "meaning": "気がめいる、ふさぎ込む",
+      "partOfSpeech": "verb",
+      "example": "独りゐてくんじけり。",
+      "exampleTranslation": "一人でいて気がめいった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KEIZU",
+      "word": "けいす",
+      "reading": "けいす",
+      "meaning": "中宮・皇太子に申し上げる",
+      "partOfSpeech": "verb",
+      "example": "宮に事の由をけいす。",
+      "exampleTranslation": "中宮に事情を申し上げる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KESHIKI",
+      "word": "けしき",
+      "reading": "けしき",
+      "meaning": "様子、機嫌、きざし",
+      "partOfSpeech": "noun",
+      "example": "人のけしきを見て、物言ふ。",
+      "exampleTranslation": "相手の様子を見て、話をする。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KESHIKARAZU",
+      "word": "けしからず",
+      "reading": "けしからず",
+      "meaning": "異様だ、よくない",
+      "partOfSpeech": "phrase",
+      "example": "けしからぬ姿にて出で立つ。",
+      "exampleTranslation": "異様な姿で出かける。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KEJIME",
+      "word": "けぢめ",
+      "reading": "けじめ",
+      "meaning": "区別、違い",
+      "partOfSpeech": "noun",
+      "example": "貴賤のけぢめもなし。",
+      "exampleTranslation": "身分の高い低いの区別もない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KOUZU",
+      "word": "こうず",
+      "reading": "こうず",
+      "meaning": "疲れる、困る",
+      "partOfSpeech": "verb",
+      "example": "道に迷ひてこうじぬ。",
+      "exampleTranslation": "道に迷って疲れ果てた。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KOKOROU",
+      "word": "こころう",
+      "reading": "こころう",
+      "meaning": "理解する、心得る",
+      "partOfSpeech": "verb",
+      "example": "事の心をこころえたり。",
+      "exampleTranslation": "事情を理解した。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KOKOROUSHI",
+      "word": "こころうし",
+      "reading": "こころうし",
+      "meaning": "つらい、いやだ、情けない",
+      "partOfSpeech": "adjective",
+      "example": "かく言はるるはこころうし。",
+      "exampleTranslation": "このように言われるのはつらい。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KOKOROZASHI",
+      "word": "こころざし",
+      "reading": "こころざし",
+      "meaning": "愛情、誠意、贈り物",
+      "partOfSpeech": "noun",
+      "example": "深きこころざしを見せけり。",
+      "exampleTranslation": "深い愛情を見せた。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KOKOROBAHE",
+      "word": "こころばへ",
+      "reading": "こころばえ",
+      "meaning": "気立て、趣、心遣い",
+      "partOfSpeech": "noun",
+      "example": "こころばへ優しき人なり。",
+      "exampleTranslation": "気立ての優しい人である。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KOKOROGURUSHI",
+      "word": "こころぐるし",
+      "reading": "こころぐるし",
+      "meaning": "気の毒だ、心配だ",
+      "partOfSpeech": "adjective",
+      "example": "見るもこころぐるし。",
+      "exampleTranslation": "見ていても気の毒だ。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KOKOROMOTONASHI",
+      "word": "こころもとなし",
+      "reading": "こころもとなし",
+      "meaning": "じれったい、待ち遠しい、不安だ",
+      "partOfSpeech": "adjective",
+      "example": "返り事のなきぞこころもとなき。",
+      "exampleTranslation": "返事がないのがじれったい。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KOKORONIKUSHI",
+      "word": "こころにくし",
+      "reading": "こころにくし",
+      "meaning": "奥ゆかしい、心ひかれる",
+      "partOfSpeech": "adjective",
+      "example": "こころにくきけはひなり。",
+      "exampleTranslation": "奥ゆかしい雰囲気である。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KOKOCHI",
+      "word": "ここち",
+      "reading": "ここち",
+      "meaning": "気分、病気",
+      "partOfSpeech": "noun",
+      "example": "ここち悪しくて臥したり。",
+      "exampleTranslation": "気分が悪くて横になっている。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KOCHITASHI",
+      "word": "こちたし",
+      "reading": "こちたし",
+      "meaning": "大げさだ、わずらわしい",
+      "partOfSpeech": "adjective",
+      "example": "人言こちたく聞こゆ。",
+      "exampleTranslation": "人の噂が大げさに聞こえる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KOTOGOTOSHI",
+      "word": "ことごとし",
+      "reading": "ことごとし",
+      "meaning": "大げさだ、仰々しい",
+      "partOfSpeech": "adjective",
+      "example": "ことごとしく飾り立つ。",
+      "exampleTranslation": "大げさに飾り立てる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KOTONARI",
+      "word": "ことなり",
+      "reading": "ことなり",
+      "meaning": "違っている、格別だ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "人にことなる才あり。",
+      "exampleTranslation": "人と違った才能がある。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KOTONI",
+      "word": "ことに",
+      "reading": "ことに",
+      "meaning": "特に、とりわけ",
+      "partOfSpeech": "adverb",
+      "example": "ことに秋の空をめづ。",
+      "exampleTranslation": "特に秋の空を賞美する。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KOTOWARI",
+      "word": "ことわり",
+      "reading": "ことわり",
+      "meaning": "道理、もっともなこと",
+      "partOfSpeech": "noun",
+      "example": "嘆くもことわりなり。",
+      "exampleTranslation": "嘆くのももっともである。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_KOZO",
+      "word": "こぞ",
+      "reading": "こぞ",
+      "meaning": "去年",
+      "partOfSpeech": "noun",
+      "example": "こぞの秋、都を出でぬ。",
+      "exampleTranslation": "去年の秋、都を出た。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_KOMAYAKANARI",
+      "word": "こまやかなり",
+      "reading": "こまやかなり",
+      "meaning": "心がこもっている、詳しい、色が濃い",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "こまやかに書き記す。",
+      "exampleTranslation": "詳しく書き記す。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SAUZAUSHI",
+      "word": "さうざうし",
+      "reading": "そうぞうし",
+      "meaning": "物足りない、寂しい",
+      "partOfSpeech": "adjective",
+      "example": "人なくてさうざうし。",
+      "exampleTranslation": "人がいなくて物足りない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SAUZOKU",
+      "word": "さうぞく",
+      "reading": "そうぞく",
+      "meaning": "衣装、着飾ること",
+      "partOfSpeech": "noun",
+      "example": "こまやかなるさうぞくを着る。",
+      "exampleTranslation": "立派な衣装を着る。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SAKASHI",
+      "word": "さかし",
+      "reading": "さかし",
+      "meaning": "賢い、こざかしい",
+      "partOfSpeech": "adjective",
+      "example": "さかしき人も過つことあり。",
+      "exampleTranslation": "賢い人も過ちを犯すことがある。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_SAKASHIRA",
+      "word": "さかしら",
+      "reading": "さかしら",
+      "meaning": "利口ぶること、おせっかい",
+      "partOfSpeech": "noun",
+      "example": "さかしらに口出しす。",
+      "exampleTranslation": "利口ぶって口出しする。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SASUGANI",
+      "word": "さすがに",
+      "reading": "さすがに",
+      "meaning": "そうはいってもやはり",
+      "partOfSpeech": "adverb",
+      "example": "憎しと思へど、さすがにあはれなり。",
+      "exampleTranslation": "憎いと思うが、そうはいってもやはり気の毒だ。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_SANAGARA",
+      "word": "さながら",
+      "reading": "さながら",
+      "meaning": "そのまま、すべて",
+      "partOfSpeech": "adverb",
+      "example": "昔のさながらの姿なり。",
+      "exampleTranslation": "昔のそのままの姿である。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SAHARU",
+      "word": "さはる",
+      "reading": "さわる",
+      "meaning": "差し支える、妨げられる",
+      "partOfSpeech": "verb",
+      "example": "雨にさはりて、え参らず。",
+      "exampleTranslation": "雨に妨げられて、参上できない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SARANARI",
+      "word": "さらなり",
+      "reading": "さらなり",
+      "meaning": "言うまでもない",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "春はあけぼの、夏は夜、月のころはさらなり。",
+      "exampleTranslation": "春は明け方、夏は夜、月のころは言うまでもない。",
+      "source": "枕草子",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_SARANU",
+      "word": "さらぬ",
+      "reading": "さらぬ",
+      "meaning": "そうでない、避けられない",
+      "partOfSpeech": "phrase",
+      "example": "さらぬ別れのなくもがな。",
+      "exampleTranslation": "避けられない死別がなければよいのに。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SARANIZU",
+      "word": "さらに〜ず",
+      "reading": "さらにず",
+      "meaning": "まったく〜ない",
+      "partOfSpeech": "phrase",
+      "example": "さらに知らず。",
+      "exampleTranslation": "まったく知らない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_SHIKA",
+      "word": "しか",
+      "reading": "しか",
+      "meaning": "そう、そのように",
+      "partOfSpeech": "adverb",
+      "example": "しか思ふべきにあらず。",
+      "exampleTranslation": "そう思うべきではない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SHIDOKENASHI",
+      "word": "しどけなし",
+      "reading": "しどけなし",
+      "meaning": "しまりがない、無造作だ",
+      "partOfSpeech": "adjective",
+      "example": "しどけなき姿にてゐたり。",
+      "exampleTranslation": "無造作な姿で座っていた。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SHINOBU",
+      "word": "しのぶ",
+      "reading": "しのぶ",
+      "meaning": "我慢する、人目を避ける、恋しく思う",
+      "partOfSpeech": "verb",
+      "example": "しのびて通ひけり。",
+      "exampleTranslation": "人目を避けて通った。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_SHIRUSHI_KOUKA",
+      "word": "しるし",
+      "reading": "しるし",
+      "meaning": "効き目、前兆",
+      "partOfSpeech": "noun",
+      "example": "祈りのしるしありけり。",
+      "exampleTranslation": "祈りの効き目があった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SHIRUSHI_AKIRAKA",
+      "word": "しるし",
+      "reading": "しるし",
+      "meaning": "はっきりしている、明白だ",
+      "partOfSpeech": "adjective",
+      "example": "そのけしきしるく見ゆ。",
+      "exampleTranslation": "その様子がはっきりと見える。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SHIRUBE",
+      "word": "しるべ",
+      "reading": "しるべ",
+      "meaning": "案内、案内人、手引き",
+      "partOfSpeech": "noun",
+      "example": "道のしるべを頼む。",
+      "exampleTranslation": "道案内を頼む。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SHIRU",
+      "word": "しる",
+      "reading": "しる",
+      "meaning": "治める、領有する",
+      "partOfSpeech": "verb",
+      "example": "国をしる人となりぬ。",
+      "exampleTranslation": "国を治める人となった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SUGUSU",
+      "word": "すぐす",
+      "reading": "すぐす",
+      "meaning": "過ごす、度を越す",
+      "partOfSpeech": "verb",
+      "example": "むなしく年をすぐす。",
+      "exampleTranslation": "むなしく年月を過ごす。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_SUKU",
+      "word": "すく",
+      "reading": "すく",
+      "meaning": "風流を好む、色好みである",
+      "partOfSpeech": "verb",
+      "example": "歌にすける人なり。",
+      "exampleTranslation": "歌に心を寄せる風流な人である。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SUGOSHI",
+      "word": "すごし",
+      "reading": "すごし",
+      "meaning": "ぞっとするほど寂しい、すばらしい",
+      "partOfSpeech": "adjective",
+      "example": "秋の山はすごく見ゆ。",
+      "exampleTranslation": "秋の山はぞっとするほど寂しく見える。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SUSAMAJI",
+      "word": "すさまじ",
+      "reading": "すさまじ",
+      "meaning": "興ざめだ、殺風景だ",
+      "partOfSpeech": "adjective",
+      "example": "すさまじきもの、昼ほゆる犬。",
+      "exampleTranslation": "興ざめなもの、昼に吠える犬。",
+      "source": "枕草子",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_SUZURONARI",
+      "word": "すずろなり",
+      "reading": "すずろなり",
+      "meaning": "なんとなく、思いがけない、むやみだ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "すずろに涙こぼれけり。",
+      "exampleTranslation": "なんとなく涙がこぼれた。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SUNAHACHI",
+      "word": "すなはち",
+      "reading": "すなわち",
+      "meaning": "すぐに、そのとき",
+      "partOfSpeech": "adverb",
+      "example": "聞くとすなはち走り出づ。",
+      "exampleTranslation": "聞くとすぐに走り出る。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SUMAFU",
+      "word": "すまふ",
+      "reading": "すまう",
+      "meaning": "抵抗する、断る",
+      "partOfSpeech": "verb",
+      "example": "強ひられて、すまひかねたり。",
+      "exampleTranslation": "無理強いされて、断りきれなかった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SEUSOKO",
+      "word": "せうそこ",
+      "reading": "しょうそこ",
+      "meaning": "手紙、訪問、様子を尋ねること",
+      "partOfSpeech": "noun",
+      "example": "せうそこもせで、月日経ぬ。",
+      "exampleTranslation": "便りもしないで、月日が経った。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SECHINARI",
+      "word": "せちなり",
+      "reading": "せちなり",
+      "meaning": "切実だ、大切だ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "せちに乞ひ願ふ。",
+      "exampleTranslation": "切実に願う。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SEMUKATANASHI",
+      "word": "せむかたなし",
+      "reading": "せんかたなし",
+      "meaning": "どうしようもない",
+      "partOfSpeech": "adjective",
+      "example": "今はせむかたなし。",
+      "exampleTranslation": "今はどうしようもない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_SOUSU",
+      "word": "そうす",
+      "reading": "そうす",
+      "meaning": "天皇に申し上げる",
+      "partOfSpeech": "verb",
+      "example": "この由を帝にそうす。",
+      "exampleTranslation": "このことを帝に申し上げる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_SORAGOTO",
+      "word": "そらごと",
+      "reading": "そらごと",
+      "meaning": "うそ、いつわり",
+      "partOfSpeech": "noun",
+      "example": "そらごとを言ふべからず。",
+      "exampleTranslation": "うそを言ってはならない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TAEZU",
+      "word": "たえて〜ず",
+      "reading": "たえてず",
+      "meaning": "まったく〜ない",
+      "partOfSpeech": "phrase",
+      "example": "たえて音もせず。",
+      "exampleTranslation": "まったく便りもない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TAGUHI",
+      "word": "たぐひ",
+      "reading": "たぐい",
+      "meaning": "同類、匹敵するもの",
+      "partOfSpeech": "noun",
+      "example": "世にたぐひなき美しさなり。",
+      "exampleTranslation": "世に匹敵するものがない美しさである。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TAKENASHI",
+      "word": "たけなし",
+      "reading": "たけなし",
+      "meaning": "勢いがない、力がない",
+      "partOfSpeech": "adjective",
+      "example": "年老いてたけなくなりぬ。",
+      "exampleTranslation": "年老いて力がなくなった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TATEMATSURU",
+      "word": "たてまつる",
+      "reading": "たてまつる",
+      "meaning": "差し上げる、召し上がる、お〜になる",
+      "partOfSpeech": "verb",
+      "example": "御文をたてまつる。",
+      "exampleTranslation": "お手紙を差し上げる。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TANOMU",
+      "word": "たのむ",
+      "reading": "たのむ",
+      "meaning": "あてにする、あてにさせる",
+      "partOfSpeech": "verb",
+      "example": "人をたのみて待つ。",
+      "exampleTranslation": "人をあてにして待つ。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TAHABURU",
+      "word": "たはぶる",
+      "reading": "たわぶる",
+      "meaning": "ふざける、たわむれる",
+      "partOfSpeech": "verb",
+      "example": "たはぶれにも言ふまじ。",
+      "exampleTranslation": "ふざけてでも言うべきでない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TAMAHARU",
+      "word": "たまはる",
+      "reading": "たまわる",
+      "meaning": "いただく、お与えになる",
+      "partOfSpeech": "verb",
+      "example": "御衣をたまはりぬ。",
+      "exampleTranslation": "お着物をいただいた。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TAMAFU",
+      "word": "たまふ",
+      "reading": "たまう",
+      "meaning": "〜なさる（尊敬）、〜ております（謙譲）",
+      "partOfSpeech": "verb",
+      "example": "歌をよみ給ふ。",
+      "exampleTranslation": "歌をお詠みになる。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TAMASAKANARI",
+      "word": "たまさかなり",
+      "reading": "たまさかなり",
+      "meaning": "たまたまだ、まれだ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "たまさかに人の来たる。",
+      "exampleTranslation": "たまたま人が訪ねてくる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TAYORI",
+      "word": "たより",
+      "reading": "たより",
+      "meaning": "頼りになるもの、機会、手紙",
+      "partOfSpeech": "noun",
+      "example": "よきたよりを得て、文をやる。",
+      "exampleTranslation": "よい機会を得て、手紙を送る。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TAMERAFU",
+      "word": "ためらふ",
+      "reading": "ためらう",
+      "meaning": "気を静める、体調を整える",
+      "partOfSpeech": "verb",
+      "example": "心をためらひて、物言ふ。",
+      "exampleTranslation": "気を静めて、話をする。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_CHIGIRI",
+      "word": "ちぎり",
+      "reading": "ちぎり",
+      "meaning": "約束、前世からの因縁、夫婦の縁",
+      "partOfSpeech": "noun",
+      "example": "前の世のちぎり深し。",
+      "exampleTranslation": "前世からの因縁が深い。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_CHIGO",
+      "word": "ちご",
+      "reading": "ちご",
+      "meaning": "幼児、赤ん坊",
+      "partOfSpeech": "noun",
+      "example": "ちごの寝顔はうつくし。",
+      "exampleTranslation": "幼児の寝顔はかわいらしい。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TSUKAUMATSURU",
+      "word": "つかうまつる",
+      "reading": "つこうまつる",
+      "meaning": "お仕えする、して差し上げる",
+      "partOfSpeech": "verb",
+      "example": "年ごろつかうまつりけり。",
+      "exampleTranslation": "長年お仕え申し上げた。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TSUKAHASU",
+      "word": "つかはす",
+      "reading": "つかわす",
+      "meaning": "おやりになる、派遣する",
+      "partOfSpeech": "verb",
+      "example": "使ひをつかはしけり。",
+      "exampleTranslation": "使者を派遣した。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TSUKIDZUKISHI",
+      "word": "つきづきし",
+      "reading": "つきづきし",
+      "meaning": "似つかわしい、ふさわしい",
+      "partOfSpeech": "adjective",
+      "example": "冬はいと寒きこそつきづきしけれ。",
+      "exampleTranslation": "冬はたいそう寒いのが似つかわしい。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TSUKINASHI",
+      "word": "つきなし",
+      "reading": "つきなし",
+      "meaning": "似つかわしくない、不都合だ",
+      "partOfSpeech": "adjective",
+      "example": "場につきなきふるまひなり。",
+      "exampleTranslation": "場に似つかわしくないふるまいである。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TSUGOMORI",
+      "word": "つごもり",
+      "reading": "つごもり",
+      "meaning": "月末",
+      "partOfSpeech": "noun",
+      "example": "三月のつごもりに、都を出づ。",
+      "exampleTranslation": "三月の月末に、都を出る。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TSUTANASHI",
+      "word": "つたなし",
+      "reading": "つたなし",
+      "meaning": "下手だ、運が悪い",
+      "partOfSpeech": "adjective",
+      "example": "筆つたなくて、恥づかし。",
+      "exampleTranslation": "字が下手で、恥ずかしい。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TSUTO",
+      "word": "つと",
+      "reading": "つと",
+      "meaning": "さっと、じっと",
+      "partOfSpeech": "adverb",
+      "example": "つと寄りて、袖を引く。",
+      "exampleTranslation": "さっと近寄って、袖を引く。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TSUTOMETE",
+      "word": "つとめて",
+      "reading": "つとめて",
+      "meaning": "早朝、翌朝",
+      "partOfSpeech": "noun",
+      "example": "雪の降りたるつとめて、いとをかし。",
+      "exampleTranslation": "雪の降った早朝は、たいそう趣深い。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TSUHINI",
+      "word": "つひに",
+      "reading": "ついに",
+      "meaning": "とうとう、最後まで",
+      "partOfSpeech": "adverb",
+      "example": "つひに帰らずなりぬ。",
+      "exampleTranslation": "とうとう帰らなくなってしまった。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TSUYUZU",
+      "word": "つゆ〜ず",
+      "reading": "つゆず",
+      "meaning": "少しも〜ない",
+      "partOfSpeech": "phrase",
+      "example": "つゆ知らざりけり。",
+      "exampleTranslation": "少しも知らなかった。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TSUREZURENARI",
+      "word": "つれづれなり",
+      "reading": "つれづれなり",
+      "meaning": "退屈だ、しんみりと物寂しい",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "つれづれなるままに、日暮らし硯に向かふ。",
+      "exampleTranslation": "することもなく退屈なのにまかせて、一日中硯に向かう。",
+      "source": "徒然草",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TSURENASHI",
+      "word": "つれなし",
+      "reading": "つれなし",
+      "meaning": "冷淡だ、平然としている",
+      "partOfSpeech": "adjective",
+      "example": "つれなき人を恋ひわたる。",
+      "exampleTranslation": "冷淡な人を恋し続ける。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TOKIMEKU",
+      "word": "ときめく",
+      "reading": "ときめく",
+      "meaning": "寵愛を受ける、栄える",
+      "partOfSpeech": "verb",
+      "example": "時の帝にときめき給ふ。",
+      "exampleTranslation": "当時の帝の寵愛をお受けになる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TOSHI",
+      "word": "とし",
+      "reading": "とし",
+      "meaning": "早い、鋭い",
+      "partOfSpeech": "adjective",
+      "example": "とく帰り給へ。",
+      "exampleTranslation": "早くお帰りください。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TOKOROSESHI",
+      "word": "ところせし",
+      "reading": "ところせし",
+      "meaning": "窮屈だ、大げさだ、気詰まりだ",
+      "partOfSpeech": "adjective",
+      "example": "人多くてところせし。",
+      "exampleTranslation": "人が多くて窮屈だ。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_TOBURAFU",
+      "word": "とぶらふ",
+      "reading": "とぶらう",
+      "meaning": "訪問する、見舞う、弔う",
+      "partOfSpeech": "verb",
+      "example": "病の人をとぶらふ。",
+      "exampleTranslation": "病人を見舞う。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_TOMINI",
+      "word": "とみに",
+      "reading": "とみに",
+      "meaning": "急に、すぐに",
+      "partOfSpeech": "adverb",
+      "example": "とみに答へもせず。",
+      "exampleTranslation": "すぐに返事もしない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_NAKANAKA",
+      "word": "なかなか",
+      "reading": "なかなか",
+      "meaning": "かえって、中途半端だ",
+      "partOfSpeech": "adverb",
+      "example": "言はぬぞなかなかよき。",
+      "exampleTranslation": "言わないのがかえってよい。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NAGAMU",
+      "word": "ながむ",
+      "reading": "ながむ",
+      "meaning": "もの思いにふける、詩歌を口ずさむ",
+      "partOfSpeech": "verb",
+      "example": "独りゐて、空をながむ。",
+      "exampleTranslation": "一人でいて、もの思いにふけりながら空を見る。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NASAKE",
+      "word": "なさけ",
+      "reading": "なさけ",
+      "meaning": "思いやり、風流心",
+      "partOfSpeech": "noun",
+      "example": "なさけある人と交はる。",
+      "exampleTranslation": "思いやりのある人と交際する。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NATSUKASHI",
+      "word": "なつかし",
+      "reading": "なつかし",
+      "meaning": "心ひかれる、慕わしい",
+      "partOfSpeech": "adjective",
+      "example": "なつかしき声を聞く。",
+      "exampleTranslation": "心ひかれる声を聞く。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NADOKA",
+      "word": "などか",
+      "reading": "などか",
+      "meaning": "どうして〜か",
+      "partOfSpeech": "adverb",
+      "example": "などか参らざりし。",
+      "exampleTranslation": "どうして参上しなかったのか。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NANOMENARI",
+      "word": "なのめなり",
+      "reading": "ななめなり",
+      "meaning": "平凡だ、いいかげんだ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "なのめなる才にはあらず。",
+      "exampleTranslation": "平凡な才能ではない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_NABETE",
+      "word": "なべて",
+      "reading": "なべて",
+      "meaning": "一般に、総じて",
+      "partOfSpeech": "adverb",
+      "example": "なべての人にはあらず。",
+      "exampleTranslation": "並の人ではない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_NAMAMEKASHI",
+      "word": "なまめかし",
+      "reading": "なまめかし",
+      "meaning": "優美だ、若々しい",
+      "partOfSpeech": "adjective",
+      "example": "なまめかしき姿なり。",
+      "exampleTranslation": "優美な姿である。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_NAYAMU",
+      "word": "なやむ",
+      "reading": "なやむ",
+      "meaning": "病気になる、苦しむ",
+      "partOfSpeech": "verb",
+      "example": "日ごろなやみて、臥したり。",
+      "exampleTranslation": "何日も病気で、横になっている。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NARAFU",
+      "word": "ならふ",
+      "reading": "ならう",
+      "meaning": "慣れる、なじむ",
+      "partOfSpeech": "verb",
+      "example": "住みならひて、恋しくなる。",
+      "exampleTranslation": "住み慣れて、恋しくなる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_NAHO",
+      "word": "なほ",
+      "reading": "なお",
+      "meaning": "やはり、さらに、それでもなお",
+      "partOfSpeech": "adverb",
+      "example": "なほ心にかかる。",
+      "exampleTranslation": "やはり気にかかる。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NANDEFU",
+      "word": "なんでふ",
+      "reading": "なんじょう",
+      "meaning": "何という、どうして",
+      "partOfSpeech": "adverb",
+      "example": "なんでふ事をか言ふ。",
+      "exampleTranslation": "何ということを言うのか。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_NIGENASHI",
+      "word": "にげなし",
+      "reading": "にげなし",
+      "meaning": "似つかわしくない",
+      "partOfSpeech": "adjective",
+      "example": "年にげなき装ひなり。",
+      "exampleTranslation": "年齢に似つかわしくない装いである。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_NIKUSHI",
+      "word": "にくし",
+      "reading": "にくし",
+      "meaning": "気に食わない、みっともない",
+      "partOfSpeech": "adjective",
+      "example": "わざとらしきぞにくき。",
+      "exampleTranslation": "わざとらしいのが気に食わない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NIHOFU",
+      "word": "にほふ",
+      "reading": "におう",
+      "meaning": "美しく色づく、香る",
+      "partOfSpeech": "verb",
+      "example": "梅の花にほひけり。",
+      "exampleTranslation": "梅の花が美しく咲き香った。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NUSHI",
+      "word": "ぬし",
+      "reading": "ぬし",
+      "meaning": "主人、持ち主",
+      "partOfSpeech": "noun",
+      "example": "家のぬしは出でて留守なり。",
+      "exampleTranslation": "家の主人は出かけて留守である。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_NEBU",
+      "word": "ねぶ",
+      "reading": "ねぶ",
+      "meaning": "大人びる、年をとる",
+      "partOfSpeech": "verb",
+      "example": "ねびまさりて、美しくなりぬ。",
+      "exampleTranslation": "成長して、美しくなった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_NENGORONARI",
+      "word": "ねんごろなり",
+      "reading": "ねんごろなり",
+      "meaning": "熱心だ、親密だ、丁寧だ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "ねんごろにもてなしけり。",
+      "exampleTranslation": "丁寧にもてなした。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NENZU",
+      "word": "ねんず",
+      "reading": "ねんず",
+      "meaning": "我慢する、祈る",
+      "partOfSpeech": "verb",
+      "example": "痛みをねんじて、動かず。",
+      "exampleTranslation": "痛みを我慢して、動かない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NODOKANARI",
+      "word": "のどかなり",
+      "reading": "のどかなり",
+      "meaning": "おだやかだ、のんびりしている",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "のどかなる春の日なり。",
+      "exampleTranslation": "おだやかな春の日である。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NONOSHIRU",
+      "word": "ののしる",
+      "reading": "ののしる",
+      "meaning": "大声で騒ぐ、評判になる",
+      "partOfSpeech": "verb",
+      "example": "人々ののしりて、集まりぬ。",
+      "exampleTranslation": "人々が大声で騒いで、集まった。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_NOTAMAFU",
+      "word": "のたまふ",
+      "reading": "のたまう",
+      "meaning": "おっしゃる",
+      "partOfSpeech": "verb",
+      "example": "かくのたまひけり。",
+      "exampleTranslation": "このようにおっしゃった。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_HAKANASHI",
+      "word": "はかなし",
+      "reading": "はかなし",
+      "meaning": "あっけない、頼りない、ちょっとした",
+      "partOfSpeech": "adjective",
+      "example": "はかなき命を惜しむ。",
+      "exampleTranslation": "はかない命を惜しむ。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_HAKANAKUNARU",
+      "word": "はかなくなる",
+      "reading": "はかなくなる",
+      "meaning": "亡くなる",
+      "partOfSpeech": "phrase",
+      "example": "病重くて、はかなくなり給ひぬ。",
+      "exampleTranslation": "病が重くて、お亡くなりになった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_HAKABAKASHI",
+      "word": "はかばかし",
+      "reading": "はかばかし",
+      "meaning": "しっかりしている、はっきりしている",
+      "partOfSpeech": "adjective",
+      "example": "はかばかしき答へもなし。",
+      "exampleTranslation": "しっかりした返事もない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_HAKARU",
+      "word": "はかる",
+      "reading": "はかる",
+      "meaning": "だます、計画する、相談する",
+      "partOfSpeech": "verb",
+      "example": "人をはかりて、財を取る。",
+      "exampleTranslation": "人をだまして、財産を取る。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_HAJI",
+      "word": "はぢ",
+      "reading": "はじ",
+      "meaning": "恥",
+      "partOfSpeech": "noun",
+      "example": "人前にはぢを見す。",
+      "exampleTranslation": "人前で恥をさらす。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_HASHITANASHI",
+      "word": "はしたなし",
+      "reading": "はしたなし",
+      "meaning": "中途半端だ、きまりが悪い、無愛想だ",
+      "partOfSpeech": "adjective",
+      "example": "はしたなく思ひて、退きぬ。",
+      "exampleTranslation": "きまり悪く思って、退出した。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_HADZUKASHI",
+      "word": "はづかし",
+      "reading": "はずかし",
+      "meaning": "こちらが気後れするほど立派だ、恥ずかしい",
+      "partOfSpeech": "adjective",
+      "example": "はづかしき人の前に出づ。",
+      "exampleTranslation": "気後れするほど立派な人の前に出る。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_HABERI",
+      "word": "はべり",
+      "reading": "はべり",
+      "meaning": "お仕えする、あります（丁寧）",
+      "partOfSpeech": "verb",
+      "example": "かくなむはべる。",
+      "exampleTranslation": "このようでございます。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_HARAKARA",
+      "word": "はらから",
+      "reading": "はらから",
+      "meaning": "兄弟姉妹",
+      "partOfSpeech": "noun",
+      "example": "はらから三人ありけり。",
+      "exampleTranslation": "兄弟が三人いた。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_HIGAGOTO",
+      "word": "ひがごと",
+      "reading": "ひがごと",
+      "meaning": "間違い、道理に外れたこと",
+      "partOfSpeech": "noun",
+      "example": "ひがごとを言ひ広む。",
+      "exampleTranslation": "間違ったことを言い広める。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_HIGAHIGASHI",
+      "word": "ひがひがし",
+      "reading": "ひがひがし",
+      "meaning": "ひねくれている、風流を解さない",
+      "partOfSpeech": "adjective",
+      "example": "ひがひがしき心の人なり。",
+      "exampleTranslation": "ひねくれた心の人である。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_HITOHENI",
+      "word": "ひとへに",
+      "reading": "ひとえに",
+      "meaning": "ひたすら、まったく",
+      "partOfSpeech": "adverb",
+      "example": "ひとへに頼み奉る。",
+      "exampleTranslation": "ひたすらお頼み申し上げる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_HITOYARINARAZU",
+      "word": "ひとやりならず",
+      "reading": "ひとやりならず",
+      "meaning": "自分から進んで、自分のせいで",
+      "partOfSpeech": "phrase",
+      "example": "ひとやりならず思ひ悩む。",
+      "exampleTranslation": "自分から進んで思い悩む。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_HITOWAROSHI",
+      "word": "ひとわろし",
+      "reading": "ひとわろし",
+      "meaning": "体裁が悪い、みっともない",
+      "partOfSpeech": "adjective",
+      "example": "泣く姿はひとわろし。",
+      "exampleTranslation": "泣く姿は体裁が悪い。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_HINEMOSU",
+      "word": "ひねもす",
+      "reading": "ひねもす",
+      "meaning": "一日中",
+      "partOfSpeech": "adverb",
+      "example": "ひねもす雨降りけり。",
+      "exampleTranslation": "一日中雨が降った。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_HIMA",
+      "word": "ひま",
+      "reading": "ひま",
+      "meaning": "すきま、絶え間、不和",
+      "partOfSpeech": "noun",
+      "example": "雲のひまより月もる。",
+      "exampleTranslation": "雲の切れ間から月がもれる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_BINNASHI",
+      "word": "びんなし",
+      "reading": "びんなし",
+      "meaning": "都合が悪い、気の毒だ",
+      "partOfSpeech": "adjective",
+      "example": "今参るはびんなし。",
+      "exampleTranslation": "今参上するのは都合が悪い。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_FUBINNARI",
+      "word": "ふびんなり",
+      "reading": "ふびんなり",
+      "meaning": "気の毒だ、都合が悪い",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "幼き子をふびんに思ふ。",
+      "exampleTranslation": "幼い子を気の毒に思う。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_FUSU",
+      "word": "ふす",
+      "reading": "ふす",
+      "meaning": "横になる、寝る",
+      "partOfSpeech": "verb",
+      "example": "苦しくてふしゐたり。",
+      "exampleTranslation": "苦しくて横になっていた。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_FUMI",
+      "word": "ふみ",
+      "reading": "ふみ",
+      "meaning": "手紙、書物、学問",
+      "partOfSpeech": "noun",
+      "example": "ふみをやりて、返り事を待つ。",
+      "exampleTranslation": "手紙を送って、返事を待つ。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_FURUSATO",
+      "word": "ふるさと",
+      "reading": "ふるさと",
+      "meaning": "昔の都、旧居、なじみの土地",
+      "partOfSpeech": "noun",
+      "example": "ふるさとの荒れたるを見る。",
+      "exampleTranslation": "昔住んだ所が荒れているのを見る。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_HOI",
+      "word": "ほい",
+      "reading": "ほい",
+      "meaning": "かねてからの願い、本来の意志",
+      "partOfSpeech": "noun",
+      "example": "ほいを遂げて、出家す。",
+      "exampleTranslation": "かねてからの願いを遂げて、出家する。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_HODO",
+      "word": "ほど",
+      "reading": "ほど",
+      "meaning": "時間、距離、身分、ようす",
+      "partOfSpeech": "noun",
+      "example": "ほどもなく帰り来たり。",
+      "exampleTranslation": "まもなく帰ってきた。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MAUKU",
+      "word": "まうく",
+      "reading": "もうく",
+      "meaning": "準備する、手に入れる",
+      "partOfSpeech": "verb",
+      "example": "饗をまうけて待つ。",
+      "exampleTranslation": "ごちそうを準備して待つ。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MAUKE",
+      "word": "まうけ",
+      "reading": "もうけ",
+      "meaning": "準備、ごちそう",
+      "partOfSpeech": "noun",
+      "example": "いみじきまうけをす。",
+      "exampleTranslation": "たいそうな準備をする。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MAUZU",
+      "word": "まうづ",
+      "reading": "もうず",
+      "meaning": "参上する、参詣する",
+      "partOfSpeech": "verb",
+      "example": "社にまうでて、祈る。",
+      "exampleTranslation": "神社に参詣して、祈る。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MAUSU",
+      "word": "まうす",
+      "reading": "もうす",
+      "meaning": "申し上げる",
+      "partOfSpeech": "verb",
+      "example": "事の由をまうす。",
+      "exampleTranslation": "事情を申し上げる。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MAKARU",
+      "word": "まかる",
+      "reading": "まかる",
+      "meaning": "退出する、参ります",
+      "partOfSpeech": "verb",
+      "example": "御前をまかりいづ。",
+      "exampleTranslation": "御前を退出する。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MAKADZU",
+      "word": "まかづ",
+      "reading": "まかず",
+      "meaning": "退出する",
+      "partOfSpeech": "verb",
+      "example": "宮中よりまかづ。",
+      "exampleTranslation": "宮中から退出する。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MASANASHI",
+      "word": "まさなし",
+      "reading": "まさなし",
+      "meaning": "よくない、みっともない",
+      "partOfSpeech": "adjective",
+      "example": "まさなきふるまひを諫む。",
+      "exampleTranslation": "よくないふるまいをいさめる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MASARU",
+      "word": "まさる",
+      "reading": "まさる",
+      "meaning": "増す、いっそう〜になる、優れる",
+      "partOfSpeech": "verb",
+      "example": "恋しさぞまさりける。",
+      "exampleTranslation": "恋しさがいっそう増した。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MAGIRU",
+      "word": "まぎる",
+      "reading": "まぎる",
+      "meaning": "入り混じる、まぎれる、心が晴れる",
+      "partOfSpeech": "verb",
+      "example": "人にまぎれて出でぬ。",
+      "exampleTranslation": "人にまぎれて出て行った。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MADZU",
+      "word": "まづ",
+      "reading": "まず",
+      "meaning": "まず第一に、なにはともあれ",
+      "partOfSpeech": "adverb",
+      "example": "まづ火をともせ。",
+      "exampleTranslation": "まず第一に火をともせ。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MAMENARI",
+      "word": "まめなり",
+      "reading": "まめなり",
+      "meaning": "誠実だ、実用的だ、健康だ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "まめなる人と頼む。",
+      "exampleTranslation": "誠実な人だと信頼する。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MAMORU",
+      "word": "まもる",
+      "reading": "まもる",
+      "meaning": "じっと見つめる",
+      "partOfSpeech": "verb",
+      "example": "顔をまもりて、物言はず。",
+      "exampleTranslation": "顔をじっと見つめて、何も言わない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MANEBU",
+      "word": "まねぶ",
+      "reading": "まねぶ",
+      "meaning": "まねる、そのまま伝える、学ぶ",
+      "partOfSpeech": "verb",
+      "example": "聞きしままにまねぶ。",
+      "exampleTranslation": "聞いたとおりにそのまま伝える。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MAWIRU",
+      "word": "まゐる",
+      "reading": "まいる",
+      "meaning": "参上する、差し上げる、召し上がる",
+      "partOfSpeech": "verb",
+      "example": "御前にまゐりて、候ふ。",
+      "exampleTranslation": "御前に参上して、お仕えする。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MIKADO",
+      "word": "みかど",
+      "reading": "みかど",
+      "meaning": "天皇、朝廷",
+      "partOfSpeech": "noun",
+      "example": "みかどの御代を寿ぐ。",
+      "exampleTranslation": "天皇の御代を祝う。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MISOKANARI",
+      "word": "みそかなり",
+      "reading": "みそかなり",
+      "meaning": "こっそりとしている、人目を忍ぶ",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "みそかに文をやる。",
+      "exampleTranslation": "こっそりと手紙を送る。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MIRU",
+      "word": "みる",
+      "reading": "みる",
+      "meaning": "結婚する、世話をする、見る",
+      "partOfSpeech": "verb",
+      "example": "人にみられて、世に住む。",
+      "exampleTranslation": "人と結婚して、世を過ごす。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MIYU",
+      "word": "みゆ",
+      "reading": "みゆ",
+      "meaning": "見える、姿を見せる、結婚する",
+      "partOfSpeech": "verb",
+      "example": "人にみゆべき姿にあらず。",
+      "exampleTranslation": "人に姿を見せてよい格好ではない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MUGENARI",
+      "word": "むげなり",
+      "reading": "むげなり",
+      "meaning": "ひどい、まったくだ、話にならない",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "むげに衰へにけり。",
+      "exampleTranslation": "すっかり衰えてしまった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MUTSUKASHI",
+      "word": "むつかし",
+      "reading": "むつかし",
+      "meaning": "不快だ、わずらわしい、気味が悪い",
+      "partOfSpeech": "adjective",
+      "example": "むつかしき事のみ多し。",
+      "exampleTranslation": "わずらわしいことばかり多い。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MUTSUBU",
+      "word": "むつぶ",
+      "reading": "むつぶ",
+      "meaning": "親しくする",
+      "partOfSpeech": "verb",
+      "example": "隣とむつびて過ぐす。",
+      "exampleTranslation": "隣人と親しくして暮らす。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MUBE",
+      "word": "むべ",
+      "reading": "うべ",
+      "meaning": "なるほど、いかにも",
+      "partOfSpeech": "adverb",
+      "example": "むべ山風を嵐といふらむ。",
+      "exampleTranslation": "なるほど山風を嵐と言うのだろう。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MEZAMASHI",
+      "word": "めざまし",
+      "reading": "めざまし",
+      "meaning": "心外だ、目を見張るほどだ",
+      "partOfSpeech": "adjective",
+      "example": "めざましきものに思ひけり。",
+      "exampleTranslation": "心外なものと思った。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MEDZU",
+      "word": "めづ",
+      "reading": "めず",
+      "meaning": "ほめる、愛する",
+      "partOfSpeech": "verb",
+      "example": "花をめでて、日を暮らす。",
+      "exampleTranslation": "花を愛して、一日を過ごす。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MEDZURASHI",
+      "word": "めづらし",
+      "reading": "めずらし",
+      "meaning": "すばらしい、目新しい",
+      "partOfSpeech": "adjective",
+      "example": "めづらしき事を聞く。",
+      "exampleTranslation": "すばらしいことを聞く。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MEDETASHI",
+      "word": "めでたし",
+      "reading": "めでたし",
+      "meaning": "すばらしい、立派だ",
+      "partOfSpeech": "adjective",
+      "example": "いとめでたき琴の音なり。",
+      "exampleTranslation": "たいそうすばらしい琴の音である。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MENOTO",
+      "word": "めのと",
+      "reading": "めのと",
+      "meaning": "乳母",
+      "partOfSpeech": "noun",
+      "example": "めのとに養はれて育つ。",
+      "exampleTranslation": "乳母に養われて育つ。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MEYASUSHI",
+      "word": "めやすし",
+      "reading": "めやすし",
+      "meaning": "見た目に感じがよい",
+      "partOfSpeech": "adjective",
+      "example": "めやすきふるまひなり。",
+      "exampleTranslation": "感じのよいふるまいである。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MESU",
+      "word": "めす",
+      "reading": "めす",
+      "meaning": "お呼びになる、召し上がる、お召しになる",
+      "partOfSpeech": "verb",
+      "example": "人をめして、問はす。",
+      "exampleTranslation": "人をお呼びになって、尋ねさせる。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MOTENASU",
+      "word": "もてなす",
+      "reading": "もてなす",
+      "meaning": "ふるまう、待遇する、取り扱う",
+      "partOfSpeech": "verb",
+      "example": "客をあつくもてなす。",
+      "exampleTranslation": "客を手厚く待遇する。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MOTOYORI",
+      "word": "もとより",
+      "reading": "もとより",
+      "meaning": "もともと、以前から",
+      "partOfSpeech": "adverb",
+      "example": "もとより知れる人なり。",
+      "exampleTranslation": "もともと知っている人である。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_MONOSU",
+      "word": "ものす",
+      "reading": "ものす",
+      "meaning": "ある、いる、する、行く",
+      "partOfSpeech": "verb",
+      "example": "おのづからものし給ふ。",
+      "exampleTranslation": "自然といらっしゃる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MONOSHI",
+      "word": "ものし",
+      "reading": "ものし",
+      "meaning": "不愉快だ、目障りだ",
+      "partOfSpeech": "adjective",
+      "example": "ものしき事を言ふ人なり。",
+      "exampleTranslation": "不愉快なことを言う人である。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_MONOOMOHI",
+      "word": "ものおもひ",
+      "reading": "ものおもい",
+      "meaning": "もの思い、悩み、心配",
+      "partOfSpeech": "noun",
+      "example": "ものおもひに沈みて、痩せぬ。",
+      "exampleTranslation": "もの思いに沈んで、痩せてしまった。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YAUYAU",
+      "word": "やうやう",
+      "reading": "ようよう",
+      "meaning": "だんだん、ようやく",
+      "partOfSpeech": "adverb",
+      "example": "やうやう白くなりゆく山ぎは。",
+      "exampleTranslation": "だんだん白んでいく山の稜線。",
+      "source": "枕草子",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YAU",
+      "word": "やう",
+      "reading": "よう",
+      "meaning": "様子、方法、理由",
+      "partOfSpeech": "noun",
+      "example": "言はむやうもなし。",
+      "exampleTranslation": "言いようもない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_YAGATE",
+      "word": "やがて",
+      "reading": "やがて",
+      "meaning": "そのまま、すぐに",
+      "partOfSpeech": "adverb",
+      "example": "やがて帰り来ず。",
+      "exampleTranslation": "そのまま帰って来ない。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YASASHI",
+      "word": "やさし",
+      "reading": "やさし",
+      "meaning": "優美だ、けなげだ、恥ずかしい",
+      "partOfSpeech": "adjective",
+      "example": "やさしき心づかひなり。",
+      "exampleTranslation": "優美な心遣いである。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YASUSHI",
+      "word": "やすし",
+      "reading": "やすし",
+      "meaning": "簡単だ、安らかだ",
+      "partOfSpeech": "adjective",
+      "example": "言ふはやすく、行ふはかたし。",
+      "exampleTranslation": "言うのは簡単で、行うのは難しい。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YATSUSU",
+      "word": "やつす",
+      "reading": "やつす",
+      "meaning": "目立たない姿にする、出家する",
+      "partOfSpeech": "verb",
+      "example": "姿をやつして、忍び歩く。",
+      "exampleTranslation": "姿を目立たなくして、人目を忍んで歩く。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_YATSURU",
+      "word": "やつる",
+      "reading": "やつる",
+      "meaning": "みすぼらしくなる、やせ衰える",
+      "partOfSpeech": "verb",
+      "example": "旅のほどにやつれ給ひぬ。",
+      "exampleTranslation": "旅の間にやせ衰えなさった。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_YAMUGOTONASHI",
+      "word": "やむごとなし",
+      "reading": "やんごとなし",
+      "meaning": "高貴だ、格別だ、捨て置けない",
+      "partOfSpeech": "adjective",
+      "example": "やむごとなき身分の人なり。",
+      "exampleTranslation": "高貴な身分の人である。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YUKASHI",
+      "word": "ゆかし",
+      "reading": "ゆかし",
+      "meaning": "見たい、聞きたい、知りたい、心ひかれる",
+      "partOfSpeech": "adjective",
+      "example": "中のさま、いとゆかし。",
+      "exampleTranslation": "中の様子が、たいそう見たい。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YUKUE",
+      "word": "ゆくへ",
+      "reading": "ゆくえ",
+      "meaning": "行き先、将来",
+      "partOfSpeech": "noun",
+      "example": "ゆくへも知らず、去りぬ。",
+      "exampleTranslation": "行き先も分からず、去ってしまった。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YUKURINASHI",
+      "word": "ゆくりなし",
+      "reading": "ゆくりなし",
+      "meaning": "突然だ、思いがけない",
+      "partOfSpeech": "adjective",
+      "example": "ゆくりなく人の来たる。",
+      "exampleTranslation": "思いがけず人が訪ねてくる。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_YUYUSHI",
+      "word": "ゆゆし",
+      "reading": "ゆゆし",
+      "meaning": "不吉だ、はなはだしい、すばらしい",
+      "partOfSpeech": "adjective",
+      "example": "ゆゆしき事を言ふな。",
+      "exampleTranslation": "不吉なことを言うな。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YUWE",
+      "word": "ゆゑ",
+      "reading": "ゆえ",
+      "meaning": "理由、由緒、風情",
+      "partOfSpeech": "noun",
+      "example": "ゆゑある家に生まる。",
+      "exampleTranslation": "由緒ある家に生まれる。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YUMENA",
+      "word": "ゆめ〜な",
+      "reading": "ゆめな",
+      "meaning": "決して〜するな",
+      "partOfSpeech": "phrase",
+      "example": "ゆめ人に語るな。",
+      "exampleTranslation": "決して人に語るな。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YO",
+      "word": "よ",
+      "reading": "よ",
+      "meaning": "世の中、時代、男女の仲、一生",
+      "partOfSpeech": "noun",
+      "example": "よを捨てて、山にこもる。",
+      "exampleTranslation": "世を捨てて、山にこもる。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YONONAKA",
+      "word": "よのなか",
+      "reading": "よのなか",
+      "meaning": "男女の仲、世間、世の中",
+      "partOfSpeech": "noun",
+      "example": "よのなかを思ひ知りぬ。",
+      "exampleTranslation": "男女の仲を思い知った。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YONI",
+      "word": "よに",
+      "reading": "よに",
+      "meaning": "非常に、決して（下に打消）",
+      "partOfSpeech": "adverb",
+      "example": "よにあらじと思ふ。",
+      "exampleTranslation": "決してあるまいと思う。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_YOSHI",
+      "word": "よし",
+      "reading": "よし",
+      "meaning": "理由、由緒、方法、風情",
+      "partOfSpeech": "noun",
+      "example": "参らざりしよしを申す。",
+      "exampleTranslation": "参上しなかった理由を申し上げる。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YOSHINASHI",
+      "word": "よしなし",
+      "reading": "よしなし",
+      "meaning": "つまらない、関係ない、方法がない",
+      "partOfSpeech": "adjective",
+      "example": "よしなき事に日を暮らす。",
+      "exampleTranslation": "つまらないことに一日を費やす。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YOROSHI",
+      "word": "よろし",
+      "reading": "よろし",
+      "meaning": "悪くない、まあまあだ",
+      "partOfSpeech": "adjective",
+      "example": "よろしき程の家なり。",
+      "exampleTranslation": "まあまあの程度の家である。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_YOHAHI",
+      "word": "よはひ",
+      "reading": "よわい",
+      "meaning": "年齢",
+      "partOfSpeech": "noun",
+      "example": "よはひ八十に及ぶ。",
+      "exampleTranslation": "年齢が八十に及ぶ。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_RAUTASHI",
+      "word": "らうたし",
+      "reading": "ろうたし",
+      "meaning": "かわいらしい、いたわしい",
+      "partOfSpeech": "adjective",
+      "example": "らうたき姫君なり。",
+      "exampleTranslation": "かわいらしい姫君である。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_RAURAUJI",
+      "word": "らうらうじ",
+      "reading": "ろうろうじ",
+      "meaning": "洗練されている、気がきいている",
+      "partOfSpeech": "adjective",
+      "example": "らうらうじき筆づかひなり。",
+      "exampleTranslation": "洗練された筆づかいである。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_WAZATO",
+      "word": "わざと",
+      "reading": "わざと",
+      "meaning": "わざわざ、正式に",
+      "partOfSpeech": "adverb",
+      "example": "わざと使ひをたてまつる。",
+      "exampleTranslation": "わざわざ使者を差し向ける。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_WAZA",
+      "word": "わざ",
+      "reading": "わざ",
+      "meaning": "行い、仏事、こと",
+      "partOfSpeech": "noun",
+      "example": "故人のわざを営む。",
+      "exampleTranslation": "故人の法事を営む。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_WATAKUSHI",
+      "word": "わたくし",
+      "reading": "わたくし",
+      "meaning": "個人的なこと、自分の都合",
+      "partOfSpeech": "noun",
+      "example": "わたくしの事にあらず。",
+      "exampleTranslation": "個人的なことではない。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_WATARU",
+      "word": "わたる",
+      "reading": "わたる",
+      "meaning": "行く、来る、一面に〜する",
+      "partOfSpeech": "verb",
+      "example": "霧、野にわたれり。",
+      "exampleTranslation": "霧が野に一面に立ちこめている。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_WABU",
+      "word": "わぶ",
+      "reading": "わぶ",
+      "meaning": "気落ちする、困る、つらく思う",
+      "partOfSpeech": "verb",
+      "example": "住みわびて、都に出づ。",
+      "exampleTranslation": "住みづらくなって、都に出る。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_WADZURAFU",
+      "word": "わづらふ",
+      "reading": "わずらう",
+      "meaning": "悩む、病気になる、苦労する",
+      "partOfSpeech": "verb",
+      "example": "答へにわづらひて、黙しゐたり。",
+      "exampleTranslation": "答えに悩んで、黙っていた。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_WARINASHI",
+      "word": "わりなし",
+      "reading": "わりなし",
+      "meaning": "道理に合わない、どうしようもない、格別だ",
+      "partOfSpeech": "adjective",
+      "example": "わりなく恋しと思ふ。",
+      "exampleTranslation": "どうしようもなく恋しいと思う。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_WAROSHI",
+      "word": "わろし",
+      "reading": "わろし",
+      "meaning": "よくない、見苦しい、下手だ",
+      "partOfSpeech": "adjective",
+      "example": "わろき歌をよみ散らす。",
+      "exampleTranslation": "下手な歌をやたらに詠む。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_WIRU_SUWARU",
+      "word": "ゐる",
+      "reading": "いる",
+      "meaning": "座る、じっとしている",
+      "partOfSpeech": "verb",
+      "example": "端近くゐて、月を見る。",
+      "exampleTranslation": "縁側近くに座って、月を見る。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_WIRU_HIKIIRU",
+      "word": "ゐる",
+      "reading": "いる",
+      "meaning": "引き連れる、伴う",
+      "partOfSpeech": "verb",
+      "example": "供の者をゐて、出で立つ。",
+      "exampleTranslation": "供の者を引き連れて、出発する。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_WINAKA",
+      "word": "ゐなか",
+      "reading": "いなか",
+      "meaning": "田舎",
+      "partOfSpeech": "noun",
+      "example": "ゐなかに下りて住む。",
+      "exampleTranslation": "田舎に下って住む。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_WEMU",
+      "word": "ゑむ",
+      "reading": "えむ",
+      "meaning": "ほほえむ",
+      "partOfSpeech": "verb",
+      "example": "うちゑみて、物言ふ。",
+      "exampleTranslation": "にっこりほほえんで、話をする。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_WOKASHI",
+      "word": "をかし",
+      "reading": "おかし",
+      "meaning": "趣深い、興味深い、こっけいだ",
+      "partOfSpeech": "adjective",
+      "example": "春はあけぼの、やうやう白くなりゆく山ぎは、をかし。",
+      "exampleTranslation": "春は明け方が趣深い、だんだん白んでいく山の稜線が趣深い。",
+      "source": "枕草子",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_WOKONARI",
+      "word": "をこなり",
+      "reading": "おこなり",
+      "meaning": "愚かだ、ばかげている",
+      "partOfSpeech": "adjectiveVerb",
+      "example": "をこなるふるまひを笑ふ。",
+      "exampleTranslation": "愚かなふるまいを笑う。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_WOKOGAMASHI",
+      "word": "をこがまし",
+      "reading": "おこがまし",
+      "meaning": "ばかげている、みっともない",
+      "partOfSpeech": "adjective",
+      "example": "をこがましき言ひざまなり。",
+      "exampleTranslation": "ばかげた言い方である。",
+      "source": "",
+      "isFree": false
+    },
+    {
+      "wordId": "KOBUN_W_WORIFUSHI",
+      "word": "をりふし",
+      "reading": "おりふし",
+      "meaning": "ちょうどその時、季節",
+      "partOfSpeech": "adverb",
+      "example": "をりふし雨降り出でぬ。",
+      "exampleTranslation": "ちょうどその時雨が降り出した。",
+      "source": "",
+      "isFree": true
+    },
+    {
+      "wordId": "KOBUN_W_WORIKARA",
+      "word": "をりから",
+      "reading": "おりから",
+      "meaning": "ちょうどその時、時節がら",
+      "partOfSpeech": "noun",
+      "example": "をりからの雪に、道閉ぢぬ。",
+      "exampleTranslation": "時節がらの雪で、道がふさがった。",
+      "source": "",
+      "isFree": false
+    }
+  ],
+  "grammar": [
+    {
+      "grammarId": "KOBUN_G_JODOSHI_RU",
+      "title": "る・らる",
+      "category": "auxiliaryVerb",
+      "meaning": "受身・尊敬・自発・可能",
+      "connection": "未然形（四段・ナ変・ラ変には「る」、それ以外には「らる」）",
+      "conjugation": "れ / れ / る / るる / るれ / れよ（下二段型）",
+      "explanation": "四つの意味の見分けは順に試す。①下に「〜に」など動作主があれば受身。②主語が敬うべき人なら尊敬。③「思ふ」「泣く」など心情の語に付けば自発。④下に打消（ず・じ）を伴えば可能。可能は中古では打消を伴うのが原則で、肯定の可能は中世以降に増える。",
+      "example": "住み慣れし故郷、限りなく思ひ出でらる。",
+      "exampleTranslation": "住み慣れた故郷が、この上なく自然と思い出される。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 10
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_SU",
+      "title": "す・さす・しむ",
+      "category": "auxiliaryVerb",
+      "meaning": "使役・尊敬",
+      "connection": "未然形（四段・ナ変・ラ変には「す」、それ以外には「さす」。「しむ」は漢文訓読体に多い）",
+      "conjugation": "せ / せ / す / する / すれ / せよ（下二段型）",
+      "explanation": "尊敬になるのは、下に「給ふ」「おはします」など別の尊敬語が続くとき（二重敬語）に限られる。それ以外は使役。「〜に…す」の形で動作をさせる相手が示されていれば使役と確定できる。",
+      "example": "大納言に歌よませ給ふ。",
+      "exampleTranslation": "大納言に歌をお詠ませになる。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 20
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_ZU",
+      "title": "ず",
+      "category": "auxiliaryVerb",
+      "meaning": "打消（〜ない）",
+      "connection": "未然形",
+      "conjugation": "（ざら）/ ず・ざり / ず / ぬ・ざる / ね・ざれ / ざれ",
+      "explanation": "「ぬ」「ね」の形が識別問題の頻出。連体形の「ぬ」は下に体言が続き、命令形・已然形の「ね」は「ば」「ど」が続く。完了の「ぬ」（終止形）と紛らわしいので、接続（打消は未然形、完了は連用形）で切り分ける。",
+      "example": "花咲かず、鳥も鳴かぬ山なり。",
+      "exampleTranslation": "花も咲かず、鳥も鳴かない山である。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 30
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_MU",
+      "title": "む・むず",
+      "category": "auxiliaryVerb",
+      "meaning": "推量・意志・勧誘・仮定・婉曲",
+      "connection": "未然形",
+      "conjugation": "○ / ○ / む / む / め / ○（四段型）",
+      "explanation": "主語で見分けるのが速い。一人称なら意志、二人称なら勧誘・適当、三人称なら推量。文中で連体形が体言に続く場合は仮定・婉曲（「〜ような」）で訳す。",
+      "example": "われこそ行かめ。",
+      "exampleTranslation": "私が行こう。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 40
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_JI",
+      "title": "じ",
+      "category": "auxiliaryVerb",
+      "meaning": "打消推量・打消意志（〜ないだろう・〜まい）",
+      "connection": "未然形",
+      "conjugation": "○ / ○ / じ / じ / じ / ○（無変化型）",
+      "explanation": "「む」の打消にあたる。主語が一人称なら打消意志、それ以外なら打消推量。活用しないので、文中での位置（連体形・已然形も同形）に注意する。",
+      "example": "われは行かじ。",
+      "exampleTranslation": "私は行くまい。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 50
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_MAHOSHI",
+      "title": "まほし",
+      "category": "auxiliaryVerb",
+      "meaning": "願望（〜たい）",
+      "connection": "未然形",
+      "conjugation": "（まほしから）/ まほしく・まほしかり / まほし / まほしき・まほしかる / まほしけれ / ○（形容詞型）",
+      "explanation": "自分の願望を表す。連用形の動詞に付く「たし」と意味は同じで、「まほし」は未然形接続、「たし」は連用形接続という違いで見分ける。",
+      "example": "いつしか都を見まほし。",
+      "exampleTranslation": "早く都を見たい。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 60
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_KI",
+      "title": "き",
+      "category": "auxiliaryVerb",
+      "meaning": "過去（〜た）",
+      "connection": "連用形（カ変・サ変には特殊な接続をする）",
+      "conjugation": "（せ）/ ○ / き / し / しか / ○（特殊型）",
+      "explanation": "自分が直接経験した過去を表す。連体形「し」・已然形「しか」の形で出ることが多く、副助詞「し」や過去の助動詞「き」の識別が問われる。",
+      "example": "昔、男ありけり。今は昔、竹取の翁といふ者ありき。",
+      "exampleTranslation": "昔、男がいた。今となっては昔のこと、竹取の翁という者がいた。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 70
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_KERI",
+      "title": "けり",
+      "category": "auxiliaryVerb",
+      "meaning": "過去・詠嘆（〜た・〜だなあ）",
+      "connection": "連用形",
+      "conjugation": "（けら）/ ○ / けり / ける / けれ / ○（ラ変型）",
+      "explanation": "地の文では伝聞過去（人から聞いた過去）、会話文・和歌では詠嘆になることが多い。和歌の中の「けり」はまず詠嘆を疑う。",
+      "example": "見わたせば花も紅葉もなかりけり。",
+      "exampleTranslation": "見渡すと花も紅葉もないのだなあ。",
+      "source": "新古今和歌集",
+      "isFree": true,
+      "sortOrder": 80
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_TSU",
+      "title": "つ",
+      "category": "auxiliaryVerb",
+      "meaning": "完了・強意（〜てしまう・きっと〜）",
+      "connection": "連用形",
+      "conjugation": "て / て / つ / つる / つれ / てよ（下二段型）",
+      "explanation": "下に推量の助動詞（む・べし・らむ）が続くときは強意で「きっと〜」と訳す（「てむ」「つべし」）。「ぬ」との使い分けは、意志的な動作には「つ」、自然に起こる動作には「ぬ」が付きやすい。",
+      "example": "この一矢に定むべしと思へ。よくよく射つべし。",
+      "exampleTranslation": "この一本で決めようと思え。きっとうまく射るはずだ。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 90
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_NU",
+      "title": "ぬ",
+      "category": "auxiliaryVerb",
+      "meaning": "完了・強意（〜てしまった・きっと〜）",
+      "connection": "連用形",
+      "conjugation": "な / に / ぬ / ぬる / ぬれ / ね（ナ変型）",
+      "explanation": "下に推量が続けば強意（「なむ」「ぬべし」）。打消の「ず」の連体形「ぬ」と同形なので、接続で切り分ける（完了は連用形、打消は未然形に付く）。",
+      "example": "花散りぬ。",
+      "exampleTranslation": "花が散ってしまった。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 100
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_TARI_RI",
+      "title": "たり・り",
+      "category": "auxiliaryVerb",
+      "meaning": "完了・存続（〜た・〜ている）",
+      "connection": "「たり」は連用形。「り」はサ変の未然形・四段の已然形（サ未四已）",
+      "conjugation": "たら / たり / たり / たる / たれ / たれ（ラ変型）",
+      "explanation": "「り」の接続は「サ未四已（さみしい）」と覚える。存続「〜ている」と訳せるかをまず試し、訳せなければ完了にする。",
+      "example": "咲ける花を見る。",
+      "exampleTranslation": "咲いている花を見る。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 110
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_KEMU",
+      "title": "けむ",
+      "category": "auxiliaryVerb",
+      "meaning": "過去推量・過去の原因推量・過去の伝聞婉曲",
+      "connection": "連用形",
+      "conjugation": "○ / ○ / けむ / けむ / けめ / ○（四段型）",
+      "explanation": "「む」に過去の意味が加わったもの。疑問語（など・いかに）とともに使われれば過去の原因推量、連体形で体言に続けば過去の伝聞・婉曲。",
+      "example": "などて泣きけむ。",
+      "exampleTranslation": "どうして泣いたのだろう。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 120
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_RAMU",
+      "title": "らむ",
+      "category": "auxiliaryVerb",
+      "meaning": "現在推量・現在の原因推量・伝聞婉曲",
+      "connection": "終止形（ラ変型には連体形）",
+      "conjugation": "○ / ○ / らむ / らむ / らめ / ○（四段型）",
+      "explanation": "目の前にないことを推量する。「今ごろ〜しているだろう」が基本。疑問語を伴えば「どうして〜なのだろう」という原因推量になる。",
+      "example": "久方の光のどけき春の日にしづ心なく花の散るらむ。",
+      "exampleTranslation": "日の光がのどかな春の日に、どうして落ち着いた心もなく花が散るのだろう。",
+      "source": "古今和歌集",
+      "isFree": true,
+      "sortOrder": 130
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_BESHI",
+      "title": "べし",
+      "category": "auxiliaryVerb",
+      "meaning": "推量・意志・可能・当然・命令・適当",
+      "connection": "終止形（ラ変型には連体形）",
+      "conjugation": "（べから）/ べく・べかり / べし / べき・べかる / べけれ / ○（形容詞型）",
+      "explanation": "意味が六つあり「スイカとめて（推量・意志・可能・当然・命令・適当）」と覚える。主語が一人称なら意志、二人称なら命令・適当、三人称なら推量が基本。",
+      "example": "羽なければ空をも飛ぶべからず。",
+      "exampleTranslation": "羽がないので空を飛ぶこともできない。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 140
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_MAJI",
+      "title": "まじ",
+      "category": "auxiliaryVerb",
+      "meaning": "打消推量・打消意志・不可能・打消当然・禁止",
+      "connection": "終止形（ラ変型には連体形）",
+      "conjugation": "（まじから）/ まじく・まじかり / まじ / まじき・まじかる / まじけれ / ○（形容詞型）",
+      "explanation": "「べし」の打消。意味の対応もそのまま裏返しになるので、「べし」の六つを覚えていれば同時に片づく。",
+      "example": "人に語るまじきことなり。",
+      "exampleTranslation": "人に語ってはならないことである。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 150
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_MERI",
+      "title": "めり",
+      "category": "auxiliaryVerb",
+      "meaning": "推定・婉曲（〜ようだ・〜ように見える）",
+      "connection": "終止形（ラ変型には連体形）",
+      "conjugation": "○ / めり / めり / める / めれ / ○（ラ変型）",
+      "explanation": "目で見たことにもとづく推定。断定を避ける婉曲としても使う。音（聴覚）にもとづく「なり」（推定）と対になる。",
+      "example": "秋来ぬと目にはさやかに見えねども、風の音にぞおどろかれぬる。花も散りぬめり。",
+      "exampleTranslation": "秋が来たと目にははっきり見えないけれど、風の音で自然と気づいた。花も散ってしまったようだ。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 160
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_RASHI",
+      "title": "らし",
+      "category": "auxiliaryVerb",
+      "meaning": "推定（〜らしい）",
+      "connection": "終止形（ラ変型には連体形）",
+      "conjugation": "○ / ○ / らし / らし / らし / ○（無変化型）",
+      "explanation": "根拠のある推定。上代・和歌に多く、散文ではまれ。活用しないので位置で判断する。",
+      "example": "春過ぎて夏来たるらし。",
+      "exampleTranslation": "春が過ぎて夏が来たらしい。",
+      "source": "万葉集",
+      "isFree": true,
+      "sortOrder": 170
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_NARI_DENBUN",
+      "title": "なり（伝聞・推定）",
+      "category": "auxiliaryVerb",
+      "meaning": "伝聞・推定（〜そうだ・〜ようだ）",
+      "connection": "終止形（ラ変型には連体形）",
+      "conjugation": "○ / なり / なり / なる / なれ / ○（ラ変型）",
+      "explanation": "音・声を根拠にする点が視覚の「めり」との違い。断定の「なり」とは接続で見分ける（伝聞推定は終止形、断定は連体形・体言に付く）。",
+      "example": "男もすなる日記といふものを、女もしてみむとてするなり。",
+      "exampleTranslation": "男も書くという日記というものを、女も書いてみようと思って書くのである。",
+      "source": "土佐日記",
+      "isFree": true,
+      "sortOrder": 180
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_NARI_DANTEI",
+      "title": "なり（断定）",
+      "category": "auxiliaryVerb",
+      "meaning": "断定・存在（〜である・〜にある）",
+      "connection": "体言・連体形（一部の助詞にも付く）",
+      "conjugation": "なら / なり・に / なり / なる / なれ / なれ（ナリ活用型）",
+      "explanation": "連用形「に」の識別が入試頻出。「に」＋「あり」「侍り」「おはす」の形なら断定と判断できる。",
+      "example": "これは烏なり。",
+      "exampleTranslation": "これは烏である。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 190
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_TARI_DANTEI",
+      "title": "たり（断定）",
+      "category": "auxiliaryVerb",
+      "meaning": "断定（〜である）",
+      "connection": "体言",
+      "conjugation": "たら / たり・と / たり / たる / たれ / たれ（タリ活用型）",
+      "explanation": "身分・資格を示す場合に使い、漢文訓読体に多い。完了の「たり」とは接続で見分ける（断定は体言、完了は連用形）。",
+      "example": "天下の将軍たり。",
+      "exampleTranslation": "天下の将軍である。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 200
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_GOTOSHI",
+      "title": "ごとし",
+      "category": "auxiliaryVerb",
+      "meaning": "比況・例示（〜のようだ）",
+      "connection": "体言・連体形＋「の」「が」",
+      "conjugation": "○ / ごとく / ごとし / ごとき / ○ / ○（形容詞型）",
+      "explanation": "「〜のごとし」の形で使う。已然形・命令形が無いので、「ごとけれ」のような形は現れない。",
+      "example": "月日は百代の過客にして、行きかふ年もまた旅人のごとし。",
+      "exampleTranslation": "月日は永遠の旅人であって、来ては去る年もまた旅人のようなものだ。",
+      "source": "おくのほそ道",
+      "isFree": true,
+      "sortOrder": 210
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_TASHI",
+      "title": "たし",
+      "category": "auxiliaryVerb",
+      "meaning": "願望（〜たい）",
+      "connection": "連用形",
+      "conjugation": "（たから）/ たく・たかり / たし / たき・たかる / たけれ / ○（形容詞型）",
+      "explanation": "「まほし」と意味は同じで、中世以降に増える。未然形接続の「まほし」との違いは接続だけ。",
+      "example": "今一度、都を見たし。",
+      "exampleTranslation": "もう一度、都を見たい。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 220
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_YU_RAYU",
+      "title": "ゆ・らゆ",
+      "category": "auxiliaryVerb",
+      "meaning": "受身・可能・自発（上代語）",
+      "connection": "未然形",
+      "conjugation": "え / え / ゆ / ゆる / ゆれ / ○（下二段型）",
+      "explanation": "「る・らる」の古い形で、上代（万葉集の時代）に用いる。「思ほゆ」「聞こゆ」のように動詞の一部として残った形で目にすることが多い。",
+      "example": "秋風に山の木の葉のうつろへば人の心も思ほゆるかも。",
+      "exampleTranslation": "秋風で山の木の葉が色づくと、人の心の移ろいも自然と思われることだ。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 230
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_SU_JODAI",
+      "title": "す（上代の尊敬）",
+      "category": "auxiliaryVerb",
+      "meaning": "尊敬（〜なさる）",
+      "connection": "未然形",
+      "conjugation": "○ / し / す / す / せ / ○（四段型）",
+      "explanation": "上代の尊敬の助動詞。「聞かす」「思はす」の形で現れる。使役の「す」（下二段型）とは活用が違うので、下に続く語形で見分ける。",
+      "example": "大君の命かしこみ聞こしをす。",
+      "exampleTranslation": "天皇の御命令を恐れ多く思ってお聞きになる。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 240
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_MAHOSHI_NEG",
+      "title": "まほしからず・まじく",
+      "category": "auxiliaryVerb",
+      "meaning": "願望・打消推量の連用形の用法",
+      "connection": "（「まほし」「まじ」の活用形）",
+      "conjugation": "形容詞型の活用に準じる",
+      "explanation": "助動詞は連用形で下の語に続くとき、意味が薄れて副詞的に働くことがある。「あるまじく」「見まほしく」などの形で読解に現れるので、活用表の連用形を確実にしておく。",
+      "example": "見まほしく思へど、え見ず。",
+      "exampleTranslation": "見たいと思うが、見ることができない。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 250
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_NAMU_MIZEN",
+      "title": "なむ（願望の終助詞との識別）",
+      "category": "auxiliaryVerb",
+      "meaning": "完了「ぬ」＋推量「む」との識別",
+      "connection": "（未然形＋なむ／連用形＋なむ）",
+      "conjugation": "",
+      "explanation": "「なむ」には四種類ある。①未然形＋なむ＝他への願望の終助詞（〜てほしい）②連用形＋なむ＝完了「ぬ」の未然形＋推量「む」（きっと〜だろう）③係助詞の「なむ」（強意。結びは連体形）④ナ変動詞の未然形＋「む」。接続で切り分ける。",
+      "example": "いつしか梅咲かなむ。",
+      "exampleTranslation": "早く梅が咲いてほしい。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 260
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_NARI_IDENTIFY",
+      "title": "「なり」の識別",
+      "category": "auxiliaryVerb",
+      "meaning": "断定・伝聞推定・動詞・形容動詞の語尾",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "①体言・連体形に付けば断定②終止形に付けば伝聞推定③「〜になる」と訳せれば動詞「なる」④「〜なり」で一語の形容動詞（静かなり等）の語尾。接続を見るのが最短の手順。",
+      "example": "男もすなる日記。これは女のするなり。",
+      "exampleTranslation": "男も書くという日記。これは女が書くのである。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 270
+    },
+    {
+      "grammarId": "KOBUN_G_JODOSHI_NU_NE_IDENTIFY",
+      "title": "「ぬ」「ね」の識別",
+      "category": "auxiliaryVerb",
+      "meaning": "完了と打消の見分け",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "「ぬ」…終止形なら完了（連用形接続）、連体形なら打消（未然形接続）。「ね」…命令形なら完了、已然形なら打消。上に付く語の活用形を見れば必ず決まる。",
+      "example": "花散りぬ。花散らぬ枝もあり。",
+      "exampleTranslation": "花が散ってしまった。花が散らない枝もある。",
+      "source": "",
+      "isFree": true,
+      "sortOrder": 280
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_ZO",
+      "title": "ぞ",
+      "category": "particle",
+      "meaning": "係助詞。強意（結びは連体形）",
+      "connection": "種々の語に付く",
+      "conjugation": "",
+      "explanation": "文中にあると文末が連体形で結ばれる（係り結び）。訳に強く出す必要はないが、結びの活用形を問う問題で必ず狙われる。",
+      "example": "月ぞ明かき。",
+      "exampleTranslation": "月が明るい。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 290
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_NAMU_KAKARI",
+      "title": "なむ（係助詞）",
+      "category": "particle",
+      "meaning": "係助詞。強意（結びは連体形）",
+      "connection": "種々の語に付く",
+      "conjugation": "",
+      "explanation": "「ぞ」より柔らかい強調。未然形に付く願望の終助詞「なむ」と紛らわしいので、上の語の活用形を確認する。",
+      "example": "この花なむ、いとめでたき。",
+      "exampleTranslation": "この花が、たいそうすばらしい。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 300
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_YA",
+      "title": "や",
+      "category": "particle",
+      "meaning": "係助詞。疑問・反語（結びは連体形）",
+      "connection": "種々の語に付く",
+      "conjugation": "",
+      "explanation": "疑問か反語かは文脈で決まる。反語なら「〜だろうか、いや〜ない」と訳す。文末の「や」は終助詞（詠嘆・呼びかけ）。",
+      "example": "世を知る人やある。",
+      "exampleTranslation": "世を知る人がいるだろうか。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 310
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_KA",
+      "title": "か",
+      "category": "particle",
+      "meaning": "係助詞。疑問・反語（結びは連体形）",
+      "connection": "種々の語に付く",
+      "conjugation": "",
+      "explanation": "「や」とほぼ同じ働き。「〜かは」の形は反語になることが多い。",
+      "example": "いづれの山か天に近き。",
+      "exampleTranslation": "どの山が天に近いのか。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 320
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_KOSO",
+      "title": "こそ",
+      "category": "particle",
+      "meaning": "係助詞。強意（結びは已然形）",
+      "connection": "種々の語に付く",
+      "conjugation": "",
+      "explanation": "唯一、結びが已然形になる係助詞。文中の「こそ〜已然形、」で文が終わらず続く場合は逆接（〜だけれども）になるので、読解で見落とさないこと。",
+      "example": "秋の夕暮こそあはれなれ。",
+      "exampleTranslation": "秋の夕暮れこそしみじみと趣深い。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 330
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_HA_MO",
+      "title": "は・も",
+      "category": "particle",
+      "meaning": "係助詞。取り立て・並列（係り結びを起こさない）",
+      "connection": "種々の語に付く",
+      "conjugation": "",
+      "explanation": "係助詞だが結びの活用形を変えない。「ぞ・なむ・や・か・こそ」と区別して覚える。",
+      "example": "花は散り、月は隠れぬ。",
+      "exampleTranslation": "花は散り、月は隠れてしまった。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 340
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_BA",
+      "title": "ば",
+      "category": "particle",
+      "meaning": "接続助詞。順接の仮定条件・確定条件",
+      "connection": "未然形＋ば＝仮定／已然形＋ば＝確定",
+      "conjugation": "",
+      "explanation": "上の活用形で意味が決まる、古文で最も重要な区別のひとつ。未然形＋ば＝「もし〜ならば」、已然形＋ば＝「〜ので／〜すると／〜するといつも」。",
+      "example": "風吹かば、舟出さじ。風吹けば、波高し。",
+      "exampleTranslation": "もし風が吹いたら、舟を出すまい。風が吹くので、波が高い。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 350
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_TOMO",
+      "title": "とも",
+      "category": "particle",
+      "meaning": "接続助詞。逆接の仮定条件（たとえ〜ても）",
+      "connection": "終止形（形容詞型は連用形）",
+      "conjugation": "",
+      "explanation": "まだ起きていないことを仮定して逆接でつなぐ。已然形＋「ど・ども」（すでに起きたことの逆接）と対にして覚える。",
+      "example": "雨降るとも、行かむ。",
+      "exampleTranslation": "たとえ雨が降っても、行こう。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 360
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_DO_DOMO",
+      "title": "ど・ども",
+      "category": "particle",
+      "meaning": "接続助詞。逆接の確定条件（〜けれども）",
+      "connection": "已然形",
+      "conjugation": "",
+      "explanation": "すでに起きていることを前提にした逆接。仮定の「とも」との違いは接続（已然形か終止形か）。",
+      "example": "呼べども、答へず。",
+      "exampleTranslation": "呼ぶけれども、答えない。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 370
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_GA_NI_WO",
+      "title": "が・に・を（接続助詞）",
+      "category": "particle",
+      "meaning": "単純接続・逆接・順接",
+      "connection": "連体形",
+      "conjugation": "",
+      "explanation": "格助詞と同形だが、活用語の連体形に付いて文をつなぐときは接続助詞。文脈で「〜が／〜ところ／〜ので」と訳し分ける。",
+      "example": "門を叩くに、答ふる人なし。",
+      "exampleTranslation": "門をたたいたところ、答える人がいない。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 380
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_DE",
+      "title": "で",
+      "category": "particle",
+      "meaning": "接続助詞。打消の接続（〜ないで）",
+      "connection": "未然形",
+      "conjugation": "",
+      "explanation": "「ず＋て」が縮まった形。「〜ずして」と同じ意味で、下に動作が続く。",
+      "example": "物も言はで、去りぬ。",
+      "exampleTranslation": "何も言わないで、去ってしまった。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 390
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_TSUTSU",
+      "title": "つつ",
+      "category": "particle",
+      "meaning": "接続助詞。反復・継続・並行",
+      "connection": "連用形",
+      "conjugation": "",
+      "explanation": "「〜ながら」「〜ては〜ては」。和歌の末尾では詠嘆的な余情を残す用法になる。",
+      "example": "夜な夜な、月を見つつ明かす。",
+      "exampleTranslation": "毎晩、月を見ながら夜を明かす。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 400
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_NAGARA",
+      "title": "ながら",
+      "category": "particle",
+      "meaning": "接続助詞。並行・逆接・そのまま",
+      "connection": "連用形・体言など",
+      "conjugation": "",
+      "explanation": "「〜ながらも」の逆接（〜けれども）と、「昔ながら」のように「そのままの状態で」の用法がある。",
+      "example": "知りながら、告げず。",
+      "exampleTranslation": "知っていながら、告げない。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 410
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_MONOWO",
+      "title": "ものを・ものの・ものから・ものゆゑ",
+      "category": "particle",
+      "meaning": "接続助詞。逆接（〜のに・〜けれども）",
+      "connection": "連体形",
+      "conjugation": "",
+      "explanation": "四つとも逆接。文末に置かれた「ものを」は詠嘆の終助詞（〜のになあ）になる。",
+      "example": "待つと言ひしものを、来ず。",
+      "exampleTranslation": "待つと言ったのに、来ない。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 420
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_DANI",
+      "title": "だに",
+      "category": "particle",
+      "meaning": "副助詞。類推・最小限の限定（せめて〜だけでも）",
+      "connection": "種々の語に付く",
+      "conjugation": "",
+      "explanation": "下に希望・命令・意志が来れば「せめて〜だけでも」、そうでなければ「〜さえ」の類推。「すら」は類推のみ、「さへ」は添加（〜までも）で、三つをまとめて区別する。",
+      "example": "一目だに見ばや。",
+      "exampleTranslation": "せめて一目だけでも見たい。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 430
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_SAHE",
+      "title": "さへ",
+      "category": "particle",
+      "meaning": "副助詞。添加（〜までも）",
+      "connection": "種々の語に付く",
+      "conjugation": "",
+      "explanation": "すでにあるものに、さらに別のものが加わる。現代語の「さえ」（＝類推）と意味がずれるので注意する。",
+      "example": "雨降り、風さへ吹きぬ。",
+      "exampleTranslation": "雨が降り、そのうえ風までも吹いた。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 440
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_SURA",
+      "title": "すら",
+      "category": "particle",
+      "meaning": "副助詞。類推（〜さえ）",
+      "connection": "種々の語に付く",
+      "conjugation": "",
+      "explanation": "極端な例を挙げて他を推し量らせる。上代・漢文訓読体に多い。",
+      "example": "聖人すら過つ。",
+      "exampleTranslation": "聖人でさえ過ちを犯す。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 450
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_NOMI_BAKARI",
+      "title": "のみ・ばかり",
+      "category": "particle",
+      "meaning": "副助詞。限定・程度",
+      "connection": "種々の語に付く",
+      "conjugation": "",
+      "explanation": "「のみ」は限定（〜だけ）。「ばかり」は程度（〜ほど）と限定の両方があり、数量に付けば程度、それ以外は文脈で決める。",
+      "example": "三日ばかりありて、帰りぬ。",
+      "exampleTranslation": "三日ほど経って、帰った。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 460
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_NADO_SHI",
+      "title": "など・し・しも",
+      "category": "particle",
+      "meaning": "副助詞。例示・強意",
+      "connection": "種々の語に付く",
+      "conjugation": "",
+      "explanation": "「し」「しも」は強意で訳出しなくてよいことが多いが、過去の助動詞「き」の連体形「し」と紛らわしい。上が連用形なら過去、そうでなければ副助詞と考える。",
+      "example": "などか参らざりし。",
+      "exampleTranslation": "どうして参上しなかったのか。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 470
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_BAYA",
+      "title": "ばや",
+      "category": "particle",
+      "meaning": "終助詞。自己の願望（〜たい）",
+      "connection": "未然形",
+      "conjugation": "",
+      "explanation": "自分がしたいことを表す。他人への願望「なむ」、実現しにくい願望「がな・もがな」とセットで覚えると混乱しない。",
+      "example": "今一度、都を見ばや。",
+      "exampleTranslation": "もう一度、都を見たい。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 480
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_NAMU_SHU",
+      "title": "なむ（終助詞）",
+      "category": "particle",
+      "meaning": "終助詞。他への願望（〜てほしい）",
+      "connection": "未然形",
+      "conjugation": "",
+      "explanation": "未然形に付く点が決め手。連用形に付けば完了＋推量、体言などに付けば係助詞。",
+      "example": "はや花咲かなむ。",
+      "exampleTranslation": "早く花が咲いてほしい。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 490
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_GANA",
+      "title": "がな・もがな",
+      "category": "particle",
+      "meaning": "終助詞。願望（〜があればなあ）",
+      "connection": "体言・形容詞の連用形など",
+      "conjugation": "",
+      "explanation": "実現が難しいことへの願望で、詠嘆を伴う。和歌に多い。",
+      "example": "世の中にたえて桜のなかりせば春の心はのどけからまし。散らぬ花もがな。",
+      "exampleTranslation": "世の中にまったく桜がなかったら春の心はのどかだろうに。散らない花があればなあ。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 500
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_NA",
+      "title": "な・そ",
+      "category": "particle",
+      "meaning": "終助詞・副詞。禁止（〜するな）",
+      "connection": "「な」は終止形／「な〜そ」は連用形（カ変・サ変は未然形）",
+      "conjugation": "",
+      "explanation": "「な〜そ」は「な」と「そ」で動詞を挟む形で、「な」単独より柔らかい禁止になる。",
+      "example": "な忘れそ。",
+      "exampleTranslation": "忘れないでくれ。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 510
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_KASHI",
+      "title": "かし・な・か",
+      "category": "particle",
+      "meaning": "終助詞。念押し・詠嘆",
+      "connection": "文末",
+      "conjugation": "",
+      "explanation": "「かし」は念押し（〜よ、〜ね）。文末の「な」「か」「かな」は詠嘆。文中の「な」（禁止）と位置で区別する。",
+      "example": "とく行けかし。",
+      "exampleTranslation": "早く行けよ。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 520
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_NITE_SHITE",
+      "title": "にて・して",
+      "category": "particle",
+      "meaning": "格助詞。場所・手段・原因・使役の対象",
+      "connection": "体言・連体形",
+      "conjugation": "",
+      "explanation": "「にて」は場所・手段・原因。「して」は手段・使役の相手（〜に命じて）を表す。",
+      "example": "舟にて渡る。人して文をやる。",
+      "exampleTranslation": "舟で渡る。人に頼んで手紙を送る。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 530
+    },
+    {
+      "grammarId": "KOBUN_G_JOSHI_YORI_KARA",
+      "title": "より・から",
+      "category": "particle",
+      "meaning": "格助詞。起点・経由・手段・即時",
+      "connection": "体言・連体形",
+      "conjugation": "",
+      "explanation": "「〜するとすぐに」の即時の用法（連体形＋より）が読解で問われる。比較の「より」も同形。",
+      "example": "見るより、逃げ出しぬ。",
+      "exampleTranslation": "見るとすぐに、逃げ出した。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 540
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_KIHON",
+      "title": "敬語の三分類",
+      "category": "honorific",
+      "meaning": "尊敬・謙譲・丁寧の区別",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "尊敬語は動作をする人を高め、謙譲語は動作を受ける人を高め、丁寧語は聞き手を高める。古文では主語が省略されるため、どの敬語が使われているかが主語を特定する最大の手がかりになる。",
+      "example": "帝、大納言に問ひ給ふ。大納言、答へ申す。",
+      "exampleTranslation": "帝が、大納言にお尋ねになる。大納言が、お答え申し上げる。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 550
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_TAMAFU4",
+      "title": "給ふ（四段・尊敬）",
+      "category": "honorific",
+      "meaning": "尊敬（〜なさる・お〜になる）",
+      "connection": "動詞の連用形／本動詞としても使う",
+      "conjugation": "は / ひ / ふ / ふ / へ / へ（四段）",
+      "explanation": "最も基本的な尊敬の補助動詞。動作をする人を高めるので、直前の動作の主語が敬うべき人だと分かる。",
+      "example": "帝、御覧じ給ふ。",
+      "exampleTranslation": "帝が、ご覧になる。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 560
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_TAMAFU2",
+      "title": "給ふ（下二段・謙譲）",
+      "category": "honorific",
+      "meaning": "謙譲・丁寧（〜ております）",
+      "connection": "「思ふ」「見る」「聞く」など知覚動詞の連用形",
+      "conjugation": "へ / へ / ○ / ふる / ふれ / ○（下二段）",
+      "explanation": "会話文の中で、話し手が自分の動作に付ける。四段の尊敬と同じ「給ふ」なので、活用形（「給ふる」「給へ」の形）と、知覚動詞に付いているかで見分ける。",
+      "example": "さ思ひ給ふる。",
+      "exampleTranslation": "そのように思っております。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 570
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_OHASU",
+      "title": "おはす・おはします",
+      "category": "honorific",
+      "meaning": "尊敬（いらっしゃる・〜ていらっしゃる）",
+      "connection": "本動詞／連用形に付く補助動詞",
+      "conjugation": "",
+      "explanation": "「あり」「行く」「来」の尊敬。「おはします」のほうが敬意が高い。",
+      "example": "宮は内におはします。",
+      "exampleTranslation": "宮は宮中にいらっしゃる。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 580
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_OHOSU",
+      "title": "仰す・のたまふ",
+      "category": "honorific",
+      "meaning": "尊敬（おっしゃる）",
+      "connection": "本動詞",
+      "conjugation": "",
+      "explanation": "「言ふ」の尊敬。「仰せらる」はさらに敬意が高い二重敬語で、天皇など最高位の人物に使う。",
+      "example": "帝、かくのたまはせけり。",
+      "exampleTranslation": "帝が、このようにおっしゃった。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 590
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_GORANZU",
+      "title": "御覧ず・聞こし召す",
+      "category": "honorific",
+      "meaning": "尊敬（ご覧になる・お聞きになる、召し上がる）",
+      "connection": "本動詞",
+      "conjugation": "",
+      "explanation": "「見る」「聞く」の尊敬。「聞こし召す」には「食ふ・飲む」の尊敬（召し上がる）の用法もある。",
+      "example": "帝、御文を御覧ず。",
+      "exampleTranslation": "帝が、お手紙をご覧になる。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 600
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_MESU",
+      "title": "召す",
+      "category": "honorific",
+      "meaning": "尊敬（お呼びになる・召し上がる・お召しになる）",
+      "connection": "本動詞",
+      "conjugation": "",
+      "explanation": "「呼ぶ」の尊敬が基本。「食ふ・飲む」「着る」「乗る」の尊敬としても使われる。",
+      "example": "人を召して、問はせ給ふ。",
+      "exampleTranslation": "人をお呼びになって、お尋ねさせなさる。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 610
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_OHOTONOGOMORU",
+      "title": "大殿籠る",
+      "category": "honorific",
+      "meaning": "尊敬（お休みになる）",
+      "connection": "本動詞",
+      "conjugation": "",
+      "explanation": "「寝（ぬ）」「大殿籠る」は貴人の就寝に使う。日常語との落差が大きいので覚えやすい。",
+      "example": "夜更けて、おほとのごもりぬ。",
+      "exampleTranslation": "夜が更けて、お休みになった。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 620
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_KIKOYU",
+      "title": "聞こゆ・聞こえさす",
+      "category": "honorific",
+      "meaning": "謙譲（申し上げる・お〜申し上げる）",
+      "connection": "本動詞／連用形に付く補助動詞",
+      "conjugation": "",
+      "explanation": "「言ふ」の謙譲。動作を受ける相手を高める。「聞こえさす」はさらに敬意が高い。「聞こゆ」には「噂される・聞こえる」という敬語でない用法もあるので文脈で判断する。",
+      "example": "宮に御文聞こえ給ふ。",
+      "exampleTranslation": "宮にお手紙を差し上げなさる。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 630
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_MAUSU",
+      "title": "申す・奏す・啓す",
+      "category": "honorific",
+      "meaning": "謙譲（申し上げる）",
+      "connection": "本動詞",
+      "conjugation": "",
+      "explanation": "「奏す」は天皇（上皇）に、「啓す」は中宮・皇太子に申し上げるときだけに使う絶対敬語。相手が誰かを特定できるので設問で狙われる。",
+      "example": "この由を帝に奏す。",
+      "exampleTranslation": "このことを帝に申し上げる。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 640
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_TATEMATSURU",
+      "title": "奉る",
+      "category": "honorific",
+      "meaning": "謙譲（差し上げる・お〜申し上げる）／尊敬（召し上がる・お召しになる）",
+      "connection": "本動詞／連用形に付く補助動詞",
+      "conjugation": "",
+      "explanation": "基本は謙譲だが、「食ふ・飲む・着る・乗る」の意味では尊敬になる。何を「たてまつる」のかを見て判断する。",
+      "example": "御衣をたてまつる。",
+      "exampleTranslation": "お着物を差し上げる。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 650
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_MAWIRU",
+      "title": "参る・まうづ",
+      "category": "honorific",
+      "meaning": "謙譲（参上する・差し上げる）／尊敬（召し上がる）",
+      "connection": "本動詞",
+      "conjugation": "",
+      "explanation": "「行く・来」の謙譲が基本。「参る」は「食ふ・飲む」の尊敬にもなるので、主語が敬うべき人かどうかで切り分ける。",
+      "example": "御前に参りて、候ふ。",
+      "exampleTranslation": "御前に参上して、お仕えする。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 660
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_MAKARU",
+      "title": "まかる・まかづ",
+      "category": "honorific",
+      "meaning": "謙譲（退出する・参ります）",
+      "connection": "本動詞",
+      "conjugation": "",
+      "explanation": "貴人のもとから退出する動作。「参る」と対になる。",
+      "example": "御前をまかりいづ。",
+      "exampleTranslation": "御前を退出する。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 670
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_TSUKAUMATSURU",
+      "title": "仕うまつる・つかまつる",
+      "category": "honorific",
+      "meaning": "謙譲（お仕えする・して差し上げる）",
+      "connection": "本動詞／補助動詞",
+      "conjugation": "",
+      "explanation": "「仕ふ」「す」の謙譲。補助動詞では「〜して差し上げる」。",
+      "example": "年ごろ仕うまつりけり。",
+      "exampleTranslation": "長年お仕え申し上げた。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 680
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_HABERI",
+      "title": "侍り・候ふ",
+      "category": "honorific",
+      "meaning": "丁寧（あります・ございます）／謙譲（お仕えする）",
+      "connection": "本動詞／連用形に付く補助動詞",
+      "conjugation": "",
+      "explanation": "会話文・手紙文で聞き手への敬意を表す丁寧語が基本。本動詞で「貴人のそばにお仕えする」という謙譲の用法もある。",
+      "example": "かかる事なむはべる。",
+      "exampleTranslation": "このようなことがございます。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 690
+    },
+    {
+      "grammarId": "KOBUN_G_KEIGO_NIJU",
+      "title": "二重敬語と二方面への敬意",
+      "category": "honorific",
+      "meaning": "最高敬語・敬意の方向",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "尊敬語を重ねた「〜せ給ふ」「〜させ給ふ」は天皇・中宮など最高位の人物に使う（二重敬語）。謙譲語＋尊敬語（「聞こえ給ふ」）は、動作を受ける人と動作をする人の両方を高める（二方面への敬意）。",
+      "example": "帝、御覧ぜさせ給ふ。",
+      "exampleTranslation": "帝が、ご覧になる。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 700
+    },
+    {
+      "grammarId": "KOBUN_G_OTHER_KAKARIMUSUBI",
+      "title": "係り結びの法則",
+      "category": "other",
+      "meaning": "係助詞と文末の活用形の対応",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "「ぞ・なむ・や・か」があれば文末は連体形、「こそ」があれば已然形で結ぶ。結びの語が省略される「結びの省略」、文が続いて結びが消える「結びの流れ（消滅）」も問われる。",
+      "example": "花ぞ散りける。月こそ明かけれ。",
+      "exampleTranslation": "花が散ったことよ。月が明るい。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 710
+    },
+    {
+      "grammarId": "KOBUN_G_OTHER_KOSO_GYAKUSETSU",
+      "title": "「こそ〜已然形、」の逆接",
+      "category": "other",
+      "meaning": "文中の已然形結びは逆接になる",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "「こそ」の結びの已然形で文が終わらず読点で続く場合、「〜だけれども」という逆接になる。訳し忘れると文意が反転するので、読解で最も実害の大きい規則のひとつ。",
+      "example": "命こそ惜しけれ、名を汚さじ。",
+      "exampleTranslation": "命は惜しいけれども、名を汚すまい。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 720
+    },
+    {
+      "grammarId": "KOBUN_G_OTHER_NI_IDENTIFY",
+      "title": "「に」の識別",
+      "category": "other",
+      "meaning": "断定・完了・格助詞・接続助詞・副詞の一部",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "①下に「あり・侍り・おはす」があれば断定の助動詞「なり」の連用形②下に「き・けり」があれば完了「ぬ」の連用形③体言に付けば格助詞④連体形に付いて文をつなげば接続助詞⑤「げに」「さらに」など一語の副詞の一部。",
+      "example": "静かにありけり。花散りにけり。",
+      "exampleTranslation": "静かであった。花が散ってしまった。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 730
+    },
+    {
+      "grammarId": "KOBUN_G_OTHER_NARU_IDENTIFY",
+      "title": "「なる」「なむ」「らむ」の識別",
+      "category": "other",
+      "meaning": "同形異義の切り分け",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "同じ形で複数の可能性があるものは、必ず「上に何が付いているか（接続）」から決める。この手順を固定しておくと、知らない語形が出ても機械的に処理できる。",
+      "example": "花咲かなむ。花咲きなむ。花なむ咲く。",
+      "exampleTranslation": "花が咲いてほしい。花がきっと咲くだろう。花が咲く。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 740
+    },
+    {
+      "grammarId": "KOBUN_G_OTHER_ONBIN",
+      "title": "音便",
+      "category": "other",
+      "meaning": "イ音便・ウ音便・撥音便・促音便",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "「書きて→書いて」（イ音便）、「白く→白う」（ウ音便）、「読みて→読んで」（撥音便）、「取りて→取って」（促音便）。撥音便の「ん」は表記されないことがあり（「あるなり」→「あんなり」→「あなり」）、伝聞推定の「なり」を見落とす原因になる。",
+      "example": "白う咲きたる花。",
+      "exampleTranslation": "白く咲いている花。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 750
+    },
+    {
+      "grammarId": "KOBUN_G_OTHER_DOSHI_KATSUYO",
+      "title": "動詞の活用の種類",
+      "category": "other",
+      "meaning": "九種類の活用と見分け方",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "四段・上一段・上二段・下一段・下二段・カ変・サ変・ナ変・ラ変の九種類。「ず」を付けて直前の母音を見るのが基本（ア段＝四段、イ段＝上二段、エ段＝下二段）。変格活用は該当語が少ないので、語を丸ごと覚えてしまうのが早い。",
+      "example": "書かず（四段）／過ぎず（上二段）／受けず（下二段）",
+      "exampleTranslation": "―",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 760
+    },
+    {
+      "grammarId": "KOBUN_G_OTHER_KEIYOSHI",
+      "title": "形容詞・形容動詞の活用",
+      "category": "other",
+      "meaning": "ク活用・シク活用・ナリ活用・タリ活用",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "形容詞はク活用とシク活用（「〜しく」となるものがシク活用）。本活用のほかに、助動詞が付くための補助活用（カリ活用）がある。形容動詞はナリ活用とタリ活用で、タリ活用は漢文訓読体に多い。",
+      "example": "うれしかりけり。静かなりけり。",
+      "exampleTranslation": "うれしかった。静かであった。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 770
+    },
+    {
+      "grammarId": "KOBUN_G_OTHER_RAHEN",
+      "title": "ラ変型に連なる語の接続",
+      "category": "other",
+      "meaning": "終止形接続の助動詞がラ変型には連体形に付く",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "「べし・らむ・めり・なり（伝聞推定）・まじ・らし」は終止形接続だが、ラ変型（あり・をり・侍り・いまそかり、および形容詞のカリ活用・形容動詞）には連体形に付く。「あるべし」「あんなり」の形になるのはこのため。",
+      "example": "花あるべし。",
+      "exampleTranslation": "花があるだろう。",
+      "source": "",
+      "isFree": false,
+      "sortOrder": 780
+    },
+    {
+      "grammarId": "KOBUN_G_OTHER_WAKA_SHUJI",
+      "title": "和歌の修辞",
+      "category": "other",
+      "meaning": "枕詞・序詞・掛詞・縁語・本歌取り",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "枕詞は決まった語を導く五音の飾り（訳さない）。序詞はその歌だけの導入で訳す。掛詞は同音に二つの意味を重ねる技法で、設問では「二つの意味を両方訳す」ことが求められる。",
+      "example": "花の色はうつりにけりないたづらにわが身世にふるながめせしまに",
+      "exampleTranslation": "桜の色はあせてしまったなあ、むなしく、私が世を過ごし物思いにふけっていた間に（「ふる」＝経る・降る、「ながめ」＝眺め・長雨の掛詞）",
+      "source": "古今和歌集",
+      "isFree": false,
+      "sortOrder": 790
+    },
+    {
+      "grammarId": "KOBUN_G_OTHER_JIDAI",
+      "title": "文学史の基礎",
+      "category": "other",
+      "meaning": "主要作品と成立時代",
+      "connection": "",
+      "conjugation": "",
+      "explanation": "作品名・ジャンル・成立時代の対応は設問で直接問われる。竹取物語（現存最古の物語）、土佐日記（紀貫之・最初の仮名日記）、枕草子（清少納言・随筆）、源氏物語（紫式部）、方丈記（鴨長明）、徒然草（兼好法師）、おくのほそ道（松尾芭蕉・近世）。",
+      "example": "つれづれなるままに、日暮らし硯に向かひて",
+      "exampleTranslation": "することもなく退屈なのにまかせて、一日中硯に向かって",
+      "source": "徒然草",
+      "isFree": false,
+      "sortOrder": 800
+    }
+  ],
+  "grammarQuiz": [
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_RU_01",
+      "grammarId": "KOBUN_G_JODOSHI_RU",
+      "question": "「故郷、限りなく思ひ出でらる」の「らる」の意味として最も適切なものはどれか。",
+      "choices": [
+        "可能",
+        "尊敬",
+        "受身",
+        "自発"
+      ],
+      "answerIndex": 3,
+      "explanation": "「思ひ出づ」は心情を表す動詞。心情の語に付く「る・らる」は自発（自然と〜される）になる。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_RU_02",
+      "grammarId": "KOBUN_G_JODOSHI_RU",
+      "question": "「人に笑はる」の「る」の意味はどれか。",
+      "choices": [
+        "可能",
+        "自発",
+        "尊敬",
+        "受身"
+      ],
+      "answerIndex": 3,
+      "explanation": "「人に」という動作主が示されている。動作主が「〜に」で示されていれば受身と確定できる。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_RU_03",
+      "grammarId": "KOBUN_G_JODOSHI_RU",
+      "question": "「え行かれず」の「れ」の意味はどれか。",
+      "choices": [
+        "尊敬",
+        "可能",
+        "自発",
+        "受身"
+      ],
+      "answerIndex": 1,
+      "explanation": "下に打消の「ず」があり、上に不可能の副詞「え」がある。中古の可能は打消を伴うのが原則。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_RU_04",
+      "grammarId": "KOBUN_G_JODOSHI_RU",
+      "question": "「る・らる」の接続として正しいものはどれか。",
+      "choices": [
+        "連用形",
+        "終止形",
+        "未然形",
+        "体言"
+      ],
+      "answerIndex": 2,
+      "explanation": "「る・らる」はともに未然形接続。四段・ナ変・ラ変には「る」、それ以外には「らる」が付く。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_SU_01",
+      "grammarId": "KOBUN_G_JODOSHI_SU",
+      "question": "「大納言に歌よませ給ふ」の「せ」の意味はどれか。",
+      "choices": [
+        "受身",
+        "使役",
+        "尊敬",
+        "自発"
+      ],
+      "answerIndex": 1,
+      "explanation": "「大納言に」と動作をさせる相手が示されているので使役。下に「給ふ」があっても、使役の対象が明示されていれば使役と判断する。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_SU_02",
+      "grammarId": "KOBUN_G_JODOSHI_SU",
+      "question": "「す・さす」が尊敬の意味になるのはどのような場合か。",
+      "choices": [
+        "下に「給ふ」など別の尊敬語が続くとき",
+        "上に「え」があるとき",
+        "下に打消が続くとき",
+        "和歌の中で使われるとき"
+      ],
+      "answerIndex": 0,
+      "explanation": "尊敬語を重ねた二重敬語の形（〜せ給ふ・〜させ給ふ）のときに尊敬になる。それ以外は使役。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_SU_03",
+      "grammarId": "KOBUN_G_JODOSHI_SU",
+      "question": "「しむ」が特に多く用いられる文体はどれか。",
+      "choices": [
+        "漢文訓読体",
+        "和歌",
+        "仮名日記",
+        "会話文"
+      ],
+      "answerIndex": 0,
+      "explanation": "「しむ」は「す・さす」と同じ使役・尊敬の助動詞だが、漢文訓読体に多く現れる。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_ZU_01",
+      "grammarId": "KOBUN_G_JODOSHI_ZU",
+      "question": "「花咲かぬ枝」の「ぬ」の説明として正しいものはどれか。",
+      "choices": [
+        "ナ変動詞の活用語尾",
+        "打消の助動詞「ず」の連体形",
+        "断定の助動詞「なり」の一部",
+        "完了の助動詞「ぬ」の終止形"
+      ],
+      "answerIndex": 1,
+      "explanation": "上の「咲か」は未然形。未然形に付く「ぬ」は打消「ず」の連体形で、下に体言が続く。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_ZU_02",
+      "grammarId": "KOBUN_G_JODOSHI_ZU",
+      "question": "「花散りぬ」の「ぬ」の説明として正しいものはどれか。",
+      "choices": [
+        "打消の助動詞「ず」の連体形",
+        "打消の助動詞「ず」の已然形",
+        "格助詞",
+        "完了の助動詞「ぬ」の終止形"
+      ],
+      "answerIndex": 3,
+      "explanation": "上の「散り」は連用形。連用形に付く「ぬ」は完了で、ここでは終止形。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_ZU_03",
+      "grammarId": "KOBUN_G_JODOSHI_ZU",
+      "question": "「呼べど答へね」の「ね」の説明として正しいものはどれか。",
+      "choices": [
+        "完了の助動詞「ぬ」の命令形",
+        "希望の終助詞",
+        "打消の助動詞「ず」の已然形",
+        "ナ変動詞の活用語尾"
+      ],
+      "answerIndex": 2,
+      "explanation": "上の「答へ」は未然形。未然形に付く「ね」は打消「ず」の已然形。完了の「ね」なら命令形で連用形に付く。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_MU_01",
+      "grammarId": "KOBUN_G_JODOSHI_MU",
+      "question": "「われこそ行かめ」の「め」の意味はどれか。",
+      "choices": [
+        "意志",
+        "推量",
+        "婉曲",
+        "勧誘"
+      ],
+      "answerIndex": 0,
+      "explanation": "主語が一人称（われ）なので意志。「む」の意味は主語の人称で見分けるのが速い。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_MU_02",
+      "grammarId": "KOBUN_G_JODOSHI_MU",
+      "question": "「君も行かむ」で主語が二人称のとき、「む」の意味として適切なものはどれか。",
+      "choices": [
+        "打消推量",
+        "勧誘・適当",
+        "意志",
+        "推量"
+      ],
+      "answerIndex": 1,
+      "explanation": "二人称が主語なら勧誘・適当（〜しませんか、〜するのがよい）。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_MU_03",
+      "grammarId": "KOBUN_G_JODOSHI_MU",
+      "question": "「行かむ人」のように「む」が連体形で体言に続くときの意味はどれか。",
+      "choices": [
+        "仮定・婉曲",
+        "命令",
+        "意志",
+        "過去"
+      ],
+      "answerIndex": 0,
+      "explanation": "文中の連体形の「む」は仮定・婉曲。「行くような人」と訳す。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_JI_01",
+      "grammarId": "KOBUN_G_JODOSHI_JI",
+      "question": "「われは行かじ」の「じ」の意味はどれか。",
+      "choices": [
+        "打消当然",
+        "打消意志",
+        "禁止",
+        "打消推量"
+      ],
+      "answerIndex": 1,
+      "explanation": "主語が一人称なので打消意志（〜まい）。それ以外の人称なら打消推量になる。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_JI_02",
+      "grammarId": "KOBUN_G_JODOSHI_JI",
+      "question": "助動詞「じ」の接続はどれか。",
+      "choices": [
+        "未然形",
+        "終止形",
+        "已然形",
+        "連用形"
+      ],
+      "answerIndex": 0,
+      "explanation": "「じ」は「む」の打消にあたる助動詞で、「む」と同じく未然形接続。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_MAHOSHI_01",
+      "grammarId": "KOBUN_G_JODOSHI_MAHOSHI",
+      "question": "「見まほし」と「見たし」の違いとして正しいものはどれか。",
+      "choices": [
+        "まほしは打消を伴う",
+        "たしは尊敬の意味を持つ",
+        "意味が正反対である",
+        "接続が違う（まほしは未然形、たしは連用形）"
+      ],
+      "answerIndex": 3,
+      "explanation": "どちらも願望（〜たい）で意味は同じ。「まほし」は未然形接続、「たし」は連用形接続。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_MAHOSHI_02",
+      "grammarId": "KOBUN_G_JODOSHI_MAHOSHI",
+      "question": "「まほし」の活用の型はどれか。",
+      "choices": [
+        "形容詞型",
+        "無変化型",
+        "動詞型",
+        "ラ変型"
+      ],
+      "answerIndex": 0,
+      "explanation": "「まほし」は形容詞型に活用する（まほしく・まほしき・まほしけれ）。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_KI_01",
+      "grammarId": "KOBUN_G_JODOSHI_KI",
+      "question": "助動詞「き」の連体形はどれか。",
+      "choices": [
+        "せ",
+        "し",
+        "き",
+        "しか"
+      ],
+      "answerIndex": 1,
+      "explanation": "「き」の活用は（せ）／○／き／し／しか／○。連体形は「し」、已然形は「しか」。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_KI_02",
+      "grammarId": "KOBUN_G_JODOSHI_KI",
+      "question": "「き」が表す過去はどのような過去か。",
+      "choices": [
+        "未来に対する過去",
+        "話し手が直接経験した過去",
+        "遠い神話の時代の過去",
+        "人から伝え聞いた過去"
+      ],
+      "answerIndex": 1,
+      "explanation": "「き」は直接経験した過去、「けり」は伝え聞いた過去（伝聞過去）を表すのが基本。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_KERI_01",
+      "grammarId": "KOBUN_G_JODOSHI_KERI",
+      "question": "和歌の中の「けり」に多い意味はどれか。",
+      "choices": [
+        "伝聞過去",
+        "推量",
+        "詠嘆",
+        "完了"
+      ],
+      "answerIndex": 2,
+      "explanation": "地の文の「けり」は伝聞過去だが、和歌や会話文では詠嘆（〜だなあ）になることが多い。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_KERI_02",
+      "grammarId": "KOBUN_G_JODOSHI_KERI",
+      "question": "「けり」の活用の型はどれか。",
+      "choices": [
+        "形容詞型",
+        "四段型",
+        "ナ変型",
+        "ラ変型"
+      ],
+      "answerIndex": 3,
+      "explanation": "「けり」は（けら）／○／けり／ける／けれ／○とラ変型に活用する。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_TSU_01",
+      "grammarId": "KOBUN_G_JODOSHI_TSU",
+      "question": "「つべし」の「つ」の意味はどれか。",
+      "choices": [
+        "完了",
+        "存続",
+        "打消",
+        "強意"
+      ],
+      "answerIndex": 3,
+      "explanation": "下に推量の助動詞が続くとき、「つ」「ぬ」は強意になり「きっと〜」と訳す。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_TSU_02",
+      "grammarId": "KOBUN_G_JODOSHI_TSU",
+      "question": "助動詞「つ」の命令形はどれか。",
+      "choices": [
+        "て",
+        "つれ",
+        "つる",
+        "てよ"
+      ],
+      "answerIndex": 3,
+      "explanation": "「つ」は下二段型（て／て／つ／つる／つれ／てよ）。命令形は「てよ」。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_NU_01",
+      "grammarId": "KOBUN_G_JODOSHI_NU",
+      "question": "「ぬべし」の「ぬ」の意味はどれか。",
+      "choices": [
+        "強意",
+        "完了",
+        "受身",
+        "打消"
+      ],
+      "answerIndex": 0,
+      "explanation": "推量の助動詞が下に続く「ぬべし」「なむ」の「ぬ」は強意。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_NU_02",
+      "grammarId": "KOBUN_G_JODOSHI_NU",
+      "question": "助動詞「ぬ」の活用の型はどれか。",
+      "choices": [
+        "ナ変型",
+        "ラ変型",
+        "下二段型",
+        "四段型"
+      ],
+      "answerIndex": 0,
+      "explanation": "「ぬ」は な／に／ぬ／ぬる／ぬれ／ね とナ変型に活用する。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_TARI_RI_01",
+      "grammarId": "KOBUN_G_JODOSHI_TARI_RI",
+      "question": "助動詞「り」の接続を正しく述べたものはどれか。",
+      "choices": [
+        "サ変の未然形と四段の已然形",
+        "体言と連体形",
+        "サ変の連用形と四段の未然形",
+        "すべての動詞の連用形"
+      ],
+      "answerIndex": 0,
+      "explanation": "「サ未四已（さみしい）」と覚える。「り」はサ変の未然形・四段の已然形に付く。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_TARI_RI_02",
+      "grammarId": "KOBUN_G_JODOSHI_TARI_RI",
+      "question": "「咲ける花」の「る」の意味として最も適切なものはどれか。",
+      "choices": [
+        "打消",
+        "存続",
+        "可能",
+        "受身"
+      ],
+      "answerIndex": 1,
+      "explanation": "「咲け」は四段已然形で、付いているのは完了・存続の「り」。「咲いている花」と訳せるので存続。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_KEMU_01",
+      "grammarId": "KOBUN_G_JODOSHI_KEMU",
+      "question": "「などて泣きけむ」の「けむ」の意味はどれか。",
+      "choices": [
+        "打消推量",
+        "過去の意志",
+        "現在推量",
+        "過去の原因推量"
+      ],
+      "answerIndex": 3,
+      "explanation": "疑問語「などて」を伴うので過去の原因推量（どうして〜したのだろう）。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_KEMU_02",
+      "grammarId": "KOBUN_G_JODOSHI_KEMU",
+      "question": "助動詞「けむ」の接続はどれか。",
+      "choices": [
+        "未然形",
+        "体言",
+        "終止形",
+        "連用形"
+      ],
+      "answerIndex": 3,
+      "explanation": "「けむ」は連用形接続。終止形接続の「らむ」と対にして覚える。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_RAMU_01",
+      "grammarId": "KOBUN_G_JODOSHI_RAMU",
+      "question": "助動詞「らむ」の接続はどれか。",
+      "choices": [
+        "連用形",
+        "已然形",
+        "終止形（ラ変型には連体形）",
+        "未然形"
+      ],
+      "answerIndex": 2,
+      "explanation": "「らむ」は終止形接続。連用形接続の「けむ」と混同しないこと。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_RAMU_02",
+      "grammarId": "KOBUN_G_JODOSHI_RAMU",
+      "question": "「しづ心なく花の散るらむ」の「らむ」の意味として最も適切なものはどれか。",
+      "choices": [
+        "過去推量",
+        "現在の原因推量",
+        "意志",
+        "打消推量"
+      ],
+      "answerIndex": 1,
+      "explanation": "「どうして散るのだろう」と原因を推し量っている。目の前の事態の原因を推量する用法。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_BESHI_01",
+      "grammarId": "KOBUN_G_JODOSHI_BESHI",
+      "question": "助動詞「べし」の意味として挙げられないものはどれか。",
+      "choices": [
+        "受身",
+        "当然",
+        "適当",
+        "可能"
+      ],
+      "answerIndex": 0,
+      "explanation": "「べし」の意味は推量・意志・可能・当然・命令・適当の六つ。受身は含まれない。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_BESHI_02",
+      "grammarId": "KOBUN_G_JODOSHI_BESHI",
+      "question": "「飛ぶべからず」の「べから」の意味として最も適切なものはどれか。",
+      "choices": [
+        "適当",
+        "可能",
+        "意志",
+        "命令"
+      ],
+      "answerIndex": 1,
+      "explanation": "打消を伴って「〜できない」の意味。「羽がないので飛べない」という文脈で可能と判断する。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_BESHI_03",
+      "grammarId": "KOBUN_G_JODOSHI_BESHI",
+      "question": "「べし」の活用の型はどれか。",
+      "choices": [
+        "ナ変型",
+        "形容詞型",
+        "ラ変型",
+        "四段型"
+      ],
+      "answerIndex": 1,
+      "explanation": "「べし」は形容詞型（べく・べき・べけれ、補助活用にべかり・べかる）。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_MAJI_01",
+      "grammarId": "KOBUN_G_JODOSHI_MAJI",
+      "question": "「人に語るまじきことなり」の「まじき」の意味として最も適切なものはどれか。",
+      "choices": [
+        "打消推量",
+        "不可能",
+        "打消意志",
+        "禁止"
+      ],
+      "answerIndex": 3,
+      "explanation": "「語ってはならない」という禁止。「まじ」は「べし」の打消で、意味も対応する。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_MAJI_02",
+      "grammarId": "KOBUN_G_JODOSHI_MAJI",
+      "question": "助動詞「まじ」の接続はどれか。",
+      "choices": [
+        "体言",
+        "未然形",
+        "終止形（ラ変型には連体形）",
+        "連用形"
+      ],
+      "answerIndex": 2,
+      "explanation": "「まじ」は「べし」と同じく終止形接続（ラ変型には連体形）。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_MERI_01",
+      "grammarId": "KOBUN_G_JODOSHI_MERI",
+      "question": "助動詞「めり」が根拠とする感覚はどれか。",
+      "choices": [
+        "視覚",
+        "触覚",
+        "嗅覚",
+        "聴覚"
+      ],
+      "answerIndex": 0,
+      "explanation": "「めり」は目で見たことにもとづく推定。聴覚にもとづくのは伝聞推定の「なり」。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_MERI_02",
+      "grammarId": "KOBUN_G_JODOSHI_MERI",
+      "question": "「めり」の活用の型はどれか。",
+      "choices": [
+        "ラ変型",
+        "無変化型",
+        "四段型",
+        "形容詞型"
+      ],
+      "answerIndex": 0,
+      "explanation": "「めり」は ○／めり／めり／める／めれ／○ とラ変型に活用する。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_RASHI_01",
+      "grammarId": "KOBUN_G_JODOSHI_RASHI",
+      "question": "助動詞「らし」の特徴として正しいものはどれか。",
+      "choices": [
+        "活用しない（無変化型）",
+        "打消の意味を持つ",
+        "形容詞型に活用する",
+        "未然形接続である"
+      ],
+      "answerIndex": 0,
+      "explanation": "「らし」は無変化型で、すべて「らし」の形。根拠のある推定を表し、上代・和歌に多い。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_NARI_DENBUN_01",
+      "grammarId": "KOBUN_G_JODOSHI_NARI_DENBUN",
+      "question": "「男もすなる日記」の「なる」の説明として正しいものはどれか。",
+      "choices": [
+        "伝聞推定の助動詞「なり」の連体形",
+        "断定の助動詞「なり」の連体形",
+        "形容動詞の活用語尾",
+        "動詞「なる」の終止形"
+      ],
+      "answerIndex": 0,
+      "explanation": "上の「す」はサ変の終止形。終止形に付く「なり」は伝聞推定。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_NARI_DENBUN_02",
+      "grammarId": "KOBUN_G_JODOSHI_NARI_DENBUN",
+      "question": "伝聞推定の「なり」が根拠とする感覚はどれか。",
+      "choices": [
+        "味覚",
+        "聴覚",
+        "視覚",
+        "触覚"
+      ],
+      "answerIndex": 1,
+      "explanation": "音・声を根拠にするのが伝聞推定の「なり」。視覚にもとづくのは「めり」。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_NARI_DANTEI_01",
+      "grammarId": "KOBUN_G_JODOSHI_NARI_DANTEI",
+      "question": "「これは烏なり」の「なり」の説明として正しいものはどれか。",
+      "choices": [
+        "形容動詞の語尾",
+        "伝聞推定の助動詞",
+        "断定の助動詞",
+        "動詞「なる」"
+      ],
+      "answerIndex": 2,
+      "explanation": "体言「烏」に付いているので断定。伝聞推定なら終止形に付く。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_NARI_DANTEI_02",
+      "grammarId": "KOBUN_G_JODOSHI_NARI_DANTEI",
+      "question": "断定の助動詞「なり」の連用形として挙げられるものはどれか。",
+      "choices": [
+        "なれ",
+        "なら",
+        "なる",
+        "に"
+      ],
+      "answerIndex": 3,
+      "explanation": "断定「なり」の活用は なら／なり・に／なり／なる／なれ／なれ。連用形に「に」がある。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_TARI_DANTEI_01",
+      "grammarId": "KOBUN_G_JODOSHI_TARI_DANTEI",
+      "question": "「天下の将軍たり」の「たり」の説明として正しいものはどれか。",
+      "choices": [
+        "断定の助動詞（体言接続）",
+        "過去の助動詞",
+        "完了の助動詞（連用形接続）",
+        "接続助詞"
+      ],
+      "answerIndex": 0,
+      "explanation": "体言「将軍」に付いているので断定。完了の「たり」なら連用形に付く。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_GOTOSHI_01",
+      "grammarId": "KOBUN_G_JODOSHI_GOTOSHI",
+      "question": "助動詞「ごとし」が持たない活用形はどれか。",
+      "choices": [
+        "已然形",
+        "連体形",
+        "連用形",
+        "終止形"
+      ],
+      "answerIndex": 0,
+      "explanation": "「ごとし」には已然形・命令形がない（○／ごとく／ごとし／ごとき／○／○）。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_TASHI_01",
+      "grammarId": "KOBUN_G_JODOSHI_TASHI",
+      "question": "助動詞「たし」の接続はどれか。",
+      "choices": [
+        "未然形",
+        "体言",
+        "連用形",
+        "終止形"
+      ],
+      "answerIndex": 2,
+      "explanation": "「たし」は連用形接続。同じ願望の「まほし」は未然形接続。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_YU_RAYU_01",
+      "grammarId": "KOBUN_G_JODOSHI_YU_RAYU",
+      "question": "助動詞「ゆ・らゆ」について正しいものはどれか。",
+      "choices": [
+        "中世以降に新しく生じた",
+        "終止形接続である",
+        "「る・らる」の古い形で上代に用いる",
+        "打消の意味を持つ"
+      ],
+      "answerIndex": 2,
+      "explanation": "「ゆ・らゆ」は受身・可能・自発を表す上代語で、「る・らる」の古形にあたる。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_SU_JODAI_01",
+      "grammarId": "KOBUN_G_JODOSHI_SU_JODAI",
+      "question": "上代の尊敬の助動詞「す」と使役の「す」を見分ける手がかりはどれか。",
+      "choices": [
+        "文の長さ",
+        "和歌かどうか",
+        "活用の型（四段型か下二段型か）",
+        "接続する活用形"
+      ],
+      "answerIndex": 2,
+      "explanation": "尊敬の「す」は四段型、使役の「す」は下二段型。どちらも未然形接続なので活用形で見分ける。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_MAHOSHI_NEG_01",
+      "grammarId": "KOBUN_G_JODOSHI_MAHOSHI_NEG",
+      "question": "「見まほしく思へど」の「まほしく」の活用形はどれか。",
+      "choices": [
+        "連体形",
+        "終止形",
+        "連用形",
+        "已然形"
+      ],
+      "answerIndex": 2,
+      "explanation": "下に「思ふ」という用言が続いているので連用形。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_NAMU_MIZEN_01",
+      "grammarId": "KOBUN_G_JODOSHI_NAMU_MIZEN",
+      "question": "「いつしか花咲かなむ」の「なむ」の説明として正しいものはどれか。",
+      "choices": [
+        "ナ変動詞の一部",
+        "他への願望を表す終助詞",
+        "完了「ぬ」＋推量「む」",
+        "係助詞"
+      ],
+      "answerIndex": 1,
+      "explanation": "上の「咲か」は未然形。未然形に付く「なむ」は他への願望の終助詞（〜てほしい）。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_NAMU_MIZEN_02",
+      "grammarId": "KOBUN_G_JODOSHI_NAMU_MIZEN",
+      "question": "「花咲きなむ」の「なむ」の説明として正しいものはどれか。",
+      "choices": [
+        "完了「ぬ」の未然形＋推量「む」",
+        "格助詞",
+        "係助詞",
+        "他への願望の終助詞"
+      ],
+      "answerIndex": 0,
+      "explanation": "上の「咲き」は連用形。連用形に付く「なむ」は完了＋推量で「きっと咲くだろう」。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_NAMU_MIZEN_03",
+      "grammarId": "KOBUN_G_JODOSHI_NAMU_MIZEN",
+      "question": "「この花なむ、いとめでたき」の「なむ」の説明として正しいものはどれか。",
+      "choices": [
+        "終助詞",
+        "係助詞",
+        "完了＋推量",
+        "断定の助動詞"
+      ],
+      "answerIndex": 1,
+      "explanation": "体言「花」に付き、文末が連体形「めでたき」で結ばれている。係り結びを起こす係助詞。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_NARI_IDENTIFY_01",
+      "grammarId": "KOBUN_G_JODOSHI_NARI_IDENTIFY",
+      "question": "「なり」の識別で最初に確認すべきものはどれか。",
+      "choices": [
+        "文の長さ",
+        "和歌かどうか",
+        "上の語の活用形（接続）",
+        "作品の成立年代"
+      ],
+      "answerIndex": 2,
+      "explanation": "体言・連体形に付けば断定、終止形に付けば伝聞推定。接続を見るのが最短の手順。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JODOSHI_NU_NE_IDENTIFY_01",
+      "grammarId": "KOBUN_G_JODOSHI_NU_NE_IDENTIFY",
+      "question": "「ぬ」が完了の助動詞であると判断できるのはどのような場合か。",
+      "choices": [
+        "下に体言が続くとき",
+        "上が連用形のとき",
+        "文中にあるとき",
+        "上が未然形のとき"
+      ],
+      "answerIndex": 1,
+      "explanation": "完了の「ぬ」は連用形接続、打消の「ぬ」（「ず」の連体形）は未然形接続。",
+      "isFree": true
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_ZO_01",
+      "grammarId": "KOBUN_G_JOSHI_ZO",
+      "question": "係助詞「ぞ」があるとき、文末の活用形はどうなるか。",
+      "choices": [
+        "已然形",
+        "連体形",
+        "終止形",
+        "未然形"
+      ],
+      "answerIndex": 1,
+      "explanation": "「ぞ・なむ・や・か」は連体形で結ぶ。已然形で結ぶのは「こそ」だけ。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_ZO_02",
+      "grammarId": "KOBUN_G_JOSHI_ZO",
+      "question": "「花ぞ散りける」の「ける」が連体形になっている理由はどれか。",
+      "choices": [
+        "和歌だから",
+        "已然形接続だから",
+        "係助詞「ぞ」の係り結び",
+        "疑問文だから"
+      ],
+      "answerIndex": 2,
+      "explanation": "文中の「ぞ」を受けて文末が連体形で結ばれている（係り結びの法則）。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_NAMU_KAKARI_01",
+      "grammarId": "KOBUN_G_JOSHI_NAMU_KAKARI",
+      "question": "係助詞「なむ」の結びの活用形はどれか。",
+      "choices": [
+        "終止形",
+        "命令形",
+        "已然形",
+        "連体形"
+      ],
+      "answerIndex": 3,
+      "explanation": "「なむ」は「ぞ」と同じく連体形で結ぶ係助詞。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_YA_01",
+      "grammarId": "KOBUN_G_JOSHI_YA",
+      "question": "係助詞「や」が表す意味として適切なものはどれか。",
+      "choices": [
+        "疑問・反語",
+        "願望",
+        "打消",
+        "強意のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "「や」「か」は疑問・反語を表し、連体形で結ぶ。どちらになるかは文脈で決まる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_KA_01",
+      "grammarId": "KOBUN_G_JOSHI_KA",
+      "question": "「〜かは」の形が表すことが多い意味はどれか。",
+      "choices": [
+        "詠嘆",
+        "打消意志",
+        "願望",
+        "反語"
+      ],
+      "answerIndex": 3,
+      "explanation": "「かは」は反語（〜だろうか、いや〜ない）になることが多い。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_KOSO_01",
+      "grammarId": "KOBUN_G_JOSHI_KOSO",
+      "question": "係助詞「こそ」の結びの活用形はどれか。",
+      "choices": [
+        "已然形",
+        "連体形",
+        "終止形",
+        "連用形"
+      ],
+      "answerIndex": 0,
+      "explanation": "「こそ」だけが已然形で結ぶ。他の係助詞（ぞ・なむ・や・か）は連体形。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_KOSO_02",
+      "grammarId": "KOBUN_G_JOSHI_KOSO",
+      "question": "「命こそ惜しけれ、名を汚さじ」の「こそ〜けれ」が表す意味はどれか。",
+      "choices": [
+        "強意のみ",
+        "逆接（〜けれども）",
+        "順接（〜ので）",
+        "並列"
+      ],
+      "answerIndex": 1,
+      "explanation": "「こそ」の已然形結びで文が終わらず続くときは逆接になる。訳し忘れると文意が反転する。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_HA_MO_01",
+      "grammarId": "KOBUN_G_JOSHI_HA_MO",
+      "question": "係助詞のうち、係り結びを起こさないものはどれか。",
+      "choices": [
+        "は・も",
+        "ぞ・なむ",
+        "こそ",
+        "や・か"
+      ],
+      "answerIndex": 0,
+      "explanation": "「は」「も」も係助詞だが結びの活用形を変えない。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_BA_01",
+      "grammarId": "KOBUN_G_JOSHI_BA",
+      "question": "「風吹かば」の「ば」が表す意味はどれか。",
+      "choices": [
+        "順接の確定条件（〜ので）",
+        "逆接の確定条件",
+        "順接の仮定条件（もし〜ならば）",
+        "逆接の仮定条件"
+      ],
+      "answerIndex": 2,
+      "explanation": "「吹か」は未然形。未然形＋「ば」は仮定条件。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_BA_02",
+      "grammarId": "KOBUN_G_JOSHI_BA",
+      "question": "「風吹けば」の「ば」が表す意味はどれか。",
+      "choices": [
+        "順接の仮定条件（もし〜ならば）",
+        "逆接の仮定条件",
+        "禁止",
+        "順接の確定条件（〜ので）"
+      ],
+      "answerIndex": 3,
+      "explanation": "「吹け」は已然形。已然形＋「ば」は確定条件（原因・偶然・恒常）。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_TOMO_01",
+      "grammarId": "KOBUN_G_JOSHI_TOMO",
+      "question": "接続助詞「とも」の接続はどれか。",
+      "choices": [
+        "終止形（形容詞型は連用形）",
+        "体言",
+        "未然形",
+        "已然形"
+      ],
+      "answerIndex": 0,
+      "explanation": "「とも」は終止形接続で逆接の仮定条件（たとえ〜ても）。已然形接続の「ど・ども」と対になる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_DO_DOMO_01",
+      "grammarId": "KOBUN_G_JOSHI_DO_DOMO",
+      "question": "「呼べども答へず」の「ども」が表す意味はどれか。",
+      "choices": [
+        "順接の確定条件",
+        "逆接の仮定条件（たとえ〜ても）",
+        "逆接の確定条件（〜けれども）",
+        "並列"
+      ],
+      "answerIndex": 2,
+      "explanation": "已然形「呼べ」に付いているので逆接の確定条件。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_GA_NI_WO_01",
+      "grammarId": "KOBUN_G_JOSHI_GA_NI_WO",
+      "question": "「門を叩くに、答ふる人なし」の「に」の説明として正しいものはどれか。",
+      "choices": [
+        "断定の助動詞の連用形",
+        "完了の助動詞の連用形",
+        "格助詞",
+        "接続助詞"
+      ],
+      "answerIndex": 3,
+      "explanation": "連体形「叩く」に付いて文をつないでいるので接続助詞。「〜したところ」と訳す。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_DE_01",
+      "grammarId": "KOBUN_G_JOSHI_DE",
+      "question": "接続助詞「で」の意味と接続の組み合わせとして正しいものはどれか。",
+      "choices": [
+        "打消の接続・未然形",
+        "並列・連用形",
+        "逆接・終止形",
+        "順接・已然形"
+      ],
+      "answerIndex": 0,
+      "explanation": "「で」は「ず＋て」が縮まった形で、未然形に付き「〜ないで」と訳す。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_TSUTSU_01",
+      "grammarId": "KOBUN_G_JOSHI_TSUTSU",
+      "question": "接続助詞「つつ」の接続はどれか。",
+      "choices": [
+        "未然形",
+        "已然形",
+        "連用形",
+        "終止形"
+      ],
+      "answerIndex": 2,
+      "explanation": "「つつ」は連用形接続で、反復・継続・並行（〜しながら）を表す。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_NAGARA_01",
+      "grammarId": "KOBUN_G_JOSHI_NAGARA",
+      "question": "「知りながら告げず」の「ながら」が表す意味はどれか。",
+      "choices": [
+        "並行（〜しながら）",
+        "順接",
+        "逆接（〜のに）",
+        "原因"
+      ],
+      "answerIndex": 2,
+      "explanation": "ここでは「知っていながら告げない」という逆接。並行の用法と文脈で見分ける。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_MONOWO_01",
+      "grammarId": "KOBUN_G_JOSHI_MONOWO",
+      "question": "接続助詞「ものを・ものの・ものから・ものゆゑ」に共通する意味はどれか。",
+      "choices": [
+        "並列",
+        "順接",
+        "逆接",
+        "原因"
+      ],
+      "answerIndex": 2,
+      "explanation": "四つとも逆接（〜のに、〜けれども）。文末の「ものを」は詠嘆の終助詞になる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_DANI_01",
+      "grammarId": "KOBUN_G_JOSHI_DANI",
+      "question": "「一目だに見ばや」の「だに」が表す意味はどれか。",
+      "choices": [
+        "添加（〜までも）",
+        "類推（〜さえ）",
+        "最小限の限定（せめて〜だけでも）",
+        "限定（〜だけ）"
+      ],
+      "answerIndex": 2,
+      "explanation": "下に願望「ばや」が続くので最小限の限定。希望・命令・意志が続かなければ類推になる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_SAHE_01",
+      "grammarId": "KOBUN_G_JOSHI_SAHE",
+      "question": "副助詞「さへ」が表す意味はどれか。",
+      "choices": [
+        "程度（〜ほど）",
+        "限定（〜だけ）",
+        "類推（〜さえ）",
+        "添加（〜までも）"
+      ],
+      "answerIndex": 3,
+      "explanation": "「さへ」は添加。現代語の「さえ」（類推）と意味がずれるので注意する。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_SURA_01",
+      "grammarId": "KOBUN_G_JOSHI_SURA",
+      "question": "副助詞「すら」が表す意味はどれか。",
+      "choices": [
+        "強意",
+        "添加（〜までも）",
+        "類推（〜さえ）",
+        "限定（〜だけ）"
+      ],
+      "answerIndex": 2,
+      "explanation": "「すら」は極端な例を挙げて他を推し量らせる類推。上代・漢文訓読体に多い。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_NOMI_BAKARI_01",
+      "grammarId": "KOBUN_G_JOSHI_NOMI_BAKARI",
+      "question": "「三日ばかり」の「ばかり」が表す意味はどれか。",
+      "choices": [
+        "類推",
+        "程度（〜ほど）",
+        "添加",
+        "限定（〜だけ）"
+      ],
+      "answerIndex": 1,
+      "explanation": "数量に付く「ばかり」は程度。限定の用法もあるので文脈で判断する。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_NADO_SHI_01",
+      "grammarId": "KOBUN_G_JOSHI_NADO_SHI",
+      "question": "強意の副助詞「し」と過去の助動詞「き」の連体形「し」を見分ける手がかりはどれか。",
+      "choices": [
+        "文の長さ",
+        "和歌かどうか",
+        "下に体言があるかどうか",
+        "上の語が連用形かどうか"
+      ],
+      "answerIndex": 3,
+      "explanation": "過去の「し」は連用形に付く。連用形でなければ副助詞と考える。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_BAYA_01",
+      "grammarId": "KOBUN_G_JOSHI_BAYA",
+      "question": "終助詞「ばや」が表す意味はどれか。",
+      "choices": [
+        "他への願望（〜てほしい）",
+        "自己の願望（〜たい）",
+        "詠嘆",
+        "禁止"
+      ],
+      "answerIndex": 1,
+      "explanation": "「ばや」は未然形に付き、自分がしたいことを表す。他への願望は「なむ」。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_NAMU_SHU_01",
+      "grammarId": "KOBUN_G_JOSHI_NAMU_SHU",
+      "question": "終助詞「なむ」の接続はどれか。",
+      "choices": [
+        "体言",
+        "未然形",
+        "終止形",
+        "連用形"
+      ],
+      "answerIndex": 1,
+      "explanation": "未然形に付けば他への願望の終助詞。連用形なら完了＋推量、体言なら係助詞。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_GANA_01",
+      "grammarId": "KOBUN_G_JOSHI_GANA",
+      "question": "終助詞「もがな」が表す意味はどれか。",
+      "choices": [
+        "禁止",
+        "願望（〜があればなあ）",
+        "疑問",
+        "詠嘆のみ"
+      ],
+      "answerIndex": 1,
+      "explanation": "実現の難しいことへの願望を、詠嘆を伴って表す。和歌に多い。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_NA_01",
+      "grammarId": "KOBUN_G_JOSHI_NA",
+      "question": "「な忘れそ」が表す意味はどれか。",
+      "choices": [
+        "願望（忘れたい）",
+        "詠嘆",
+        "推量",
+        "禁止（忘れるな）"
+      ],
+      "answerIndex": 3,
+      "explanation": "「な〜そ」で動詞を挟む形は禁止。「な」単独の禁止より柔らかい言い方になる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_NA_02",
+      "grammarId": "KOBUN_G_JOSHI_NA",
+      "question": "「な〜そ」の「そ」の直前に来る活用形はどれか。",
+      "choices": [
+        "終止形",
+        "已然形",
+        "体言",
+        "連用形（カ変・サ変は未然形）"
+      ],
+      "answerIndex": 3,
+      "explanation": "「な＋連用形＋そ」が基本形。カ変・サ変だけは未然形になる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_KASHI_01",
+      "grammarId": "KOBUN_G_JOSHI_KASHI",
+      "question": "終助詞「かし」が表す意味はどれか。",
+      "choices": [
+        "念押し（〜よ、〜ね）",
+        "疑問",
+        "禁止",
+        "願望"
+      ],
+      "answerIndex": 0,
+      "explanation": "「かし」は聞き手に念を押す。文末の「な」「かな」は詠嘆。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_NITE_SHITE_01",
+      "grammarId": "KOBUN_G_JOSHI_NITE_SHITE",
+      "question": "「人して文をやる」の「して」が表す意味はどれか。",
+      "choices": [
+        "時間",
+        "場所",
+        "原因",
+        "使役の相手（〜に頼んで）"
+      ],
+      "answerIndex": 3,
+      "explanation": "「して」は手段や、動作をさせる相手を表す。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_JOSHI_YORI_KARA_01",
+      "grammarId": "KOBUN_G_JOSHI_YORI_KARA",
+      "question": "「見るより逃げ出しぬ」の「より」が表す意味はどれか。",
+      "choices": [
+        "手段",
+        "即時（〜するとすぐに）",
+        "比較（〜よりも）",
+        "起点（〜から）"
+      ],
+      "answerIndex": 1,
+      "explanation": "連体形に付く「より」は即時。起点・比較の用法と文脈で区別する。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_KIHON_01",
+      "grammarId": "KOBUN_G_KEIGO_KIHON",
+      "question": "謙譲語が高めるのは誰か。",
+      "choices": [
+        "動作をする人",
+        "聞き手",
+        "動作を受ける人",
+        "話し手自身"
+      ],
+      "answerIndex": 2,
+      "explanation": "尊敬語は動作をする人、謙譲語は動作を受ける人、丁寧語は聞き手を高める。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_KIHON_02",
+      "grammarId": "KOBUN_G_KEIGO_KIHON",
+      "question": "古文で敬語が主語の判定に役立つ理由はどれか。",
+      "choices": [
+        "敬語が必ず文頭に来るため",
+        "主語が省略されることが多いため",
+        "敬語には活用がないため",
+        "敬語は和歌にしか現れないため"
+      ],
+      "answerIndex": 1,
+      "explanation": "古文では主語が省略される。どの種類の敬語が使われているかが主語を絞る手がかりになる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_TAMAFU4_01",
+      "grammarId": "KOBUN_G_KEIGO_TAMAFU4",
+      "question": "四段活用の「給ふ」の敬語の種類はどれか。",
+      "choices": [
+        "丁寧語",
+        "謙譲語",
+        "敬語ではない",
+        "尊敬語"
+      ],
+      "answerIndex": 3,
+      "explanation": "四段の「給ふ」は尊敬。下二段の「給ふ」は謙譲・丁寧で、活用で見分ける。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_TAMAFU2_01",
+      "grammarId": "KOBUN_G_KEIGO_TAMAFU2",
+      "question": "下二段活用の「給ふ」の特徴として正しいものはどれか。",
+      "choices": [
+        "地の文で貴人の動作に付く尊敬",
+        "命令形しか存在しない",
+        "会話文で自分の動作に付く謙譲・丁寧",
+        "体言に付く"
+      ],
+      "answerIndex": 2,
+      "explanation": "下二段の「給ふ」は「思ふ」「見る」「聞く」など知覚動詞に付き、会話文で話し手が自分の動作に用いる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_TAMAFU2_02",
+      "grammarId": "KOBUN_G_KEIGO_TAMAFU2",
+      "question": "「さ思ひ給ふる」の「給ふる」の活用形と種類の組み合わせはどれか。",
+      "choices": [
+        "終止形・尊敬",
+        "已然形・尊敬",
+        "連体形・謙譲",
+        "命令形・謙譲"
+      ],
+      "answerIndex": 2,
+      "explanation": "「給ふる」は下二段の連体形。下二段の「給ふ」は謙譲・丁寧。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_OHASU_01",
+      "grammarId": "KOBUN_G_KEIGO_OHASU",
+      "question": "「おはす」がもとになっている動詞として適切でないものはどれか。",
+      "choices": [
+        "来",
+        "行く",
+        "言ふ",
+        "あり"
+      ],
+      "answerIndex": 2,
+      "explanation": "「おはす・おはします」は「あり」「行く」「来」の尊敬。「言ふ」の尊敬は「のたまふ」「仰す」。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_OHOSU_01",
+      "grammarId": "KOBUN_G_KEIGO_OHOSU",
+      "question": "「仰せらる」が特に高い敬意を持つ理由はどれか。",
+      "choices": [
+        "上代語だから",
+        "謙譲語だから",
+        "尊敬語を重ねた二重敬語だから",
+        "丁寧語だから"
+      ],
+      "answerIndex": 2,
+      "explanation": "「仰す」に尊敬の「らる」が重なった二重敬語。天皇など最高位の人物に用いる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_GORANZU_01",
+      "grammarId": "KOBUN_G_KEIGO_GORANZU",
+      "question": "「聞こし召す」が持つ意味として挙げられないものはどれか。",
+      "choices": [
+        "召し上がる",
+        "お聞きになる",
+        "お治めになる",
+        "申し上げる"
+      ],
+      "answerIndex": 3,
+      "explanation": "「聞こし召す」は尊敬語。「申し上げる」は謙譲の「聞こゆ」「申す」。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_MESU_01",
+      "grammarId": "KOBUN_G_KEIGO_MESU",
+      "question": "「召す」の意味として適切でないものはどれか。",
+      "choices": [
+        "申し上げる",
+        "お呼びになる",
+        "召し上がる",
+        "お召しになる"
+      ],
+      "answerIndex": 0,
+      "explanation": "「召す」は尊敬語で「呼ぶ」「食ふ」「着る」「乗る」の尊敬にあたる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_OHOTONOGOMORU_01",
+      "grammarId": "KOBUN_G_KEIGO_OHOTONOGOMORU",
+      "question": "「大殿籠る」の意味はどれか。",
+      "choices": [
+        "召し上がる",
+        "おっしゃる",
+        "お出かけになる",
+        "お休みになる"
+      ],
+      "answerIndex": 3,
+      "explanation": "貴人の就寝を表す尊敬語。「寝（ぬ）」の尊敬にあたる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_KIKOYU_01",
+      "grammarId": "KOBUN_G_KEIGO_KIKOYU",
+      "question": "「聞こゆ」が敬語として使われているとき、その種類はどれか。",
+      "choices": [
+        "尊敬語",
+        "尊敬と謙譲の両方",
+        "謙譲語",
+        "丁寧語"
+      ],
+      "answerIndex": 2,
+      "explanation": "「言ふ」の謙譲。ただし「噂される・聞こえる」という敬語でない用法もあるので文脈で判断する。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_MAUSU_01",
+      "grammarId": "KOBUN_G_KEIGO_MAUSU",
+      "question": "「奏す」を用いる相手として正しいものはどれか。",
+      "choices": [
+        "中宮・皇太子",
+        "大臣",
+        "身分を問わず誰にでも",
+        "天皇・上皇"
+      ],
+      "answerIndex": 3,
+      "explanation": "「奏す」は天皇（上皇）に、「啓す」は中宮・皇太子に申し上げるときだけに使う絶対敬語。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_MAUSU_02",
+      "grammarId": "KOBUN_G_KEIGO_MAUSU",
+      "question": "「啓す」を用いる相手として正しいものはどれか。",
+      "choices": [
+        "中宮・皇太子",
+        "天皇",
+        "臣下一般",
+        "摂政"
+      ],
+      "answerIndex": 0,
+      "explanation": "「啓す」は中宮・皇太子に申し上げる絶対敬語。相手が特定できるので設問で狙われる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_TATEMATSURU_01",
+      "grammarId": "KOBUN_G_KEIGO_TATEMATSURU",
+      "question": "「奉る」が尊敬語になるのはどのような意味のときか。",
+      "choices": [
+        "参上する",
+        "差し上げる",
+        "申し上げる",
+        "召し上がる・お召しになる"
+      ],
+      "answerIndex": 3,
+      "explanation": "「奉る」は基本は謙譲だが、「食ふ・飲む・着る・乗る」の意味では尊敬になる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_MAWIRU_01",
+      "grammarId": "KOBUN_G_KEIGO_MAWIRU",
+      "question": "「参る」が尊敬語になるのはどのような意味のときか。",
+      "choices": [
+        "差し上げる",
+        "退出する",
+        "召し上がる",
+        "参上する"
+      ],
+      "answerIndex": 2,
+      "explanation": "「参る」は「行く・来」の謙譲が基本だが、「食ふ・飲む」の意味では尊敬になる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_MAKARU_01",
+      "grammarId": "KOBUN_G_KEIGO_MAKARU",
+      "question": "「まかる」の意味として正しいものはどれか。",
+      "choices": [
+        "参上する",
+        "退出する",
+        "おっしゃる",
+        "お休みになる"
+      ],
+      "answerIndex": 1,
+      "explanation": "貴人のもとから退出する謙譲語。「参る」と対になる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_TSUKAUMATSURU_01",
+      "grammarId": "KOBUN_G_KEIGO_TSUKAUMATSURU",
+      "question": "「仕うまつる」の敬語の種類はどれか。",
+      "choices": [
+        "尊敬語",
+        "敬語ではない",
+        "丁寧語",
+        "謙譲語"
+      ],
+      "answerIndex": 3,
+      "explanation": "「仕ふ」「す」の謙譲。補助動詞では「〜して差し上げる」の意味になる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_HABERI_01",
+      "grammarId": "KOBUN_G_KEIGO_HABERI",
+      "question": "会話文の「侍り」「候ふ」が表す敬意として最も基本的なものはどれか。",
+      "choices": [
+        "動作を受ける人への謙譲",
+        "聞き手への丁寧",
+        "敬意を表さない",
+        "動作をする人への尊敬"
+      ],
+      "answerIndex": 1,
+      "explanation": "会話文・手紙文では丁寧語（あります・ございます）が基本。本動詞では謙譲の用法もある。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_NIJU_01",
+      "grammarId": "KOBUN_G_KEIGO_NIJU",
+      "question": "「聞こえ給ふ」が二方面への敬意になる理由はどれか。",
+      "choices": [
+        "尊敬語が二つ重なっているから",
+        "謙譲語と尊敬語が重なっているから",
+        "丁寧語が含まれるから",
+        "絶対敬語だから"
+      ],
+      "answerIndex": 1,
+      "explanation": "謙譲「聞こゆ」で動作を受ける人を、尊敬「給ふ」で動作をする人を高めている。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_KEIGO_NIJU_02",
+      "grammarId": "KOBUN_G_KEIGO_NIJU",
+      "question": "「〜せ給ふ」「〜させ給ふ」の形が用いられる対象として最も適切なものはどれか。",
+      "choices": [
+        "身分の低い者",
+        "動物や自然物",
+        "話し手自身",
+        "天皇・中宮など最高位の人物"
+      ],
+      "answerIndex": 3,
+      "explanation": "尊敬語を重ねた二重敬語（最高敬語）で、最高位の人物に用いる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_KAKARIMUSUBI_01",
+      "grammarId": "KOBUN_G_OTHER_KAKARIMUSUBI",
+      "question": "係り結びを起こす係助詞の組み合わせとして正しいものはどれか。",
+      "choices": [
+        "の・が・に・にて",
+        "は・も・さへ・だに",
+        "ば・ど・とも・を",
+        "ぞ・なむ・や・か・こそ"
+      ],
+      "answerIndex": 3,
+      "explanation": "この五つが係り結びを起こす。「ぞ・なむ・や・か」は連体形、「こそ」は已然形で結ぶ。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_KAKARIMUSUBI_02",
+      "grammarId": "KOBUN_G_OTHER_KAKARIMUSUBI",
+      "question": "係助詞があるのに結びの語が現れない現象を何と呼ぶか。",
+      "choices": [
+        "結びの省略",
+        "係り結びの逆用",
+        "結びの流れ",
+        "音便"
+      ],
+      "answerIndex": 0,
+      "explanation": "結びが省略されるのが「結びの省略」、文が続いて結びが消えるのが「結びの流れ（消滅）」。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_KOSO_GYAKUSETSU_01",
+      "grammarId": "KOBUN_G_OTHER_KOSO_GYAKUSETSU",
+      "question": "「こそ〜已然形、」と読点で文が続く場合の訳し方として正しいものはどれか。",
+      "choices": [
+        "〜のように（比況）",
+        "〜なので（順接）",
+        "〜のとき（時間）",
+        "〜だけれども（逆接）"
+      ],
+      "answerIndex": 3,
+      "explanation": "已然形結びで文が終わらない場合は逆接。訳し忘れると文意が反転する。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_NI_IDENTIFY_01",
+      "grammarId": "KOBUN_G_OTHER_NI_IDENTIFY",
+      "question": "「静かにありけり」の「に」の説明として正しいものはどれか。",
+      "choices": [
+        "断定の助動詞の連用形",
+        "格助詞",
+        "形容動詞の活用語尾",
+        "完了の助動詞の連用形"
+      ],
+      "answerIndex": 2,
+      "explanation": "「静かなり」で一語の形容動詞。その連用形「静かに」の語尾にあたる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_NI_IDENTIFY_02",
+      "grammarId": "KOBUN_G_OTHER_NI_IDENTIFY",
+      "question": "「花散りにけり」の「に」の説明として正しいものはどれか。",
+      "choices": [
+        "接続助詞",
+        "断定の助動詞「なり」の連用形",
+        "完了の助動詞「ぬ」の連用形",
+        "格助詞"
+      ],
+      "answerIndex": 2,
+      "explanation": "下に過去の「けり」が続く「に」は完了の「ぬ」の連用形。上の「散り」が連用形であることも根拠になる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_NI_IDENTIFY_03",
+      "grammarId": "KOBUN_G_OTHER_NI_IDENTIFY",
+      "question": "「男にありけり」の「に」の説明として正しいものはどれか。",
+      "choices": [
+        "副詞の一部",
+        "断定の助動詞「なり」の連用形",
+        "格助詞",
+        "完了の助動詞「ぬ」の連用形"
+      ],
+      "answerIndex": 1,
+      "explanation": "下に「あり」が続く「に」は断定の連用形。「に＋あり・侍り・おはす」は断定と判断できる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_NARU_IDENTIFY_01",
+      "grammarId": "KOBUN_G_OTHER_NARU_IDENTIFY",
+      "question": "同形異義の語を識別するとき、最初に確認すべきものはどれか。",
+      "choices": [
+        "作者",
+        "文の長さ",
+        "和歌かどうか",
+        "上に付いている語の活用形"
+      ],
+      "answerIndex": 3,
+      "explanation": "接続から決めるのが最も確実。手順を固定しておくと未知の語形でも機械的に処理できる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_ONBIN_01",
+      "grammarId": "KOBUN_G_OTHER_ONBIN",
+      "question": "「書きて」が「書いて」となる音便の種類はどれか。",
+      "choices": [
+        "ウ音便",
+        "撥音便",
+        "イ音便",
+        "促音便"
+      ],
+      "answerIndex": 2,
+      "explanation": "「き」が「い」に変わるのでイ音便。「白く→白う」はウ音便。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_ONBIN_02",
+      "grammarId": "KOBUN_G_OTHER_ONBIN",
+      "question": "「読みて」が「読んで」となる音便の種類はどれか。",
+      "choices": [
+        "促音便",
+        "撥音便",
+        "ウ音便",
+        "イ音便"
+      ],
+      "answerIndex": 1,
+      "explanation": "「み」が撥音「ん」に変わるので撥音便。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_ONBIN_03",
+      "grammarId": "KOBUN_G_OTHER_ONBIN",
+      "question": "「あるなり」が「あなり」となるのはなぜか。",
+      "choices": [
+        "係り結びのため",
+        "撥音便化した「ん」が表記されないため",
+        "音便は起きていない",
+        "ラ変が省略されるため"
+      ],
+      "answerIndex": 1,
+      "explanation": "「あるなり」→「あんなり」→「あなり」。撥音の無表記により伝聞推定の「なり」を見落としやすい。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_DOSHI_KATSUYO_01",
+      "grammarId": "KOBUN_G_OTHER_DOSHI_KATSUYO",
+      "question": "動詞の活用の種類を見分けるとき、まず行う操作はどれか。",
+      "choices": [
+        "「ず」を付けて直前の母音を見る",
+        "「けり」を付ける",
+        "終止形を数える",
+        "係助詞を探す"
+      ],
+      "answerIndex": 0,
+      "explanation": "ア段なら四段、イ段なら上二段、エ段なら下二段。変格活用は語を丸ごと覚える。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_DOSHI_KATSUYO_02",
+      "grammarId": "KOBUN_G_OTHER_DOSHI_KATSUYO",
+      "question": "古文の動詞の活用の種類はいくつあるか。",
+      "choices": [
+        "九種類",
+        "七種類",
+        "五種類",
+        "十二種類"
+      ],
+      "answerIndex": 0,
+      "explanation": "四段・上一段・上二段・下一段・下二段・カ変・サ変・ナ変・ラ変の九種類。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_KEIYOSHI_01",
+      "grammarId": "KOBUN_G_OTHER_KEIYOSHI",
+      "question": "形容詞のシク活用に分類される語はどれか。",
+      "choices": [
+        "深し",
+        "高し",
+        "白し",
+        "うれし"
+      ],
+      "answerIndex": 3,
+      "explanation": "「〜しく」と活用するものがシク活用。「うれしく」となるのでシク活用。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_KEIYOSHI_02",
+      "grammarId": "KOBUN_G_OTHER_KEIYOSHI",
+      "question": "形容詞のカリ活用（補助活用）が使われるのはどのような場合か。",
+      "choices": [
+        "助動詞を付けるとき",
+        "文末で言い切るとき",
+        "和歌のとき",
+        "体言に続くとき"
+      ],
+      "answerIndex": 0,
+      "explanation": "本活用では助動詞が付けられないため、「うれしかりけり」のように補助活用を用いる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_RAHEN_01",
+      "grammarId": "KOBUN_G_OTHER_RAHEN",
+      "question": "終止形接続の助動詞がラ変型の語に付くとき、どの活用形に付くか。",
+      "choices": [
+        "未然形",
+        "已然形",
+        "連体形",
+        "連用形"
+      ],
+      "answerIndex": 2,
+      "explanation": "「あるべし」「あるなり」のように連体形に付く。「べし・らむ・めり・なり・まじ・らし」が該当する。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_WAKA_SHUJI_01",
+      "grammarId": "KOBUN_G_OTHER_WAKA_SHUJI",
+      "question": "訳出しないのが原則である和歌の修辞はどれか。",
+      "choices": [
+        "掛詞",
+        "本歌取り",
+        "序詞",
+        "枕詞"
+      ],
+      "answerIndex": 3,
+      "explanation": "枕詞は決まった語を導く五音の飾りで訳さない。序詞はその歌固有の導入なので訳す。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_WAKA_SHUJI_02",
+      "grammarId": "KOBUN_G_OTHER_WAKA_SHUJI",
+      "question": "「ながめ」に「眺め」と「長雨」を重ねる技法を何と呼ぶか。",
+      "choices": [
+        "序詞",
+        "枕詞",
+        "掛詞",
+        "縁語"
+      ],
+      "answerIndex": 2,
+      "explanation": "同音に二つの意味を重ねるのが掛詞。設問では両方の意味を訳すことが求められる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_JIDAI_01",
+      "grammarId": "KOBUN_G_OTHER_JIDAI",
+      "question": "『土佐日記』の作者はだれか。",
+      "choices": [
+        "紀貫之",
+        "清少納言",
+        "紫式部",
+        "鴨長明"
+      ],
+      "answerIndex": 0,
+      "explanation": "紀貫之による最初の仮名日記。女性に仮託して書かれている。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_JIDAI_02",
+      "grammarId": "KOBUN_G_OTHER_JIDAI",
+      "question": "『方丈記』の作者はだれか。",
+      "choices": [
+        "松尾芭蕉",
+        "紀貫之",
+        "兼好法師",
+        "鴨長明"
+      ],
+      "answerIndex": 3,
+      "explanation": "鴨長明の随筆。兼好法師の『徒然草』、清少納言の『枕草子』と合わせて三大随筆と呼ばれる。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_JIDAI_03",
+      "grammarId": "KOBUN_G_OTHER_JIDAI",
+      "question": "『おくのほそ道』が成立した時代はどれか。",
+      "choices": [
+        "鎌倉時代",
+        "平安時代",
+        "奈良時代",
+        "近世（江戸時代）"
+      ],
+      "answerIndex": 3,
+      "explanation": "松尾芭蕉による近世の紀行文。他の主要作品の多くが中古・中世であるのと対比して覚える。",
+      "isFree": false
+    },
+    {
+      "quizId": "KOBUN_GQ_OTHER_JIDAI_04",
+      "grammarId": "KOBUN_G_OTHER_JIDAI",
+      "question": "現存する最古の物語とされる作品はどれか。",
+      "choices": [
+        "落窪物語",
+        "伊勢物語",
+        "竹取物語",
+        "源氏物語"
+      ],
+      "answerIndex": 2,
+      "explanation": "『竹取物語』は「物語の出で来はじめの祖」と『源氏物語』に評される。",
+      "isFree": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "identifier" : "A1B2C3D4-0000-0000-0000-KOBUNAPP0001",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "500",
+      "familyShareable" : false,
+      "internalID" : "B1C2D3E4-0001-0000-0000-KOBUNAPP0001",
+      "localizations" : [
+        {
+          "description" : "すべての古文単語と文法問題を、クイズ・聞き流しの出題対象に加えます。買い切りで、月額・年額の課金はありません。",
+          "displayName" : "すべての単語・文法の解放",
+          "locale" : "ja"
+        }
+      ],
+      "productID" : "com.eitango.kobun.unlock.full",
+      "referenceName" : "Full unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "0",
+    "_developerTeamID" : "5PT8D8SKN8",
+    "_lastSynchronizedDate" : 0,
+    "_locale" : "ja_JP",
+    "_storefront" : "JPN"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

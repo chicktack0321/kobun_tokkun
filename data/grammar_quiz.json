@@ -1,0 +1,1629 @@
+{
+  "questions": [
+    {
+      "key": "JODOSHI_RU_01",
+      "grammarKey": "JODOSHI_RU",
+      "question": "「故郷、限りなく思ひ出でらる」の「らる」の意味として最も適切なものはどれか。",
+      "choices": [
+        "可能",
+        "尊敬",
+        "受身",
+        "自発"
+      ],
+      "answerIndex": 3,
+      "explanation": "「思ひ出づ」は心情を表す動詞。心情の語に付く「る・らる」は自発（自然と〜される）になる。"
+    },
+    {
+      "key": "JODOSHI_RU_02",
+      "grammarKey": "JODOSHI_RU",
+      "question": "「人に笑はる」の「る」の意味はどれか。",
+      "choices": [
+        "可能",
+        "自発",
+        "尊敬",
+        "受身"
+      ],
+      "answerIndex": 3,
+      "explanation": "「人に」という動作主が示されている。動作主が「〜に」で示されていれば受身と確定できる。"
+    },
+    {
+      "key": "JODOSHI_RU_03",
+      "grammarKey": "JODOSHI_RU",
+      "question": "「え行かれず」の「れ」の意味はどれか。",
+      "choices": [
+        "尊敬",
+        "可能",
+        "自発",
+        "受身"
+      ],
+      "answerIndex": 1,
+      "explanation": "下に打消の「ず」があり、上に不可能の副詞「え」がある。中古の可能は打消を伴うのが原則。"
+    },
+    {
+      "key": "JODOSHI_RU_04",
+      "grammarKey": "JODOSHI_RU",
+      "question": "「る・らる」の接続として正しいものはどれか。",
+      "choices": [
+        "連用形",
+        "終止形",
+        "未然形",
+        "体言"
+      ],
+      "answerIndex": 2,
+      "explanation": "「る・らる」はともに未然形接続。四段・ナ変・ラ変には「る」、それ以外には「らる」が付く。"
+    },
+    {
+      "key": "JODOSHI_SU_01",
+      "grammarKey": "JODOSHI_SU",
+      "question": "「大納言に歌よませ給ふ」の「せ」の意味はどれか。",
+      "choices": [
+        "受身",
+        "使役",
+        "尊敬",
+        "自発"
+      ],
+      "answerIndex": 1,
+      "explanation": "「大納言に」と動作をさせる相手が示されているので使役。下に「給ふ」があっても、使役の対象が明示されていれば使役と判断する。"
+    },
+    {
+      "key": "JODOSHI_SU_02",
+      "grammarKey": "JODOSHI_SU",
+      "question": "「す・さす」が尊敬の意味になるのはどのような場合か。",
+      "choices": [
+        "下に「給ふ」など別の尊敬語が続くとき",
+        "上に「え」があるとき",
+        "下に打消が続くとき",
+        "和歌の中で使われるとき"
+      ],
+      "answerIndex": 0,
+      "explanation": "尊敬語を重ねた二重敬語の形（〜せ給ふ・〜させ給ふ）のときに尊敬になる。それ以外は使役。"
+    },
+    {
+      "key": "JODOSHI_SU_03",
+      "grammarKey": "JODOSHI_SU",
+      "question": "「しむ」が特に多く用いられる文体はどれか。",
+      "choices": [
+        "漢文訓読体",
+        "和歌",
+        "仮名日記",
+        "会話文"
+      ],
+      "answerIndex": 0,
+      "explanation": "「しむ」は「す・さす」と同じ使役・尊敬の助動詞だが、漢文訓読体に多く現れる。"
+    },
+    {
+      "key": "JODOSHI_ZU_01",
+      "grammarKey": "JODOSHI_ZU",
+      "question": "「花咲かぬ枝」の「ぬ」の説明として正しいものはどれか。",
+      "choices": [
+        "ナ変動詞の活用語尾",
+        "打消の助動詞「ず」の連体形",
+        "断定の助動詞「なり」の一部",
+        "完了の助動詞「ぬ」の終止形"
+      ],
+      "answerIndex": 1,
+      "explanation": "上の「咲か」は未然形。未然形に付く「ぬ」は打消「ず」の連体形で、下に体言が続く。"
+    },
+    {
+      "key": "JODOSHI_ZU_02",
+      "grammarKey": "JODOSHI_ZU",
+      "question": "「花散りぬ」の「ぬ」の説明として正しいものはどれか。",
+      "choices": [
+        "打消の助動詞「ず」の連体形",
+        "打消の助動詞「ず」の已然形",
+        "格助詞",
+        "完了の助動詞「ぬ」の終止形"
+      ],
+      "answerIndex": 3,
+      "explanation": "上の「散り」は連用形。連用形に付く「ぬ」は完了で、ここでは終止形。"
+    },
+    {
+      "key": "JODOSHI_ZU_03",
+      "grammarKey": "JODOSHI_ZU",
+      "question": "「呼べど答へね」の「ね」の説明として正しいものはどれか。",
+      "choices": [
+        "完了の助動詞「ぬ」の命令形",
+        "希望の終助詞",
+        "打消の助動詞「ず」の已然形",
+        "ナ変動詞の活用語尾"
+      ],
+      "answerIndex": 2,
+      "explanation": "上の「答へ」は未然形。未然形に付く「ね」は打消「ず」の已然形。完了の「ね」なら命令形で連用形に付く。"
+    },
+    {
+      "key": "JODOSHI_MU_01",
+      "grammarKey": "JODOSHI_MU",
+      "question": "「われこそ行かめ」の「め」の意味はどれか。",
+      "choices": [
+        "意志",
+        "推量",
+        "婉曲",
+        "勧誘"
+      ],
+      "answerIndex": 0,
+      "explanation": "主語が一人称（われ）なので意志。「む」の意味は主語の人称で見分けるのが速い。"
+    },
+    {
+      "key": "JODOSHI_MU_02",
+      "grammarKey": "JODOSHI_MU",
+      "question": "「君も行かむ」で主語が二人称のとき、「む」の意味として適切なものはどれか。",
+      "choices": [
+        "打消推量",
+        "勧誘・適当",
+        "意志",
+        "推量"
+      ],
+      "answerIndex": 1,
+      "explanation": "二人称が主語なら勧誘・適当（〜しませんか、〜するのがよい）。"
+    },
+    {
+      "key": "JODOSHI_MU_03",
+      "grammarKey": "JODOSHI_MU",
+      "question": "「行かむ人」のように「む」が連体形で体言に続くときの意味はどれか。",
+      "choices": [
+        "仮定・婉曲",
+        "命令",
+        "意志",
+        "過去"
+      ],
+      "answerIndex": 0,
+      "explanation": "文中の連体形の「む」は仮定・婉曲。「行くような人」と訳す。"
+    },
+    {
+      "key": "JODOSHI_JI_01",
+      "grammarKey": "JODOSHI_JI",
+      "question": "「われは行かじ」の「じ」の意味はどれか。",
+      "choices": [
+        "打消当然",
+        "打消意志",
+        "禁止",
+        "打消推量"
+      ],
+      "answerIndex": 1,
+      "explanation": "主語が一人称なので打消意志（〜まい）。それ以外の人称なら打消推量になる。"
+    },
+    {
+      "key": "JODOSHI_JI_02",
+      "grammarKey": "JODOSHI_JI",
+      "question": "助動詞「じ」の接続はどれか。",
+      "choices": [
+        "未然形",
+        "終止形",
+        "已然形",
+        "連用形"
+      ],
+      "answerIndex": 0,
+      "explanation": "「じ」は「む」の打消にあたる助動詞で、「む」と同じく未然形接続。"
+    },
+    {
+      "key": "JODOSHI_MAHOSHI_01",
+      "grammarKey": "JODOSHI_MAHOSHI",
+      "question": "「見まほし」と「見たし」の違いとして正しいものはどれか。",
+      "choices": [
+        "まほしは打消を伴う",
+        "たしは尊敬の意味を持つ",
+        "意味が正反対である",
+        "接続が違う（まほしは未然形、たしは連用形）"
+      ],
+      "answerIndex": 3,
+      "explanation": "どちらも願望（〜たい）で意味は同じ。「まほし」は未然形接続、「たし」は連用形接続。"
+    },
+    {
+      "key": "JODOSHI_MAHOSHI_02",
+      "grammarKey": "JODOSHI_MAHOSHI",
+      "question": "「まほし」の活用の型はどれか。",
+      "choices": [
+        "形容詞型",
+        "無変化型",
+        "動詞型",
+        "ラ変型"
+      ],
+      "answerIndex": 0,
+      "explanation": "「まほし」は形容詞型に活用する（まほしく・まほしき・まほしけれ）。"
+    },
+    {
+      "key": "JODOSHI_KI_01",
+      "grammarKey": "JODOSHI_KI",
+      "question": "助動詞「き」の連体形はどれか。",
+      "choices": [
+        "せ",
+        "し",
+        "き",
+        "しか"
+      ],
+      "answerIndex": 1,
+      "explanation": "「き」の活用は（せ）／○／き／し／しか／○。連体形は「し」、已然形は「しか」。"
+    },
+    {
+      "key": "JODOSHI_KI_02",
+      "grammarKey": "JODOSHI_KI",
+      "question": "「き」が表す過去はどのような過去か。",
+      "choices": [
+        "未来に対する過去",
+        "話し手が直接経験した過去",
+        "遠い神話の時代の過去",
+        "人から伝え聞いた過去"
+      ],
+      "answerIndex": 1,
+      "explanation": "「き」は直接経験した過去、「けり」は伝え聞いた過去（伝聞過去）を表すのが基本。"
+    },
+    {
+      "key": "JODOSHI_KERI_01",
+      "grammarKey": "JODOSHI_KERI",
+      "question": "和歌の中の「けり」に多い意味はどれか。",
+      "choices": [
+        "伝聞過去",
+        "推量",
+        "詠嘆",
+        "完了"
+      ],
+      "answerIndex": 2,
+      "explanation": "地の文の「けり」は伝聞過去だが、和歌や会話文では詠嘆（〜だなあ）になることが多い。"
+    },
+    {
+      "key": "JODOSHI_KERI_02",
+      "grammarKey": "JODOSHI_KERI",
+      "question": "「けり」の活用の型はどれか。",
+      "choices": [
+        "形容詞型",
+        "四段型",
+        "ナ変型",
+        "ラ変型"
+      ],
+      "answerIndex": 3,
+      "explanation": "「けり」は（けら）／○／けり／ける／けれ／○とラ変型に活用する。"
+    },
+    {
+      "key": "JODOSHI_TSU_01",
+      "grammarKey": "JODOSHI_TSU",
+      "question": "「つべし」の「つ」の意味はどれか。",
+      "choices": [
+        "完了",
+        "存続",
+        "打消",
+        "強意"
+      ],
+      "answerIndex": 3,
+      "explanation": "下に推量の助動詞が続くとき、「つ」「ぬ」は強意になり「きっと〜」と訳す。"
+    },
+    {
+      "key": "JODOSHI_TSU_02",
+      "grammarKey": "JODOSHI_TSU",
+      "question": "助動詞「つ」の命令形はどれか。",
+      "choices": [
+        "て",
+        "つれ",
+        "つる",
+        "てよ"
+      ],
+      "answerIndex": 3,
+      "explanation": "「つ」は下二段型（て／て／つ／つる／つれ／てよ）。命令形は「てよ」。"
+    },
+    {
+      "key": "JODOSHI_NU_01",
+      "grammarKey": "JODOSHI_NU",
+      "question": "「ぬべし」の「ぬ」の意味はどれか。",
+      "choices": [
+        "強意",
+        "完了",
+        "受身",
+        "打消"
+      ],
+      "answerIndex": 0,
+      "explanation": "推量の助動詞が下に続く「ぬべし」「なむ」の「ぬ」は強意。"
+    },
+    {
+      "key": "JODOSHI_NU_02",
+      "grammarKey": "JODOSHI_NU",
+      "question": "助動詞「ぬ」の活用の型はどれか。",
+      "choices": [
+        "ナ変型",
+        "ラ変型",
+        "下二段型",
+        "四段型"
+      ],
+      "answerIndex": 0,
+      "explanation": "「ぬ」は な／に／ぬ／ぬる／ぬれ／ね とナ変型に活用する。"
+    },
+    {
+      "key": "JODOSHI_TARI_RI_01",
+      "grammarKey": "JODOSHI_TARI_RI",
+      "question": "助動詞「り」の接続を正しく述べたものはどれか。",
+      "choices": [
+        "サ変の未然形と四段の已然形",
+        "体言と連体形",
+        "サ変の連用形と四段の未然形",
+        "すべての動詞の連用形"
+      ],
+      "answerIndex": 0,
+      "explanation": "「サ未四已（さみしい）」と覚える。「り」はサ変の未然形・四段の已然形に付く。"
+    },
+    {
+      "key": "JODOSHI_TARI_RI_02",
+      "grammarKey": "JODOSHI_TARI_RI",
+      "question": "「咲ける花」の「る」の意味として最も適切なものはどれか。",
+      "choices": [
+        "打消",
+        "存続",
+        "可能",
+        "受身"
+      ],
+      "answerIndex": 1,
+      "explanation": "「咲け」は四段已然形で、付いているのは完了・存続の「り」。「咲いている花」と訳せるので存続。"
+    },
+    {
+      "key": "JODOSHI_KEMU_01",
+      "grammarKey": "JODOSHI_KEMU",
+      "question": "「などて泣きけむ」の「けむ」の意味はどれか。",
+      "choices": [
+        "打消推量",
+        "過去の意志",
+        "現在推量",
+        "過去の原因推量"
+      ],
+      "answerIndex": 3,
+      "explanation": "疑問語「などて」を伴うので過去の原因推量（どうして〜したのだろう）。"
+    },
+    {
+      "key": "JODOSHI_KEMU_02",
+      "grammarKey": "JODOSHI_KEMU",
+      "question": "助動詞「けむ」の接続はどれか。",
+      "choices": [
+        "未然形",
+        "体言",
+        "終止形",
+        "連用形"
+      ],
+      "answerIndex": 3,
+      "explanation": "「けむ」は連用形接続。終止形接続の「らむ」と対にして覚える。"
+    },
+    {
+      "key": "JODOSHI_RAMU_01",
+      "grammarKey": "JODOSHI_RAMU",
+      "question": "助動詞「らむ」の接続はどれか。",
+      "choices": [
+        "連用形",
+        "已然形",
+        "終止形（ラ変型には連体形）",
+        "未然形"
+      ],
+      "answerIndex": 2,
+      "explanation": "「らむ」は終止形接続。連用形接続の「けむ」と混同しないこと。"
+    },
+    {
+      "key": "JODOSHI_RAMU_02",
+      "grammarKey": "JODOSHI_RAMU",
+      "question": "「しづ心なく花の散るらむ」の「らむ」の意味として最も適切なものはどれか。",
+      "choices": [
+        "過去推量",
+        "現在の原因推量",
+        "意志",
+        "打消推量"
+      ],
+      "answerIndex": 1,
+      "explanation": "「どうして散るのだろう」と原因を推し量っている。目の前の事態の原因を推量する用法。"
+    },
+    {
+      "key": "JODOSHI_BESHI_01",
+      "grammarKey": "JODOSHI_BESHI",
+      "question": "助動詞「べし」の意味として挙げられないものはどれか。",
+      "choices": [
+        "受身",
+        "当然",
+        "適当",
+        "可能"
+      ],
+      "answerIndex": 0,
+      "explanation": "「べし」の意味は推量・意志・可能・当然・命令・適当の六つ。受身は含まれない。"
+    },
+    {
+      "key": "JODOSHI_BESHI_02",
+      "grammarKey": "JODOSHI_BESHI",
+      "question": "「飛ぶべからず」の「べから」の意味として最も適切なものはどれか。",
+      "choices": [
+        "適当",
+        "可能",
+        "意志",
+        "命令"
+      ],
+      "answerIndex": 1,
+      "explanation": "打消を伴って「〜できない」の意味。「羽がないので飛べない」という文脈で可能と判断する。"
+    },
+    {
+      "key": "JODOSHI_BESHI_03",
+      "grammarKey": "JODOSHI_BESHI",
+      "question": "「べし」の活用の型はどれか。",
+      "choices": [
+        "ナ変型",
+        "形容詞型",
+        "ラ変型",
+        "四段型"
+      ],
+      "answerIndex": 1,
+      "explanation": "「べし」は形容詞型（べく・べき・べけれ、補助活用にべかり・べかる）。"
+    },
+    {
+      "key": "JODOSHI_MAJI_01",
+      "grammarKey": "JODOSHI_MAJI",
+      "question": "「人に語るまじきことなり」の「まじき」の意味として最も適切なものはどれか。",
+      "choices": [
+        "打消推量",
+        "不可能",
+        "打消意志",
+        "禁止"
+      ],
+      "answerIndex": 3,
+      "explanation": "「語ってはならない」という禁止。「まじ」は「べし」の打消で、意味も対応する。"
+    },
+    {
+      "key": "JODOSHI_MAJI_02",
+      "grammarKey": "JODOSHI_MAJI",
+      "question": "助動詞「まじ」の接続はどれか。",
+      "choices": [
+        "体言",
+        "未然形",
+        "終止形（ラ変型には連体形）",
+        "連用形"
+      ],
+      "answerIndex": 2,
+      "explanation": "「まじ」は「べし」と同じく終止形接続（ラ変型には連体形）。"
+    },
+    {
+      "key": "JODOSHI_MERI_01",
+      "grammarKey": "JODOSHI_MERI",
+      "question": "助動詞「めり」が根拠とする感覚はどれか。",
+      "choices": [
+        "視覚",
+        "触覚",
+        "嗅覚",
+        "聴覚"
+      ],
+      "answerIndex": 0,
+      "explanation": "「めり」は目で見たことにもとづく推定。聴覚にもとづくのは伝聞推定の「なり」。"
+    },
+    {
+      "key": "JODOSHI_MERI_02",
+      "grammarKey": "JODOSHI_MERI",
+      "question": "「めり」の活用の型はどれか。",
+      "choices": [
+        "ラ変型",
+        "無変化型",
+        "四段型",
+        "形容詞型"
+      ],
+      "answerIndex": 0,
+      "explanation": "「めり」は ○／めり／めり／める／めれ／○ とラ変型に活用する。"
+    },
+    {
+      "key": "JODOSHI_RASHI_01",
+      "grammarKey": "JODOSHI_RASHI",
+      "question": "助動詞「らし」の特徴として正しいものはどれか。",
+      "choices": [
+        "活用しない（無変化型）",
+        "打消の意味を持つ",
+        "形容詞型に活用する",
+        "未然形接続である"
+      ],
+      "answerIndex": 0,
+      "explanation": "「らし」は無変化型で、すべて「らし」の形。根拠のある推定を表し、上代・和歌に多い。"
+    },
+    {
+      "key": "JODOSHI_NARI_DENBUN_01",
+      "grammarKey": "JODOSHI_NARI_DENBUN",
+      "question": "「男もすなる日記」の「なる」の説明として正しいものはどれか。",
+      "choices": [
+        "伝聞推定の助動詞「なり」の連体形",
+        "断定の助動詞「なり」の連体形",
+        "形容動詞の活用語尾",
+        "動詞「なる」の終止形"
+      ],
+      "answerIndex": 0,
+      "explanation": "上の「す」はサ変の終止形。終止形に付く「なり」は伝聞推定。"
+    },
+    {
+      "key": "JODOSHI_NARI_DENBUN_02",
+      "grammarKey": "JODOSHI_NARI_DENBUN",
+      "question": "伝聞推定の「なり」が根拠とする感覚はどれか。",
+      "choices": [
+        "味覚",
+        "聴覚",
+        "視覚",
+        "触覚"
+      ],
+      "answerIndex": 1,
+      "explanation": "音・声を根拠にするのが伝聞推定の「なり」。視覚にもとづくのは「めり」。"
+    },
+    {
+      "key": "JODOSHI_NARI_DANTEI_01",
+      "grammarKey": "JODOSHI_NARI_DANTEI",
+      "question": "「これは烏なり」の「なり」の説明として正しいものはどれか。",
+      "choices": [
+        "形容動詞の語尾",
+        "伝聞推定の助動詞",
+        "断定の助動詞",
+        "動詞「なる」"
+      ],
+      "answerIndex": 2,
+      "explanation": "体言「烏」に付いているので断定。伝聞推定なら終止形に付く。"
+    },
+    {
+      "key": "JODOSHI_NARI_DANTEI_02",
+      "grammarKey": "JODOSHI_NARI_DANTEI",
+      "question": "断定の助動詞「なり」の連用形として挙げられるものはどれか。",
+      "choices": [
+        "なれ",
+        "なら",
+        "なる",
+        "に"
+      ],
+      "answerIndex": 3,
+      "explanation": "断定「なり」の活用は なら／なり・に／なり／なる／なれ／なれ。連用形に「に」がある。"
+    },
+    {
+      "key": "JODOSHI_TARI_DANTEI_01",
+      "grammarKey": "JODOSHI_TARI_DANTEI",
+      "question": "「天下の将軍たり」の「たり」の説明として正しいものはどれか。",
+      "choices": [
+        "断定の助動詞（体言接続）",
+        "過去の助動詞",
+        "完了の助動詞（連用形接続）",
+        "接続助詞"
+      ],
+      "answerIndex": 0,
+      "explanation": "体言「将軍」に付いているので断定。完了の「たり」なら連用形に付く。"
+    },
+    {
+      "key": "JODOSHI_GOTOSHI_01",
+      "grammarKey": "JODOSHI_GOTOSHI",
+      "question": "助動詞「ごとし」が持たない活用形はどれか。",
+      "choices": [
+        "已然形",
+        "連体形",
+        "連用形",
+        "終止形"
+      ],
+      "answerIndex": 0,
+      "explanation": "「ごとし」には已然形・命令形がない（○／ごとく／ごとし／ごとき／○／○）。"
+    },
+    {
+      "key": "JODOSHI_TASHI_01",
+      "grammarKey": "JODOSHI_TASHI",
+      "question": "助動詞「たし」の接続はどれか。",
+      "choices": [
+        "未然形",
+        "体言",
+        "連用形",
+        "終止形"
+      ],
+      "answerIndex": 2,
+      "explanation": "「たし」は連用形接続。同じ願望の「まほし」は未然形接続。"
+    },
+    {
+      "key": "JODOSHI_YU_RAYU_01",
+      "grammarKey": "JODOSHI_YU_RAYU",
+      "question": "助動詞「ゆ・らゆ」について正しいものはどれか。",
+      "choices": [
+        "中世以降に新しく生じた",
+        "終止形接続である",
+        "「る・らる」の古い形で上代に用いる",
+        "打消の意味を持つ"
+      ],
+      "answerIndex": 2,
+      "explanation": "「ゆ・らゆ」は受身・可能・自発を表す上代語で、「る・らる」の古形にあたる。"
+    },
+    {
+      "key": "JODOSHI_SU_JODAI_01",
+      "grammarKey": "JODOSHI_SU_JODAI",
+      "question": "上代の尊敬の助動詞「す」と使役の「す」を見分ける手がかりはどれか。",
+      "choices": [
+        "文の長さ",
+        "和歌かどうか",
+        "活用の型（四段型か下二段型か）",
+        "接続する活用形"
+      ],
+      "answerIndex": 2,
+      "explanation": "尊敬の「す」は四段型、使役の「す」は下二段型。どちらも未然形接続なので活用形で見分ける。"
+    },
+    {
+      "key": "JODOSHI_MAHOSHI_NEG_01",
+      "grammarKey": "JODOSHI_MAHOSHI_NEG",
+      "question": "「見まほしく思へど」の「まほしく」の活用形はどれか。",
+      "choices": [
+        "連体形",
+        "終止形",
+        "連用形",
+        "已然形"
+      ],
+      "answerIndex": 2,
+      "explanation": "下に「思ふ」という用言が続いているので連用形。"
+    },
+    {
+      "key": "JODOSHI_NAMU_MIZEN_01",
+      "grammarKey": "JODOSHI_NAMU_MIZEN",
+      "question": "「いつしか花咲かなむ」の「なむ」の説明として正しいものはどれか。",
+      "choices": [
+        "ナ変動詞の一部",
+        "他への願望を表す終助詞",
+        "完了「ぬ」＋推量「む」",
+        "係助詞"
+      ],
+      "answerIndex": 1,
+      "explanation": "上の「咲か」は未然形。未然形に付く「なむ」は他への願望の終助詞（〜てほしい）。"
+    },
+    {
+      "key": "JODOSHI_NAMU_MIZEN_02",
+      "grammarKey": "JODOSHI_NAMU_MIZEN",
+      "question": "「花咲きなむ」の「なむ」の説明として正しいものはどれか。",
+      "choices": [
+        "完了「ぬ」の未然形＋推量「む」",
+        "格助詞",
+        "係助詞",
+        "他への願望の終助詞"
+      ],
+      "answerIndex": 0,
+      "explanation": "上の「咲き」は連用形。連用形に付く「なむ」は完了＋推量で「きっと咲くだろう」。"
+    },
+    {
+      "key": "JODOSHI_NAMU_MIZEN_03",
+      "grammarKey": "JODOSHI_NAMU_MIZEN",
+      "question": "「この花なむ、いとめでたき」の「なむ」の説明として正しいものはどれか。",
+      "choices": [
+        "終助詞",
+        "係助詞",
+        "完了＋推量",
+        "断定の助動詞"
+      ],
+      "answerIndex": 1,
+      "explanation": "体言「花」に付き、文末が連体形「めでたき」で結ばれている。係り結びを起こす係助詞。"
+    },
+    {
+      "key": "JODOSHI_NARI_IDENTIFY_01",
+      "grammarKey": "JODOSHI_NARI_IDENTIFY",
+      "question": "「なり」の識別で最初に確認すべきものはどれか。",
+      "choices": [
+        "文の長さ",
+        "和歌かどうか",
+        "上の語の活用形（接続）",
+        "作品の成立年代"
+      ],
+      "answerIndex": 2,
+      "explanation": "体言・連体形に付けば断定、終止形に付けば伝聞推定。接続を見るのが最短の手順。"
+    },
+    {
+      "key": "JODOSHI_NU_NE_IDENTIFY_01",
+      "grammarKey": "JODOSHI_NU_NE_IDENTIFY",
+      "question": "「ぬ」が完了の助動詞であると判断できるのはどのような場合か。",
+      "choices": [
+        "下に体言が続くとき",
+        "上が連用形のとき",
+        "文中にあるとき",
+        "上が未然形のとき"
+      ],
+      "answerIndex": 1,
+      "explanation": "完了の「ぬ」は連用形接続、打消の「ぬ」（「ず」の連体形）は未然形接続。"
+    },
+    {
+      "key": "JOSHI_ZO_01",
+      "grammarKey": "JOSHI_ZO",
+      "question": "係助詞「ぞ」があるとき、文末の活用形はどうなるか。",
+      "choices": [
+        "已然形",
+        "連体形",
+        "終止形",
+        "未然形"
+      ],
+      "answerIndex": 1,
+      "explanation": "「ぞ・なむ・や・か」は連体形で結ぶ。已然形で結ぶのは「こそ」だけ。"
+    },
+    {
+      "key": "JOSHI_ZO_02",
+      "grammarKey": "JOSHI_ZO",
+      "question": "「花ぞ散りける」の「ける」が連体形になっている理由はどれか。",
+      "choices": [
+        "和歌だから",
+        "已然形接続だから",
+        "係助詞「ぞ」の係り結び",
+        "疑問文だから"
+      ],
+      "answerIndex": 2,
+      "explanation": "文中の「ぞ」を受けて文末が連体形で結ばれている（係り結びの法則）。"
+    },
+    {
+      "key": "JOSHI_NAMU_KAKARI_01",
+      "grammarKey": "JOSHI_NAMU_KAKARI",
+      "question": "係助詞「なむ」の結びの活用形はどれか。",
+      "choices": [
+        "終止形",
+        "命令形",
+        "已然形",
+        "連体形"
+      ],
+      "answerIndex": 3,
+      "explanation": "「なむ」は「ぞ」と同じく連体形で結ぶ係助詞。"
+    },
+    {
+      "key": "JOSHI_YA_01",
+      "grammarKey": "JOSHI_YA",
+      "question": "係助詞「や」が表す意味として適切なものはどれか。",
+      "choices": [
+        "疑問・反語",
+        "願望",
+        "打消",
+        "強意のみ"
+      ],
+      "answerIndex": 0,
+      "explanation": "「や」「か」は疑問・反語を表し、連体形で結ぶ。どちらになるかは文脈で決まる。"
+    },
+    {
+      "key": "JOSHI_KA_01",
+      "grammarKey": "JOSHI_KA",
+      "question": "「〜かは」の形が表すことが多い意味はどれか。",
+      "choices": [
+        "詠嘆",
+        "打消意志",
+        "願望",
+        "反語"
+      ],
+      "answerIndex": 3,
+      "explanation": "「かは」は反語（〜だろうか、いや〜ない）になることが多い。"
+    },
+    {
+      "key": "JOSHI_KOSO_01",
+      "grammarKey": "JOSHI_KOSO",
+      "question": "係助詞「こそ」の結びの活用形はどれか。",
+      "choices": [
+        "已然形",
+        "連体形",
+        "終止形",
+        "連用形"
+      ],
+      "answerIndex": 0,
+      "explanation": "「こそ」だけが已然形で結ぶ。他の係助詞（ぞ・なむ・や・か）は連体形。"
+    },
+    {
+      "key": "JOSHI_KOSO_02",
+      "grammarKey": "JOSHI_KOSO",
+      "question": "「命こそ惜しけれ、名を汚さじ」の「こそ〜けれ」が表す意味はどれか。",
+      "choices": [
+        "強意のみ",
+        "逆接（〜けれども）",
+        "順接（〜ので）",
+        "並列"
+      ],
+      "answerIndex": 1,
+      "explanation": "「こそ」の已然形結びで文が終わらず続くときは逆接になる。訳し忘れると文意が反転する。"
+    },
+    {
+      "key": "JOSHI_HA_MO_01",
+      "grammarKey": "JOSHI_HA_MO",
+      "question": "係助詞のうち、係り結びを起こさないものはどれか。",
+      "choices": [
+        "は・も",
+        "ぞ・なむ",
+        "こそ",
+        "や・か"
+      ],
+      "answerIndex": 0,
+      "explanation": "「は」「も」も係助詞だが結びの活用形を変えない。"
+    },
+    {
+      "key": "JOSHI_BA_01",
+      "grammarKey": "JOSHI_BA",
+      "question": "「風吹かば」の「ば」が表す意味はどれか。",
+      "choices": [
+        "順接の確定条件（〜ので）",
+        "逆接の確定条件",
+        "順接の仮定条件（もし〜ならば）",
+        "逆接の仮定条件"
+      ],
+      "answerIndex": 2,
+      "explanation": "「吹か」は未然形。未然形＋「ば」は仮定条件。"
+    },
+    {
+      "key": "JOSHI_BA_02",
+      "grammarKey": "JOSHI_BA",
+      "question": "「風吹けば」の「ば」が表す意味はどれか。",
+      "choices": [
+        "順接の仮定条件（もし〜ならば）",
+        "逆接の仮定条件",
+        "禁止",
+        "順接の確定条件（〜ので）"
+      ],
+      "answerIndex": 3,
+      "explanation": "「吹け」は已然形。已然形＋「ば」は確定条件（原因・偶然・恒常）。"
+    },
+    {
+      "key": "JOSHI_TOMO_01",
+      "grammarKey": "JOSHI_TOMO",
+      "question": "接続助詞「とも」の接続はどれか。",
+      "choices": [
+        "終止形（形容詞型は連用形）",
+        "体言",
+        "未然形",
+        "已然形"
+      ],
+      "answerIndex": 0,
+      "explanation": "「とも」は終止形接続で逆接の仮定条件（たとえ〜ても）。已然形接続の「ど・ども」と対になる。"
+    },
+    {
+      "key": "JOSHI_DO_DOMO_01",
+      "grammarKey": "JOSHI_DO_DOMO",
+      "question": "「呼べども答へず」の「ども」が表す意味はどれか。",
+      "choices": [
+        "順接の確定条件",
+        "逆接の仮定条件（たとえ〜ても）",
+        "逆接の確定条件（〜けれども）",
+        "並列"
+      ],
+      "answerIndex": 2,
+      "explanation": "已然形「呼べ」に付いているので逆接の確定条件。"
+    },
+    {
+      "key": "JOSHI_GA_NI_WO_01",
+      "grammarKey": "JOSHI_GA_NI_WO",
+      "question": "「門を叩くに、答ふる人なし」の「に」の説明として正しいものはどれか。",
+      "choices": [
+        "断定の助動詞の連用形",
+        "完了の助動詞の連用形",
+        "格助詞",
+        "接続助詞"
+      ],
+      "answerIndex": 3,
+      "explanation": "連体形「叩く」に付いて文をつないでいるので接続助詞。「〜したところ」と訳す。"
+    },
+    {
+      "key": "JOSHI_DE_01",
+      "grammarKey": "JOSHI_DE",
+      "question": "接続助詞「で」の意味と接続の組み合わせとして正しいものはどれか。",
+      "choices": [
+        "打消の接続・未然形",
+        "並列・連用形",
+        "逆接・終止形",
+        "順接・已然形"
+      ],
+      "answerIndex": 0,
+      "explanation": "「で」は「ず＋て」が縮まった形で、未然形に付き「〜ないで」と訳す。"
+    },
+    {
+      "key": "JOSHI_TSUTSU_01",
+      "grammarKey": "JOSHI_TSUTSU",
+      "question": "接続助詞「つつ」の接続はどれか。",
+      "choices": [
+        "未然形",
+        "已然形",
+        "連用形",
+        "終止形"
+      ],
+      "answerIndex": 2,
+      "explanation": "「つつ」は連用形接続で、反復・継続・並行（〜しながら）を表す。"
+    },
+    {
+      "key": "JOSHI_NAGARA_01",
+      "grammarKey": "JOSHI_NAGARA",
+      "question": "「知りながら告げず」の「ながら」が表す意味はどれか。",
+      "choices": [
+        "並行（〜しながら）",
+        "順接",
+        "逆接（〜のに）",
+        "原因"
+      ],
+      "answerIndex": 2,
+      "explanation": "ここでは「知っていながら告げない」という逆接。並行の用法と文脈で見分ける。"
+    },
+    {
+      "key": "JOSHI_MONOWO_01",
+      "grammarKey": "JOSHI_MONOWO",
+      "question": "接続助詞「ものを・ものの・ものから・ものゆゑ」に共通する意味はどれか。",
+      "choices": [
+        "並列",
+        "順接",
+        "逆接",
+        "原因"
+      ],
+      "answerIndex": 2,
+      "explanation": "四つとも逆接（〜のに、〜けれども）。文末の「ものを」は詠嘆の終助詞になる。"
+    },
+    {
+      "key": "JOSHI_DANI_01",
+      "grammarKey": "JOSHI_DANI",
+      "question": "「一目だに見ばや」の「だに」が表す意味はどれか。",
+      "choices": [
+        "添加（〜までも）",
+        "類推（〜さえ）",
+        "最小限の限定（せめて〜だけでも）",
+        "限定（〜だけ）"
+      ],
+      "answerIndex": 2,
+      "explanation": "下に願望「ばや」が続くので最小限の限定。希望・命令・意志が続かなければ類推になる。"
+    },
+    {
+      "key": "JOSHI_SAHE_01",
+      "grammarKey": "JOSHI_SAHE",
+      "question": "副助詞「さへ」が表す意味はどれか。",
+      "choices": [
+        "程度（〜ほど）",
+        "限定（〜だけ）",
+        "類推（〜さえ）",
+        "添加（〜までも）"
+      ],
+      "answerIndex": 3,
+      "explanation": "「さへ」は添加。現代語の「さえ」（類推）と意味がずれるので注意する。"
+    },
+    {
+      "key": "JOSHI_SURA_01",
+      "grammarKey": "JOSHI_SURA",
+      "question": "副助詞「すら」が表す意味はどれか。",
+      "choices": [
+        "強意",
+        "添加（〜までも）",
+        "類推（〜さえ）",
+        "限定（〜だけ）"
+      ],
+      "answerIndex": 2,
+      "explanation": "「すら」は極端な例を挙げて他を推し量らせる類推。上代・漢文訓読体に多い。"
+    },
+    {
+      "key": "JOSHI_NOMI_BAKARI_01",
+      "grammarKey": "JOSHI_NOMI_BAKARI",
+      "question": "「三日ばかり」の「ばかり」が表す意味はどれか。",
+      "choices": [
+        "類推",
+        "程度（〜ほど）",
+        "添加",
+        "限定（〜だけ）"
+      ],
+      "answerIndex": 1,
+      "explanation": "数量に付く「ばかり」は程度。限定の用法もあるので文脈で判断する。"
+    },
+    {
+      "key": "JOSHI_NADO_SHI_01",
+      "grammarKey": "JOSHI_NADO_SHI",
+      "question": "強意の副助詞「し」と過去の助動詞「き」の連体形「し」を見分ける手がかりはどれか。",
+      "choices": [
+        "文の長さ",
+        "和歌かどうか",
+        "下に体言があるかどうか",
+        "上の語が連用形かどうか"
+      ],
+      "answerIndex": 3,
+      "explanation": "過去の「し」は連用形に付く。連用形でなければ副助詞と考える。"
+    },
+    {
+      "key": "JOSHI_BAYA_01",
+      "grammarKey": "JOSHI_BAYA",
+      "question": "終助詞「ばや」が表す意味はどれか。",
+      "choices": [
+        "他への願望（〜てほしい）",
+        "自己の願望（〜たい）",
+        "詠嘆",
+        "禁止"
+      ],
+      "answerIndex": 1,
+      "explanation": "「ばや」は未然形に付き、自分がしたいことを表す。他への願望は「なむ」。"
+    },
+    {
+      "key": "JOSHI_NAMU_SHU_01",
+      "grammarKey": "JOSHI_NAMU_SHU",
+      "question": "終助詞「なむ」の接続はどれか。",
+      "choices": [
+        "体言",
+        "未然形",
+        "終止形",
+        "連用形"
+      ],
+      "answerIndex": 1,
+      "explanation": "未然形に付けば他への願望の終助詞。連用形なら完了＋推量、体言なら係助詞。"
+    },
+    {
+      "key": "JOSHI_GANA_01",
+      "grammarKey": "JOSHI_GANA",
+      "question": "終助詞「もがな」が表す意味はどれか。",
+      "choices": [
+        "禁止",
+        "願望（〜があればなあ）",
+        "疑問",
+        "詠嘆のみ"
+      ],
+      "answerIndex": 1,
+      "explanation": "実現の難しいことへの願望を、詠嘆を伴って表す。和歌に多い。"
+    },
+    {
+      "key": "JOSHI_NA_01",
+      "grammarKey": "JOSHI_NA",
+      "question": "「な忘れそ」が表す意味はどれか。",
+      "choices": [
+        "願望（忘れたい）",
+        "詠嘆",
+        "推量",
+        "禁止（忘れるな）"
+      ],
+      "answerIndex": 3,
+      "explanation": "「な〜そ」で動詞を挟む形は禁止。「な」単独の禁止より柔らかい言い方になる。"
+    },
+    {
+      "key": "JOSHI_NA_02",
+      "grammarKey": "JOSHI_NA",
+      "question": "「な〜そ」の「そ」の直前に来る活用形はどれか。",
+      "choices": [
+        "終止形",
+        "已然形",
+        "体言",
+        "連用形（カ変・サ変は未然形）"
+      ],
+      "answerIndex": 3,
+      "explanation": "「な＋連用形＋そ」が基本形。カ変・サ変だけは未然形になる。"
+    },
+    {
+      "key": "JOSHI_KASHI_01",
+      "grammarKey": "JOSHI_KASHI",
+      "question": "終助詞「かし」が表す意味はどれか。",
+      "choices": [
+        "念押し（〜よ、〜ね）",
+        "疑問",
+        "禁止",
+        "願望"
+      ],
+      "answerIndex": 0,
+      "explanation": "「かし」は聞き手に念を押す。文末の「な」「かな」は詠嘆。"
+    },
+    {
+      "key": "JOSHI_NITE_SHITE_01",
+      "grammarKey": "JOSHI_NITE_SHITE",
+      "question": "「人して文をやる」の「して」が表す意味はどれか。",
+      "choices": [
+        "時間",
+        "場所",
+        "原因",
+        "使役の相手（〜に頼んで）"
+      ],
+      "answerIndex": 3,
+      "explanation": "「して」は手段や、動作をさせる相手を表す。"
+    },
+    {
+      "key": "JOSHI_YORI_KARA_01",
+      "grammarKey": "JOSHI_YORI_KARA",
+      "question": "「見るより逃げ出しぬ」の「より」が表す意味はどれか。",
+      "choices": [
+        "手段",
+        "即時（〜するとすぐに）",
+        "比較（〜よりも）",
+        "起点（〜から）"
+      ],
+      "answerIndex": 1,
+      "explanation": "連体形に付く「より」は即時。起点・比較の用法と文脈で区別する。"
+    },
+    {
+      "key": "KEIGO_KIHON_01",
+      "grammarKey": "KEIGO_KIHON",
+      "question": "謙譲語が高めるのは誰か。",
+      "choices": [
+        "動作をする人",
+        "聞き手",
+        "動作を受ける人",
+        "話し手自身"
+      ],
+      "answerIndex": 2,
+      "explanation": "尊敬語は動作をする人、謙譲語は動作を受ける人、丁寧語は聞き手を高める。"
+    },
+    {
+      "key": "KEIGO_KIHON_02",
+      "grammarKey": "KEIGO_KIHON",
+      "question": "古文で敬語が主語の判定に役立つ理由はどれか。",
+      "choices": [
+        "敬語が必ず文頭に来るため",
+        "主語が省略されることが多いため",
+        "敬語には活用がないため",
+        "敬語は和歌にしか現れないため"
+      ],
+      "answerIndex": 1,
+      "explanation": "古文では主語が省略される。どの種類の敬語が使われているかが主語を絞る手がかりになる。"
+    },
+    {
+      "key": "KEIGO_TAMAFU4_01",
+      "grammarKey": "KEIGO_TAMAFU4",
+      "question": "四段活用の「給ふ」の敬語の種類はどれか。",
+      "choices": [
+        "丁寧語",
+        "謙譲語",
+        "敬語ではない",
+        "尊敬語"
+      ],
+      "answerIndex": 3,
+      "explanation": "四段の「給ふ」は尊敬。下二段の「給ふ」は謙譲・丁寧で、活用で見分ける。"
+    },
+    {
+      "key": "KEIGO_TAMAFU2_01",
+      "grammarKey": "KEIGO_TAMAFU2",
+      "question": "下二段活用の「給ふ」の特徴として正しいものはどれか。",
+      "choices": [
+        "地の文で貴人の動作に付く尊敬",
+        "命令形しか存在しない",
+        "会話文で自分の動作に付く謙譲・丁寧",
+        "体言に付く"
+      ],
+      "answerIndex": 2,
+      "explanation": "下二段の「給ふ」は「思ふ」「見る」「聞く」など知覚動詞に付き、会話文で話し手が自分の動作に用いる。"
+    },
+    {
+      "key": "KEIGO_TAMAFU2_02",
+      "grammarKey": "KEIGO_TAMAFU2",
+      "question": "「さ思ひ給ふる」の「給ふる」の活用形と種類の組み合わせはどれか。",
+      "choices": [
+        "終止形・尊敬",
+        "已然形・尊敬",
+        "連体形・謙譲",
+        "命令形・謙譲"
+      ],
+      "answerIndex": 2,
+      "explanation": "「給ふる」は下二段の連体形。下二段の「給ふ」は謙譲・丁寧。"
+    },
+    {
+      "key": "KEIGO_OHASU_01",
+      "grammarKey": "KEIGO_OHASU",
+      "question": "「おはす」がもとになっている動詞として適切でないものはどれか。",
+      "choices": [
+        "来",
+        "行く",
+        "言ふ",
+        "あり"
+      ],
+      "answerIndex": 2,
+      "explanation": "「おはす・おはします」は「あり」「行く」「来」の尊敬。「言ふ」の尊敬は「のたまふ」「仰す」。"
+    },
+    {
+      "key": "KEIGO_OHOSU_01",
+      "grammarKey": "KEIGO_OHOSU",
+      "question": "「仰せらる」が特に高い敬意を持つ理由はどれか。",
+      "choices": [
+        "上代語だから",
+        "謙譲語だから",
+        "尊敬語を重ねた二重敬語だから",
+        "丁寧語だから"
+      ],
+      "answerIndex": 2,
+      "explanation": "「仰す」に尊敬の「らる」が重なった二重敬語。天皇など最高位の人物に用いる。"
+    },
+    {
+      "key": "KEIGO_GORANZU_01",
+      "grammarKey": "KEIGO_GORANZU",
+      "question": "「聞こし召す」が持つ意味として挙げられないものはどれか。",
+      "choices": [
+        "召し上がる",
+        "お聞きになる",
+        "お治めになる",
+        "申し上げる"
+      ],
+      "answerIndex": 3,
+      "explanation": "「聞こし召す」は尊敬語。「申し上げる」は謙譲の「聞こゆ」「申す」。"
+    },
+    {
+      "key": "KEIGO_MESU_01",
+      "grammarKey": "KEIGO_MESU",
+      "question": "「召す」の意味として適切でないものはどれか。",
+      "choices": [
+        "申し上げる",
+        "お呼びになる",
+        "召し上がる",
+        "お召しになる"
+      ],
+      "answerIndex": 0,
+      "explanation": "「召す」は尊敬語で「呼ぶ」「食ふ」「着る」「乗る」の尊敬にあたる。"
+    },
+    {
+      "key": "KEIGO_OHOTONOGOMORU_01",
+      "grammarKey": "KEIGO_OHOTONOGOMORU",
+      "question": "「大殿籠る」の意味はどれか。",
+      "choices": [
+        "召し上がる",
+        "おっしゃる",
+        "お出かけになる",
+        "お休みになる"
+      ],
+      "answerIndex": 3,
+      "explanation": "貴人の就寝を表す尊敬語。「寝（ぬ）」の尊敬にあたる。"
+    },
+    {
+      "key": "KEIGO_KIKOYU_01",
+      "grammarKey": "KEIGO_KIKOYU",
+      "question": "「聞こゆ」が敬語として使われているとき、その種類はどれか。",
+      "choices": [
+        "尊敬語",
+        "尊敬と謙譲の両方",
+        "謙譲語",
+        "丁寧語"
+      ],
+      "answerIndex": 2,
+      "explanation": "「言ふ」の謙譲。ただし「噂される・聞こえる」という敬語でない用法もあるので文脈で判断する。"
+    },
+    {
+      "key": "KEIGO_MAUSU_01",
+      "grammarKey": "KEIGO_MAUSU",
+      "question": "「奏す」を用いる相手として正しいものはどれか。",
+      "choices": [
+        "中宮・皇太子",
+        "大臣",
+        "身分を問わず誰にでも",
+        "天皇・上皇"
+      ],
+      "answerIndex": 3,
+      "explanation": "「奏す」は天皇（上皇）に、「啓す」は中宮・皇太子に申し上げるときだけに使う絶対敬語。"
+    },
+    {
+      "key": "KEIGO_MAUSU_02",
+      "grammarKey": "KEIGO_MAUSU",
+      "question": "「啓す」を用いる相手として正しいものはどれか。",
+      "choices": [
+        "中宮・皇太子",
+        "天皇",
+        "臣下一般",
+        "摂政"
+      ],
+      "answerIndex": 0,
+      "explanation": "「啓す」は中宮・皇太子に申し上げる絶対敬語。相手が特定できるので設問で狙われる。"
+    },
+    {
+      "key": "KEIGO_TATEMATSURU_01",
+      "grammarKey": "KEIGO_TATEMATSURU",
+      "question": "「奉る」が尊敬語になるのはどのような意味のときか。",
+      "choices": [
+        "参上する",
+        "差し上げる",
+        "申し上げる",
+        "召し上がる・お召しになる"
+      ],
+      "answerIndex": 3,
+      "explanation": "「奉る」は基本は謙譲だが、「食ふ・飲む・着る・乗る」の意味では尊敬になる。"
+    },
+    {
+      "key": "KEIGO_MAWIRU_01",
+      "grammarKey": "KEIGO_MAWIRU",
+      "question": "「参る」が尊敬語になるのはどのような意味のときか。",
+      "choices": [
+        "差し上げる",
+        "退出する",
+        "召し上がる",
+        "参上する"
+      ],
+      "answerIndex": 2,
+      "explanation": "「参る」は「行く・来」の謙譲が基本だが、「食ふ・飲む」の意味では尊敬になる。"
+    },
+    {
+      "key": "KEIGO_MAKARU_01",
+      "grammarKey": "KEIGO_MAKARU",
+      "question": "「まかる」の意味として正しいものはどれか。",
+      "choices": [
+        "参上する",
+        "退出する",
+        "おっしゃる",
+        "お休みになる"
+      ],
+      "answerIndex": 1,
+      "explanation": "貴人のもとから退出する謙譲語。「参る」と対になる。"
+    },
+    {
+      "key": "KEIGO_TSUKAUMATSURU_01",
+      "grammarKey": "KEIGO_TSUKAUMATSURU",
+      "question": "「仕うまつる」の敬語の種類はどれか。",
+      "choices": [
+        "尊敬語",
+        "敬語ではない",
+        "丁寧語",
+        "謙譲語"
+      ],
+      "answerIndex": 3,
+      "explanation": "「仕ふ」「す」の謙譲。補助動詞では「〜して差し上げる」の意味になる。"
+    },
+    {
+      "key": "KEIGO_HABERI_01",
+      "grammarKey": "KEIGO_HABERI",
+      "question": "会話文の「侍り」「候ふ」が表す敬意として最も基本的なものはどれか。",
+      "choices": [
+        "動作を受ける人への謙譲",
+        "聞き手への丁寧",
+        "敬意を表さない",
+        "動作をする人への尊敬"
+      ],
+      "answerIndex": 1,
+      "explanation": "会話文・手紙文では丁寧語（あります・ございます）が基本。本動詞では謙譲の用法もある。"
+    },
+    {
+      "key": "KEIGO_NIJU_01",
+      "grammarKey": "KEIGO_NIJU",
+      "question": "「聞こえ給ふ」が二方面への敬意になる理由はどれか。",
+      "choices": [
+        "尊敬語が二つ重なっているから",
+        "謙譲語と尊敬語が重なっているから",
+        "丁寧語が含まれるから",
+        "絶対敬語だから"
+      ],
+      "answerIndex": 1,
+      "explanation": "謙譲「聞こゆ」で動作を受ける人を、尊敬「給ふ」で動作をする人を高めている。"
+    },
+    {
+      "key": "KEIGO_NIJU_02",
+      "grammarKey": "KEIGO_NIJU",
+      "question": "「〜せ給ふ」「〜させ給ふ」の形が用いられる対象として最も適切なものはどれか。",
+      "choices": [
+        "身分の低い者",
+        "動物や自然物",
+        "話し手自身",
+        "天皇・中宮など最高位の人物"
+      ],
+      "answerIndex": 3,
+      "explanation": "尊敬語を重ねた二重敬語（最高敬語）で、最高位の人物に用いる。"
+    },
+    {
+      "key": "OTHER_KAKARIMUSUBI_01",
+      "grammarKey": "OTHER_KAKARIMUSUBI",
+      "question": "係り結びを起こす係助詞の組み合わせとして正しいものはどれか。",
+      "choices": [
+        "の・が・に・にて",
+        "は・も・さへ・だに",
+        "ば・ど・とも・を",
+        "ぞ・なむ・や・か・こそ"
+      ],
+      "answerIndex": 3,
+      "explanation": "この五つが係り結びを起こす。「ぞ・なむ・や・か」は連体形、「こそ」は已然形で結ぶ。"
+    },
+    {
+      "key": "OTHER_KAKARIMUSUBI_02",
+      "grammarKey": "OTHER_KAKARIMUSUBI",
+      "question": "係助詞があるのに結びの語が現れない現象を何と呼ぶか。",
+      "choices": [
+        "結びの省略",
+        "係り結びの逆用",
+        "結びの流れ",
+        "音便"
+      ],
+      "answerIndex": 0,
+      "explanation": "結びが省略されるのが「結びの省略」、文が続いて結びが消えるのが「結びの流れ（消滅）」。"
+    },
+    {
+      "key": "OTHER_KOSO_GYAKUSETSU_01",
+      "grammarKey": "OTHER_KOSO_GYAKUSETSU",
+      "question": "「こそ〜已然形、」と読点で文が続く場合の訳し方として正しいものはどれか。",
+      "choices": [
+        "〜のように（比況）",
+        "〜なので（順接）",
+        "〜のとき（時間）",
+        "〜だけれども（逆接）"
+      ],
+      "answerIndex": 3,
+      "explanation": "已然形結びで文が終わらない場合は逆接。訳し忘れると文意が反転する。"
+    },
+    {
+      "key": "OTHER_NI_IDENTIFY_01",
+      "grammarKey": "OTHER_NI_IDENTIFY",
+      "question": "「静かにありけり」の「に」の説明として正しいものはどれか。",
+      "choices": [
+        "断定の助動詞の連用形",
+        "格助詞",
+        "形容動詞の活用語尾",
+        "完了の助動詞の連用形"
+      ],
+      "answerIndex": 2,
+      "explanation": "「静かなり」で一語の形容動詞。その連用形「静かに」の語尾にあたる。"
+    },
+    {
+      "key": "OTHER_NI_IDENTIFY_02",
+      "grammarKey": "OTHER_NI_IDENTIFY",
+      "question": "「花散りにけり」の「に」の説明として正しいものはどれか。",
+      "choices": [
+        "接続助詞",
+        "断定の助動詞「なり」の連用形",
+        "完了の助動詞「ぬ」の連用形",
+        "格助詞"
+      ],
+      "answerIndex": 2,
+      "explanation": "下に過去の「けり」が続く「に」は完了の「ぬ」の連用形。上の「散り」が連用形であることも根拠になる。"
+    },
+    {
+      "key": "OTHER_NI_IDENTIFY_03",
+      "grammarKey": "OTHER_NI_IDENTIFY",
+      "question": "「男にありけり」の「に」の説明として正しいものはどれか。",
+      "choices": [
+        "副詞の一部",
+        "断定の助動詞「なり」の連用形",
+        "格助詞",
+        "完了の助動詞「ぬ」の連用形"
+      ],
+      "answerIndex": 1,
+      "explanation": "下に「あり」が続く「に」は断定の連用形。「に＋あり・侍り・おはす」は断定と判断できる。"
+    },
+    {
+      "key": "OTHER_NARU_IDENTIFY_01",
+      "grammarKey": "OTHER_NARU_IDENTIFY",
+      "question": "同形異義の語を識別するとき、最初に確認すべきものはどれか。",
+      "choices": [
+        "作者",
+        "文の長さ",
+        "和歌かどうか",
+        "上に付いている語の活用形"
+      ],
+      "answerIndex": 3,
+      "explanation": "接続から決めるのが最も確実。手順を固定しておくと未知の語形でも機械的に処理できる。"
+    },
+    {
+      "key": "OTHER_ONBIN_01",
+      "grammarKey": "OTHER_ONBIN",
+      "question": "「書きて」が「書いて」となる音便の種類はどれか。",
+      "choices": [
+        "ウ音便",
+        "撥音便",
+        "イ音便",
+        "促音便"
+      ],
+      "answerIndex": 2,
+      "explanation": "「き」が「い」に変わるのでイ音便。「白く→白う」はウ音便。"
+    },
+    {
+      "key": "OTHER_ONBIN_02",
+      "grammarKey": "OTHER_ONBIN",
+      "question": "「読みて」が「読んで」となる音便の種類はどれか。",
+      "choices": [
+        "促音便",
+        "撥音便",
+        "ウ音便",
+        "イ音便"
+      ],
+      "answerIndex": 1,
+      "explanation": "「み」が撥音「ん」に変わるので撥音便。"
+    },
+    {
+      "key": "OTHER_ONBIN_03",
+      "grammarKey": "OTHER_ONBIN",
+      "question": "「あるなり」が「あなり」となるのはなぜか。",
+      "choices": [
+        "係り結びのため",
+        "撥音便化した「ん」が表記されないため",
+        "音便は起きていない",
+        "ラ変が省略されるため"
+      ],
+      "answerIndex": 1,
+      "explanation": "「あるなり」→「あんなり」→「あなり」。撥音の無表記により伝聞推定の「なり」を見落としやすい。"
+    },
+    {
+      "key": "OTHER_DOSHI_KATSUYO_01",
+      "grammarKey": "OTHER_DOSHI_KATSUYO",
+      "question": "動詞の活用の種類を見分けるとき、まず行う操作はどれか。",
+      "choices": [
+        "「ず」を付けて直前の母音を見る",
+        "「けり」を付ける",
+        "終止形を数える",
+        "係助詞を探す"
+      ],
+      "answerIndex": 0,
+      "explanation": "ア段なら四段、イ段なら上二段、エ段なら下二段。変格活用は語を丸ごと覚える。"
+    },
+    {
+      "key": "OTHER_DOSHI_KATSUYO_02",
+      "grammarKey": "OTHER_DOSHI_KATSUYO",
+      "question": "古文の動詞の活用の種類はいくつあるか。",
+      "choices": [
+        "九種類",
+        "七種類",
+        "五種類",
+        "十二種類"
+      ],
+      "answerIndex": 0,
+      "explanation": "四段・上一段・上二段・下一段・下二段・カ変・サ変・ナ変・ラ変の九種類。"
+    },
+    {
+      "key": "OTHER_KEIYOSHI_01",
+      "grammarKey": "OTHER_KEIYOSHI",
+      "question": "形容詞のシク活用に分類される語はどれか。",
+      "choices": [
+        "深し",
+        "高し",
+        "白し",
+        "うれし"
+      ],
+      "answerIndex": 3,
+      "explanation": "「〜しく」と活用するものがシク活用。「うれしく」となるのでシク活用。"
+    },
+    {
+      "key": "OTHER_KEIYOSHI_02",
+      "grammarKey": "OTHER_KEIYOSHI",
+      "question": "形容詞のカリ活用（補助活用）が使われるのはどのような場合か。",
+      "choices": [
+        "助動詞を付けるとき",
+        "文末で言い切るとき",
+        "和歌のとき",
+        "体言に続くとき"
+      ],
+      "answerIndex": 0,
+      "explanation": "本活用では助動詞が付けられないため、「うれしかりけり」のように補助活用を用いる。"
+    },
+    {
+      "key": "OTHER_RAHEN_01",
+      "grammarKey": "OTHER_RAHEN",
+      "question": "終止形接続の助動詞がラ変型の語に付くとき、どの活用形に付くか。",
+      "choices": [
+        "未然形",
+        "已然形",
+        "連体形",
+        "連用形"
+      ],
+      "answerIndex": 2,
+      "explanation": "「あるべし」「あるなり」のように連体形に付く。「べし・らむ・めり・なり・まじ・らし」が該当する。"
+    },
+    {
+      "key": "OTHER_WAKA_SHUJI_01",
+      "grammarKey": "OTHER_WAKA_SHUJI",
+      "question": "訳出しないのが原則である和歌の修辞はどれか。",
+      "choices": [
+        "掛詞",
+        "本歌取り",
+        "序詞",
+        "枕詞"
+      ],
+      "answerIndex": 3,
+      "explanation": "枕詞は決まった語を導く五音の飾りで訳さない。序詞はその歌固有の導入なので訳す。"
+    },
+    {
+      "key": "OTHER_WAKA_SHUJI_02",
+      "grammarKey": "OTHER_WAKA_SHUJI",
+      "question": "「ながめ」に「眺め」と「長雨」を重ねる技法を何と呼ぶか。",
+      "choices": [
+        "序詞",
+        "枕詞",
+        "掛詞",
+        "縁語"
+      ],
+      "answerIndex": 2,
+      "explanation": "同音に二つの意味を重ねるのが掛詞。設問では両方の意味を訳すことが求められる。"
+    },
+    {
+      "key": "OTHER_JIDAI_01",
+      "grammarKey": "OTHER_JIDAI",
+      "question": "『土佐日記』の作者はだれか。",
+      "choices": [
+        "紀貫之",
+        "清少納言",
+        "紫式部",
+        "鴨長明"
+      ],
+      "answerIndex": 0,
+      "explanation": "紀貫之による最初の仮名日記。女性に仮託して書かれている。"
+    },
+    {
+      "key": "OTHER_JIDAI_02",
+      "grammarKey": "OTHER_JIDAI",
+      "question": "『方丈記』の作者はだれか。",
+      "choices": [
+        "松尾芭蕉",
+        "紀貫之",
+        "兼好法師",
+        "鴨長明"
+      ],
+      "answerIndex": 3,
+      "explanation": "鴨長明の随筆。兼好法師の『徒然草』、清少納言の『枕草子』と合わせて三大随筆と呼ばれる。"
+    },
+    {
+      "key": "OTHER_JIDAI_03",
+      "grammarKey": "OTHER_JIDAI",
+      "question": "『おくのほそ道』が成立した時代はどれか。",
+      "choices": [
+        "鎌倉時代",
+        "平安時代",
+        "奈良時代",
+        "近世（江戸時代）"
+      ],
+      "answerIndex": 3,
+      "explanation": "松尾芭蕉による近世の紀行文。他の主要作品の多くが中古・中世であるのと対比して覚える。"
+    },
+    {
+      "key": "OTHER_JIDAI_04",
+      "grammarKey": "OTHER_JIDAI",
+      "question": "現存する最古の物語とされる作品はどれか。",
+      "choices": [
+        "落窪物語",
+        "伊勢物語",
+        "竹取物語",
+        "源氏物語"
+      ],
+      "answerIndex": 2,
+      "explanation": "『竹取物語』は「物語の出で来はじめの祖」と『源氏物語』に評される。"
+    }
+  ]
+}
