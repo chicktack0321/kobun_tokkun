@@ -118,6 +118,18 @@ jobs:
             fail=1
           fi
 
+          # アプリアイコン。アセットカタログがビルドに含まれると Info.plist に
+          # CFBundleIcons が焼き込まれる。無いままアップロードすると審査ではなく
+          # App Store Connect の検証で弾かれ、ビルド番号を消費して上げ直しになる。
+          if ! /usr/libexec/PlistBuddy -c "Print :CFBundleIcons" "$PLIST" >/dev/null 2>&1; then
+            echo "::error::アプリアイコンが含まれていません（python scripts/make_app_icon.py を実行してコミットする）"
+            fail=1
+          fi
+          if [ ! -f "$APP/Assets.car" ]; then
+            echo "::error::Assets.car がありません（アセットカタログがビルドに含まれていない）"
+            fail=1
+          fi
+
           [ "$fail" -eq 0 ] || exit 1
           echo "OK: build=$BUILD / 暗号化宣言・バックグラウンド再生・表示名・プライバシーマニフェストすべて確認済み"
 
