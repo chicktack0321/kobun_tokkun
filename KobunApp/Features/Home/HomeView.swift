@@ -66,6 +66,7 @@ struct HomeView: View {
             }
         }
         .buttonStyle(.plain)
+        .accessibilityIdentifier(UITestID.historyCardLink)
     }
 
     /// 直近1週間の解答数。学習していない日も0で埋めて描く（飛ばすと横軸が詰まって推移が読めない）

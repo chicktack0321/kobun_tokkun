@@ -69,6 +69,9 @@ targets:
     deploymentTarget: "17.0"
     sources:
       - path: KobunAppUITests
+      # UIテストは別プロセスで動くためアプリのモジュールを import できない。
+      # 要素の識別子だけは両方に同じ定義を持たせ、片方だけ直して静かに壊れるのを防ぐ。
+      - path: KobunApp/Common/UITestID.swift
     dependencies:
       - target: KobunApp
     settings:

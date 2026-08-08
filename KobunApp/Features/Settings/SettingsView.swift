@@ -24,6 +24,7 @@ struct SettingsView: View {
                             .foregroundStyle(.secondary)
                     }
                 }
+                .accessibilityIdentifier(UITestID.paywallLink)
                 if let days = entitlements.trialDaysRemaining, !entitlements.rights.isPurchased {
                     LabeledContent("お試し期間", value: "あと \(days) 日")
                 }

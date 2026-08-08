@@ -52,6 +52,7 @@ struct LibraryView: View {
                         } label: {
                             WordRow(word: word, status: viewModel.wordStatus[word.wordId] ?? .notStudied)
                         }
+                        .accessibilityIdentifier(UITestID.libraryRow)
                     }
                 } header: {
                     Text("\(viewModel.filteredWords.count) 語")
@@ -69,6 +70,7 @@ struct LibraryView: View {
                                     status: viewModel.grammarStatus[item.grammarId] ?? .notStudied
                                 )
                             }
+                            .accessibilityIdentifier(UITestID.libraryRow)
                         }
                     } header: {
                         VStack(alignment: .leading, spacing: 2) {

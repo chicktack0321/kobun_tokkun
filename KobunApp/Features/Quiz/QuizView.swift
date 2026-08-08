@@ -249,6 +249,10 @@ private struct QuizPlayView: View {
                 }
                 .buttonStyle(.plain)
                 .disabled(viewModel.selectedChoiceIndex != nil)
+                // UIテストから選択肢だけを狙うための識別子。
+                // 添字（element(boundBy:)）で拾うと、ツールバーやタブバーのボタンまで
+                // 同じ並びに入るため、選択肢のつもりでタブを押す事故が起きる。
+                .accessibilityIdentifier(UITestID.quizChoice)
             }
         }
     }
