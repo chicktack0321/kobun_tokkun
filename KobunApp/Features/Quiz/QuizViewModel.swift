@@ -65,6 +65,17 @@ final class QuizViewModel {
     private(set) var wordPoolCount = 0
     private(set) var grammarPoolCount = 0
 
+    /// 習熟段階での絞り込み（nil はすべて）。「要復習だけ解き直す」が主な使い道。
+    /// 設定に残すので、アプリを開き直しても前回選んだ範囲のままになる。
+    var statusFilter: LearningStatus? = StudySettings.quizStatusFilter {
+        didSet {
+            guard statusFilter != oldValue else { return }
+            StudySettings.quizStatusFilter = statusFilter
+            notice = nil
+            refreshPoolCounts()
+        }
+    }
+
     private var content: ContentRepository?
     private var progressRepository: ProgressRepository?
     /// deinit（常にnonisolated）から安全にキャンセルできるよう、actor隔離チェックの対象から外す。
@@ -88,12 +99,17 @@ final class QuizViewModel {
         refreshPoolCounts()
     }
 
-    /// 権利が変わった（試用が切れた・購入した）ときにスタート画面の件数を合わせる
+    /// スタート画面の件数を合わせる。権利が変わったときと、絞り込みを変えたときに呼ぶ。
     func refreshPoolCounts() {
-        guard let content else { return }
+        guard let content, let progressRepository else { return }
         let rights = Entitlements.shared.rights
-        wordPoolCount = content.studyWords(rights: rights).count
-        grammarPoolCount = content.studyGrammarQuiz(rights: rights).count
+        let progress = progressRepository.allProgress()
+        wordPoolCount = StudyQueue.filter(
+            items: content.studyWords(rights: rights), byStatus: statusFilter, progress: progress
+        ).count
+        grammarPoolCount = StudyQueue.filter(
+            items: content.studyGrammarQuiz(rights: rights), byStatus: statusFilter, progress: progress
+        ).count
     }
 
     func start(_ request: QuizRequest) {
@@ -152,6 +168,11 @@ final class QuizViewModel {
     }
 
     private func emptyNotice(for request: QuizRequest) -> String {
+        // 絞り込みで0件になったのか、そもそも対象が無いのかを言い分ける。
+        // 同じ文言だと「絞り込みを外せば解ける」ことに気づけない。
+        if let statusFilter {
+            return "「\(statusFilter.displayName)」の項目がありません。絞り込みを「すべて」に戻すと出題できます。"
+        }
         switch request.scope {
         case .reviewOnly:
             return "復習の期限が来ている項目はありません。おつかれさまでした。"
@@ -171,15 +192,22 @@ final class QuizViewModel {
         scope: QuizScope,
         progress: [String: ItemProgress]
     ) -> [QuizQuestion] {
+        // 絞り込みは並べ替えの前に効かせる。あとから絞ると、10問に切り詰めた結果が
+        // すべて対象外だったときに0問になる。
+        let targets = StudyQueue.filter(items: pool, byStatus: statusFilter, progress: progress)
+
         let ordered: [WordMaster]
         switch scope {
         case .reviewOnly:
             // ホームの「復習がN件あります」から来た場合は、
             // 未学習を混ぜずに期限が来た項目だけを出す
-            ordered = StudyQueue.dueItems(items: pool, progress: progress)
+            ordered = StudyQueue.dueItems(items: targets, progress: progress)
         case .mixed, .grammarItem:
-            ordered = StudyQueue.prioritize(items: pool, progress: progress)
+            ordered = StudyQueue.prioritize(items: targets, progress: progress)
         }
+        // 誤選択肢は絞り込みの外からも選ぶ（`pool` のまま渡す）。
+        // 「未学習だけ」に絞ったときに選択肢まで未学習の語に限ると、訳の傾向が偏って
+        // 内容を知らなくても消去法で当てられるようになる。
         return ordered.prefix(Self.questionCount).map { makeWordQuestion(for: $0, pool: pool) }
     }
 
@@ -198,11 +226,13 @@ final class QuizViewModel {
             pool = content.studyGrammarQuiz(rights: rights)
         }
 
+        let targets = StudyQueue.filter(items: pool, byStatus: statusFilter, progress: progress)
+
         let ordered: [GrammarQuizItem]
         if case .reviewOnly = scope {
-            ordered = StudyQueue.dueItems(items: pool, progress: progress)
+            ordered = StudyQueue.dueItems(items: targets, progress: progress)
         } else {
-            ordered = StudyQueue.prioritize(items: pool, progress: progress)
+            ordered = StudyQueue.prioritize(items: targets, progress: progress)
         }
         return ordered.prefix(Self.questionCount).map(makeGrammarQuestion(for:))
     }

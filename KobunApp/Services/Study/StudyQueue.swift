@@ -60,6 +60,22 @@ enum StudyQueue {
         return due + unstudied + scheduled.sorted { $0.dueDate < $1.dueDate }.map(\.item)
     }
 
+    /// 習熟段階で絞り込む。`status` が nil ならそのまま返す。
+    ///
+    /// 進捗の行は「一度でも解いた項目」にしか無いので、行が無い項目は未学習として扱う。
+    /// 行の側から引くと未学習の項目が丸ごと抜け落ちる。
+    static func filter<Item: StudyItem>(
+        items: [Item],
+        byStatus status: LearningStatus?,
+        progress: [String: ItemProgress],
+        now: Date = .now
+    ) -> [Item] {
+        guard let status else { return items }
+        return items.filter { item in
+            (progress[item.studyItemId]?.status(at: now) ?? .notStudied) == status
+        }
+    }
+
     /// 復習期限が来ている項目だけを返す。未学習は「復習」ではないので含めない。
     /// ホームの「復習する項目がN件あります」から始めるクイズは、ここで返る項目だけを出題する。
     static func dueItems<Item: StudyItem>(

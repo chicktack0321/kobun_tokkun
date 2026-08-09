@@ -8,6 +8,35 @@ enum StudySettings {
         static let listeningSpeed = "listeningSpeed"
         static let listeningShuffle = "listeningShuffle"
         static let listeningReadsExample = "listeningReadsExample"
+        static let quizStatusFilter = "quizStatusFilter"
+        static let listeningStatusFilter = "listeningStatusFilter"
+    }
+
+    /// クイズの出題を習熟段階で絞る（nil はすべて）。
+    /// クイズと聞き流しで別々に持つ。「要復習だけ聞き流しつつ、クイズは全体を回す」のように
+    /// 使い分けたい場面があり、片方を変えたらもう片方も変わるのは意図と違う。
+    static var quizStatusFilter: LearningStatus? {
+        get { loadStatus(Key.quizStatusFilter) }
+        set { saveStatus(newValue, to: Key.quizStatusFilter) }
+    }
+
+    /// 聞き流しの再生対象を習熟段階で絞る（nil はすべて）
+    static var listeningStatusFilter: LearningStatus? {
+        get { loadStatus(Key.listeningStatusFilter) }
+        set { saveStatus(newValue, to: Key.listeningStatusFilter) }
+    }
+
+    private static func loadStatus(_ key: String) -> LearningStatus? {
+        guard let raw = UserDefaults.standard.string(forKey: key) else { return nil }
+        return LearningStatus(rawValue: raw)
+    }
+
+    private static func saveStatus(_ status: LearningStatus?, to key: String) {
+        if let status {
+            UserDefaults.standard.set(status.rawValue, forKey: key)
+        } else {
+            UserDefaults.standard.removeObject(forKey: key)
+        }
     }
 
     /// 出題された語を読み上げるか。

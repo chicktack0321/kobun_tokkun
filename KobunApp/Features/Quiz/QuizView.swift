@@ -76,6 +76,11 @@ private struct QuizStartView: View {
                         .background(Color(.secondarySystemBackground), in: RoundedRectangle(cornerRadius: 12))
                 }
 
+                StatusFilterCard(
+                    title: "出題する範囲",
+                    selection: Bindable(viewModel).statusFilter
+                )
+
                 genreCard(
                     genre: .word,
                     count: viewModel.wordPoolCount,
@@ -128,6 +133,25 @@ private struct QuizStartView: View {
     }
 }
 
+/// 習熟段階での絞り込み。クイズと聞き流しで同じ見た目・同じ並びにするため共通にしている。
+/// 「要復習だけ解き直す」「未学習だけ進める」がこの2画面での主な使い道。
+struct StatusFilterCard: View {
+    let title: String
+    @Binding var selection: LearningStatus?
+
+    var body: some View {
+        DashboardCard(title: title, infoMessage: MetricExplanations.masteryStages) {
+            Picker(title, selection: $selection) {
+                Text("すべて").tag(LearningStatus?.none)
+                ForEach(LearningStatus.allCases) { status in
+                    Text(status.displayName).tag(LearningStatus?.some(status))
+                }
+            }
+            .pickerStyle(.segmented)
+        }
+    }
+}
+
 /// 試用終了後・未購入のときに、何が制限されているのかを説明する。
 /// 「使えなくなった」ではなく「出題範囲が狭まっている」ことを明示するために出す。
 struct LockedRangeNotice: View {
@@ -153,6 +177,13 @@ struct LockedRangeNotice: View {
 private struct QuizPlayView: View {
     @Bindable var viewModel: QuizViewModel
 
+    /// スワイプで送っている最中の見た目のずれ。送り出しのアニメーションにも使う
+    @State private var dragOffset: CGFloat = 0
+    /// 送り出しの最中に二重で送らないための鍵
+    @State private var isAdvancing = false
+
+    private var hasAnswered: Bool { viewModel.selectedChoiceIndex != nil }
+
     var body: some View {
         VStack(spacing: 0) {
             ProgressView(value: viewModel.progressFraction)
@@ -164,28 +195,128 @@ private struct QuizPlayView: View {
                     if let question = viewModel.currentQuestion {
                         prompt(question)
                         choices(question)
-                        if viewModel.selectedChoiceIndex != nil {
+                        if hasAnswered {
                             feedback(question)
                         }
                     }
                 }
                 .padding()
             }
+            // `offset` はレイアウトを動かさないので、続く `clipped` は元の枠で切ってくれる。
+            // これが無いと、送り出したカードが進捗バーや下のボタンの上に描かれる。
+            .offset(y: dragOffset)
+            .clipped()
 
-            if viewModel.selectedChoiceIndex != nil {
-                Button {
-                    viewModel.goToNextQuestion()
-                } label: {
-                    Text(viewModel.currentQuestionIndex + 1 < viewModel.questions.count ? "次の問題へ" : "結果を見る")
-                        .frame(maxWidth: .infinity)
-                }
-                .buttonStyle(.borderedProminent)
-                .controlSize(.large)
-                .padding()
-            }
+            if hasAnswered { advanceBar }
         }
         .background(Color(.systemGroupedBackground))
+        // 次の解答で震わせるので、手が空いているこのタイミングで温めておく。
+        // 発火の直前に用意すると Taptic Engine が冷えた状態から起動され、一拍遅れて震える。
+        .onChange(of: viewModel.currentQuestionIndex, initial: true) { _, _ in
+            Haptics.prepare()
+        }
+        // 解答が確定した瞬間に手応えを返す。正解は1回、不正解は3回。
+        // 画面を見ずに解いていても正誤が分かるよう、はっきり差をつけている。
+        .onChange(of: viewModel.selectedChoiceIndex) { _, selected in
+            guard let selected, let question = viewModel.currentQuestion else { return }
+            if selected == question.correctIndex {
+                Haptics.success()
+            } else {
+                // 時間切れ（番兵 -1）もここに来る。答えられなかったことは伝わってよい
+                Haptics.failure()
+            }
+        }
     }
+
+    /// 解答後に出る送りの操作。
+    ///
+    /// スワイプの判定をこの帯だけに付けているのは、上のカード領域が `ScrollView` だから。
+    /// 画面全体に付けると、文法問題のように中身が画面に収まらないときに、
+    /// 上へスクロールしたつもりが次の問題へ飛んでしまう。
+    /// 解答後の親指はこの帯の上にあるので、片手で送れるという狙いは保てる。
+    private var advanceBar: some View {
+        VStack(spacing: 6) {
+            Button {
+                advance()
+            } label: {
+                Text(viewModel.currentQuestionIndex + 1 < viewModel.questions.count ? "次の問題へ" : "結果を見る")
+                    .frame(maxWidth: .infinity)
+            }
+            .buttonStyle(.borderedProminent)
+            .controlSize(.large)
+
+            Label("上にスワイプでも進めます", systemImage: "chevron.up")
+                .font(.caption2)
+                .foregroundStyle(.secondary)
+        }
+        .padding()
+        // ボタンの上だけでなく、周りの余白からでも送れるようにする
+        .contentShape(Rectangle())
+        .gesture(swipeToAdvance)
+    }
+
+    /// 解答後だけ、上へのドラッグで次の問題へ送る。
+    /// 解答前に効かせると、選択肢を読まないまま飛ばせてしまう。
+    private var swipeToAdvance: some Gesture {
+        DragGesture(minimumDistance: 8)
+            .onChanged { value in
+                guard hasAnswered, !isAdvancing else { return }
+                // 上方向にだけ付いていく。下へは動かさない
+                dragOffset = min(0, value.translation.height)
+            }
+            .onEnded { value in
+                guard hasAnswered, !isAdvancing else { return }
+                // 指を離した時点の勢いも見る。ゆっくり長く引かなくても送れるようにする
+                let flicked = value.predictedEndTranslation.height < -120
+                if value.translation.height < -60 || flicked {
+                    advance()
+                } else {
+                    withAnimation(.spring(response: 0.25, dampingFraction: 0.8)) {
+                        dragOffset = 0
+                    }
+                }
+            }
+    }
+
+    /// いま出ている問題を上へ送り出し、次の問題を下から入れる。
+    ///
+    /// SwiftUI の transition に任せると、`dragOffset` を0に戻した時点でカードが
+    /// 元の位置へ瞬間的に戻り、そこから改めて上へ動く。指を離した位置から
+    /// 続けて抜けていくように見せるため、送り出しと入れ替えを自分で順に動かす。
+    private func advance() {
+        guard !isAdvancing else { return }
+        isAdvancing = true
+        WordPronouncer.shared.stop()
+
+        // 1. 指を離した位置から、そのまま上へ抜ける
+        withAnimation(.easeIn(duration: Self.advanceDuration)) {
+            dragOffset = -Self.offscreenDistance
+        } completion: {
+            // 2. 画面外にいる間に問題を入れ替え、下へ回り込ませる（ここは動かして見せない）
+            var instant = Transaction()
+            instant.disablesAnimations = true
+            withTransaction(instant) {
+                viewModel.goToNextQuestion()
+                dragOffset = Self.offscreenDistance
+            }
+
+            // 3. 下から入ってくる。同じ描画のタイミングで指定すると
+            //    2の位置移動ごとアニメーションになってしまうため、1回ずらす
+            DispatchQueue.main.async {
+                withAnimation(.easeOut(duration: Self.advanceDuration)) {
+                    dragOffset = 0
+                }
+                isAdvancing = false
+            }
+        }
+    }
+
+    /// カードを完全に隠すのに十分な距離。表示領域は切り取っているのでこれ以上は見えない
+    private static let offscreenDistance: CGFloat = 700
+
+    /// 送り出しと入れ替えのそれぞれにかける時間。合計はこの倍になる。
+    /// テンポを優先して短めにしてある。長いと押してから待たされる感じが出る。
+    private static let advanceDuration: Double = 0.12
 
     private var header: some View {
         HStack {

@@ -6,9 +6,20 @@ import Observation
 @MainActor
 final class ListeningViewModel {
     private(set) var items: [ListeningItem] = []
-    /// 出題範囲の制限で聞ける語が減っているか（案内を出すかの判断に使う）
+    /// 権利の制限で聞ける語が減っているか（案内を出すかの判断に使う）
     private(set) var isLimited = false
-    private(set) var totalWordCount = 0
+    /// 絞り込みを外したときに聞ける語数。「0語」の理由を言い分けるのに使う
+    private(set) var unfilteredCount = 0
+
+    /// 習熟段階での絞り込み（nil はすべて）。
+    /// 「要復習だけ流す」が聞き流しの主な使い道になる。
+    var statusFilter: LearningStatus? = StudySettings.listeningStatusFilter {
+        didSet {
+            guard statusFilter != oldValue else { return }
+            StudySettings.listeningStatusFilter = statusFilter
+            rebuild()
+        }
+    }
 
     var isShuffled: Bool = StudySettings.listeningShuffle {
         didSet {
@@ -30,7 +41,13 @@ final class ListeningViewModel {
         }
     }
 
-    var speed: Double = StudySettings.listeningSpeed {
+    /// 選べる速さ。連続スライダーだと「今どのくらいなのか」「標準はどこか」が分からないため、
+    /// 段階を決め打ちにして倍率をそのまま見せる。
+    ///
+    /// 2.0倍は外している。合成音声が潰れて語の聞き分けができず、聞き流しの用をなさないため。
+    static let speedOptions: [Double] = [0.8, 1.0, 1.2, 1.5]
+
+    var speed: Double = ListeningViewModel.nearestSpeedOption(to: StudySettings.listeningSpeed) {
         didSet {
             guard speed != oldValue else { return }
             StudySettings.listeningSpeed = speed
@@ -39,11 +56,19 @@ final class ListeningViewModel {
         }
     }
 
+    /// 保存済みの値が選択肢に無い場合（スライダーだったころの 1.1 など）に一番近い段階へ寄せる。
+    /// そのままだとセグメントがどれも選ばれていない状態になり、今の速さが読み取れない。
+    private static func nearestSpeedOption(to value: Double) -> Double {
+        speedOptions.min(by: { abs($0 - value) < abs($1 - value) }) ?? 1.0
+    }
+
     private var content: ContentRepository?
+    private var progressRepository: ProgressRepository?
 
     func configure(context: ModelContext) {
         if content == nil {
             content = ContentRepository(context: context)
+            progressRepository = ProgressRepository(context: context)
         }
         AudioPlaybackManager.shared.readsExample = readsExample
         AudioPlaybackManager.shared.speedMultiplier = speed
@@ -51,15 +76,20 @@ final class ListeningViewModel {
     }
 
     func rebuild() {
-        guard let content else { return }
+        guard let content, let progressRepository else { return }
         let rights = Entitlements.shared.rights
         let all = content.allWords()
         let pool = content.studyWords(rights: rights)
 
-        totalWordCount = all.count
+        unfilteredCount = pool.count
         isLimited = pool.count < all.count
 
-        let ordered = isShuffled ? pool.shuffled() : pool
+        let filtered = StudyQueue.filter(
+            items: pool,
+            byStatus: statusFilter,
+            progress: progressRepository.allProgress()
+        )
+        let ordered = isShuffled ? filtered.shuffled() : filtered
         items = ordered.map {
             ListeningItem(
                 id: $0.wordId,
@@ -76,8 +106,7 @@ final class ListeningViewModel {
     /// 先頭に戻すと「例文も読む」に切り替えるたびに最初からになってしまう。
     private func restartFromCurrent() {
         let player = AudioPlaybackManager.shared
-        let index = player.currentIndex
-        player.play(items: items, startAt: index)
+        player.play(items: items, startAt: player.currentIndex)
     }
 
     func play(from index: Int = 0) {

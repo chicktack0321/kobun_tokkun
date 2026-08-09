@@ -106,6 +106,64 @@ final class StudyQueueTests: XCTestCase {
         )
     }
 
+    // MARK: - 習熟段階での絞り込み
+
+    func testFilterByStatusTreatsMissingRowsAsNotStudied() {
+        // 進捗の行は「一度でも解いた項目」にしか無い。行の側から引くと未学習が丸ごと抜ける
+        let items = [StubItem(studyItemId: "new1"), StubItem(studyItemId: "new2"),
+                     StubItem(studyItemId: "due")]
+        let progressById = ["due": progress(id: "due", attempts: 1, nextReviewOffsetDays: -1)]
+
+        let notStudied = StudyQueue.filter(
+            items: items, byStatus: .notStudied, progress: progressById, now: now
+        )
+
+        XCTAssertEqual(Set(notStudied.map(\.studyItemId)), ["new1", "new2"])
+    }
+
+    func testFilterByStatusPicksNeedsReview() {
+        let items = [StubItem(studyItemId: "due"), StubItem(studyItemId: "later"),
+                     StubItem(studyItemId: "new")]
+        let progressById = [
+            "due": progress(id: "due", attempts: 2, nextReviewOffsetDays: -1),
+            "later": progress(id: "later", attempts: 2, nextReviewOffsetDays: 5)
+        ]
+
+        let due = StudyQueue.filter(items: items, byStatus: .needsReview, progress: progressById, now: now)
+
+        XCTAssertEqual(due.map(\.studyItemId), ["due"])
+    }
+
+    func testFilterByStatusNilReturnsEverything() {
+        let items = [StubItem(studyItemId: "a"), StubItem(studyItemId: "b")]
+
+        let all = StudyQueue.filter(items: items, byStatus: nil, progress: [:], now: now)
+
+        XCTAssertEqual(all.count, 2, "「すべて」を選んだときに絞り込んではいけない")
+    }
+
+    func testFilterByStatusSeparatesLearningFromMemorized() {
+        // 覚えた = 7日間隔（box3以上）に到達し、まだ期限が来ていないもの
+        let learning = ItemProgress(itemId: "learning", attemptCount: 1, reviewBox: 1,
+                                    nextReviewAt: now.addingTimeInterval(86_400))
+        let memorized = ItemProgress(itemId: "memorized", attemptCount: 1,
+                                     reviewBox: ItemProgress.masteredBox,
+                                     nextReviewAt: now.addingTimeInterval(7 * 86_400))
+        let items = [StubItem(studyItemId: "learning"), StubItem(studyItemId: "memorized")]
+        let progressById = ["learning": learning, "memorized": memorized]
+
+        XCTAssertEqual(
+            StudyQueue.filter(items: items, byStatus: .learning, progress: progressById, now: now)
+                .map(\.studyItemId),
+            ["learning"]
+        )
+        XCTAssertEqual(
+            StudyQueue.filter(items: items, byStatus: .memorized, progress: progressById, now: now)
+                .map(\.studyItemId),
+            ["memorized"]
+        )
+    }
+
     func testEmptyInput() {
         let empty: [StubItem] = []
         XCTAssertTrue(StudyQueue.prioritize(items: empty, progress: [:], now: now).isEmpty)
