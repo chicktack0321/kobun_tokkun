@@ -13,9 +13,9 @@ App Store のアイコンには決まりがある。守らないと審査では�
 下の定数を変えるか、`--source <画像>` で自前の画像から作る。
 
 使い方:
-    python scripts/make_app_icon.py                 # 描いて生成
-    python scripts/make_app_icon.py --source art.png  # 元画像から生成
-    python scripts/make_app_icon.py --check         # 既存アイコンの検証のみ
+    python scripts/make_app_icon.py                   # 既定の元画像から生成
+    python scripts/make_app_icon.py --source art.png  # 別の画像から生成
+    python scripts/make_app_icon.py --check           # 既存アイコンの検証のみ
 
 必要なもの: Pillow
 """
@@ -155,7 +155,7 @@ def write_contents_json() -> None:
 
 def main() -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--source", type=Path, help="元画像から作る（省略時は描画して作る）")
+    parser.add_argument("--source", type=Path, help="別の画像から作る（省略時は docs/assets/app-icon-source.png）")
     parser.add_argument("--check", action="store_true", help="既存アイコンの検証のみ")
     args = parser.parse_args()
 
