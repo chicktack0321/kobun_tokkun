@@ -8,8 +8,8 @@ App Store のアイコンには決まりがある。守らないと審査では�
   - アルファチャンネルを持たない（透過があると弾かれる）
   - 角丸を焼き込まない（Apple 側がマスクをかけるので、素材に角丸があると角に縁が残る）
 
-参考元（英単語アプリ）は用意した元画像を変換する作りだったが、こちらは
-素材を持たないため、その場で描いて出す。デザインを差し替えたくなったら
+元画像があればそれを変換し、無ければその場で描く。素材の差し替えに備えて
+両方の経路を残している。デザインを差し替えたくなったら
 下の定数を変えるか、`--source <画像>` で自前の画像から作る。
 
 使い方:
@@ -32,6 +32,11 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path(__file__).resolve().parent.parent
 ICONSET = ROOT / "KobunApp/Resources/Assets.xcassets/AppIcon.appiconset"
 OUT = ICONSET / "AppIcon-1024.png"
+
+# 既定の元画像。置いてあればこれを使い、無ければその場で描く。
+# パスを決め打ちにしているのは、`python scripts/make_app_icon.py` を引数なしで
+# 実行したときに、いま同梱されているアイコンが再現できるようにするため。
+DEFAULT_SOURCE = ROOT / "docs/assets/app-icon-source.png"
 
 SIZE = 1024
 
@@ -158,7 +163,13 @@ def main() -> int:
         return check(OUT)
 
     ICONSET.mkdir(parents=True, exist_ok=True)
-    im = from_source(args.source) if args.source else draw_icon()
+    source = args.source or (DEFAULT_SOURCE if DEFAULT_SOURCE.exists() else None)
+    if source:
+        print(f"元画像: {Path(source).relative_to(ROOT)}")
+        im = from_source(Path(source))
+    else:
+        print("元画像が無いため描画して作ります")
+        im = draw_icon()
     # アルファを持たせないよう RGB のまま保存する
     im.save(OUT, "PNG")
     write_contents_json()
