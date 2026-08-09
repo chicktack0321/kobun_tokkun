@@ -11,9 +11,6 @@ enum AppConfig {
     /// 同梱する学習データ（拡張子を除いたファイル名）
     static let seedResourceName = "kobun_seed"
 
-    /// App内課金のプロダクトID
-    static let unlockProductID = "com.eitango.kobun.unlock.full"
-
     /// ロック画面・コントロールセンターに出すアルバム名（聞き流し）
     static let nowPlayingAlbumTitle = "古文単語 聞き流し"
 

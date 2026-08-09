@@ -33,8 +33,6 @@ final class GrammarMaster {
     var exampleTranslation: String
     var source: String
 
-    var isFree: Bool
-
     /// 表示順。五十音ではなく文法書の慣例順（助動詞なら接続順）に並べるため、データ側で明示する
     var sortOrder: Int
 
@@ -51,7 +49,6 @@ final class GrammarMaster {
         example: String = "",
         exampleTranslation: String = "",
         source: String = "",
-        isFree: Bool = false,
         sortOrder: Int = 0,
         updatedAt: Date = .now
     ) {
@@ -65,7 +62,6 @@ final class GrammarMaster {
         self.example = example
         self.exampleTranslation = exampleTranslation
         self.source = source
-        self.isFree = isFree
         self.sortOrder = sortOrder
         self.updatedAt = updatedAt
     }

@@ -2,34 +2,15 @@ import SwiftUI
 import SwiftData
 
 /// ホーム右上の歯車から開く。タブを増やさずに済ませるため、
-/// 学習に直接関わらない項目（購入・読み上げ設定・アプリ情報）をここにまとめる。
+/// 学習に直接関わらない項目（音の設定・収録内容・アプリ情報）をここにまとめる。
 struct SettingsView: View {
     @Environment(\.modelContext) private var context
-    @State private var entitlements = Entitlements.shared
     @State private var audio = GameAudio.shared
     @State private var pronouncesWords = StudySettings.pronouncesWords
     @State private var counts = (words: 0, grammar: 0, quiz: 0)
 
     var body: some View {
         List {
-            Section("学習範囲") {
-                NavigationLink {
-                    PaywallView()
-                } label: {
-                    HStack {
-                        Text("出題範囲")
-                        Spacer()
-                        Text(entitlements.accessSummary)
-                            .font(.footnote)
-                            .foregroundStyle(.secondary)
-                    }
-                }
-                .accessibilityIdentifier(UITestID.paywallLink)
-                if let days = entitlements.trialDaysRemaining, !entitlements.rights.isPurchased {
-                    LabeledContent("お試し期間", value: "あと \(days) 日")
-                }
-            }
-
             Section("音") {
                 Toggle("効果音とBGM", isOn: Bindable(audio).isEnabled)
                 Toggle("出題した語を読み上げる", isOn: $pronouncesWords)
@@ -56,7 +37,7 @@ struct SettingsView: View {
             }
 
             Section {
-                Text("通信・アカウント登録なしで動作します。学習の記録は端末内にのみ保存され、外部に送信されません。読み上げにはiOS標準の音声合成を使用しています。")
+                Text("すべての機能を無料でご利用いただけます。App内課金・広告・サブスクリプションはありません。通信・アカウント登録なしで動作し、学習の記録は端末内にのみ保存されます。読み上げにはiOS標準の音声合成を使用しています。")
                     .font(.caption)
                     .foregroundStyle(.secondary)
             }

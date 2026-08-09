@@ -48,11 +48,8 @@ final class HomeViewModel {
         wordSummary = progressRepository.summarize(itemIds: words.map(\.wordId))
         grammarSummary = progressRepository.summarize(itemIds: quizItems.map(\.quizId))
 
-        // 復習の件数は「出題できる範囲」で数える。閲覧できる全項目で数えると、
-        // 押しても出題されない項目まで含まれて件数と実際の出題数が食い違う。
-        let rights = Entitlements.shared.rights
         let progress = progressRepository.allProgress()
-        dueCount = StudyQueue.dueCount(items: content.studyWords(rights: rights), progress: progress, now: now)
-            + StudyQueue.dueCount(items: content.studyGrammarQuiz(rights: rights), progress: progress, now: now)
+        dueCount = StudyQueue.dueCount(items: words, progress: progress, now: now)
+            + StudyQueue.dueCount(items: quizItems, progress: progress, now: now)
     }
 }

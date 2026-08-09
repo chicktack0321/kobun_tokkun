@@ -111,7 +111,7 @@ final class KobunAppUITests: XCTestCase {
         capture("10_Listening")
     }
 
-    /// ホーム右上の歯車 → 設定 → 購入画面
+    /// ホーム右上の歯車 → 設定
     private func captureSettings() {
         selectTab("ホーム")
 
@@ -121,11 +121,6 @@ final class KobunAppUITests: XCTestCase {
         settle()
         assertOnScreen(title: "設定")
         capture("11_Settings")
-
-        tap(id: UITestID.paywallLink, describing: "設定の出題範囲")
-        assertOnScreen(title: "すべてを解放")
-        capture("12_Paywall")
-        goBack()
         goBack()
     }
 

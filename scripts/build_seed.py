@@ -83,22 +83,21 @@ def build_words(raw: dict) -> list[dict]:
             "example": require(entry, "example", where),
             "exampleTranslation": require(entry, "exampleTranslation", where),
             "source": entry.get("source", "") or "",
-            "isFree": bool(entry.get("isFree", False)),
         })
 
     return words
 
 
-def build_grammar(raw: dict) -> tuple[list[dict], dict[str, bool]]:
-    """文法項目を組み立て、key -> isFree の表も返す（問題への伝播に使う）"""
+def build_grammar(raw: dict) -> tuple[list[dict], set[str]]:
+    """文法項目を組み立て、存在する key の集合も返す（問題の参照先の検証に使う）"""
     grammar = []
-    free_by_key: dict[str, bool] = {}
+    keys: set[str] = set()
     seen_orders: dict[int, str] = {}
 
     for entry in raw.get("grammar", []):
         key = require(entry, "key", "grammar")
         where = f"grammar[{key}]"
-        if key in free_by_key:
+        if key in keys:
             raise ValidationError(f"{where}: key が重複しています")
 
         category = require(entry, "category", where)
@@ -116,8 +115,7 @@ def build_grammar(raw: dict) -> tuple[list[dict], dict[str, bool]]:
             )
         seen_orders[sort_order] = key
 
-        is_free = bool(entry.get("isFree", False))
-        free_by_key[key] = is_free
+        keys.add(key)
 
         grammar.append({
             "grammarId": GRAMMAR_ID_PREFIX + key,
@@ -130,15 +128,14 @@ def build_grammar(raw: dict) -> tuple[list[dict], dict[str, bool]]:
             "example": require(entry, "example", where),
             "exampleTranslation": require(entry, "exampleTranslation", where),
             "source": entry.get("source", "") or "",
-            "isFree": is_free,
             "sortOrder": sort_order,
         })
 
     grammar.sort(key=lambda g: g["sortOrder"])
-    return grammar, free_by_key
+    return grammar, keys
 
 
-def build_quiz(raw: dict, free_by_grammar_key: dict[str, bool]) -> list[dict]:
+def build_quiz(raw: dict, grammar_keys: set[str]) -> list[dict]:
     quiz = []
     seen_keys: set[str] = set()
 
@@ -150,7 +147,7 @@ def build_quiz(raw: dict, free_by_grammar_key: dict[str, bool]) -> list[dict]:
         seen_keys.add(key)
 
         grammar_key = require(entry, "grammarKey", where)
-        if grammar_key not in free_by_grammar_key:
+        if grammar_key not in grammar_keys:
             raise ValidationError(f"{where}: grammarKey '{grammar_key}' に対応する文法項目がありません")
 
         choices = entry.get("choices")
@@ -173,17 +170,15 @@ def build_quiz(raw: dict, free_by_grammar_key: dict[str, bool]) -> list[dict]:
             "choices": choices,
             "answerIndex": answer_index,
             "explanation": require(entry, "explanation", where),
-            # 解説が無料なのに問題が有料だと学習が途中で途切れるため、項目側から伝播させる
-            "isFree": free_by_grammar_key[grammar_key],
         })
 
     return quiz
 
 
 def report(words: list[dict], grammar: list[dict], quiz: list[dict]) -> None:
-    print(f"単語     : {len(words):4d} 件（無料 {sum(w['isFree'] for w in words)}）")
-    print(f"文法項目 : {len(grammar):4d} 件（無料 {sum(g['isFree'] for g in grammar)}）")
-    print(f"文法問題 : {len(quiz):4d} 件（無料 {sum(q['isFree'] for q in quiz)}）")
+    print(f"単語     : {len(words):4d} 件")
+    print(f"文法項目 : {len(grammar):4d} 件")
+    print(f"文法問題 : {len(quiz):4d} 件")
 
     # 問題が1問も無い文法項目は解説だけになり、習熟度が永遠に「未学習」のままになる。
     # 作りかけを見落とさないよう警告する（エラーにはしない。解説専用の項目もありうる）。
@@ -201,8 +196,8 @@ def main() -> int:
 
     try:
         words = build_words(load("words.json"))
-        grammar, free_by_key = build_grammar(load("grammar.json"))
-        quiz = build_quiz(load("grammar_quiz.json"), free_by_key)
+        grammar, grammar_keys = build_grammar(load("grammar.json"))
+        quiz = build_quiz(load("grammar_quiz.json"), grammar_keys)
     except ValidationError as e:
         print(f"検証エラー: {e}", file=sys.stderr)
         return 1

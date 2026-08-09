@@ -7,7 +7,6 @@ struct ListeningView: View {
     @Environment(\.modelContext) private var context
     @State private var viewModel = ListeningViewModel()
     @State private var player = AudioPlaybackManager.shared
-    @State private var entitlements = Entitlements.shared
 
     var body: some View {
         NavigationStack {
@@ -21,7 +20,6 @@ struct ListeningView: View {
                     controls
                     speedCard
                     playSettingsCard
-                    if viewModel.isLimited { LockedRangeNotice() }
                     if !viewModel.items.isEmpty { playlist }
                 }
                 .padding()
@@ -31,7 +29,6 @@ struct ListeningView: View {
             .navigationBarTitleDisplayMode(.inline)
         }
         .onAppear { viewModel.configure(context: context) }
-        .onChange(of: entitlements.rights) { _, _ in viewModel.rebuild() }
         // 対象が変わったら再生を止める。いま聞こえている語が一覧から消えた状態で
         // 再生が続くと、どこを流しているのか分からなくなるため。
         .onChange(of: viewModel.statusFilter) { _, _ in player.stop() }

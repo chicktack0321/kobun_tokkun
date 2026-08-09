@@ -17,7 +17,6 @@ final class SeedDataTests: XCTestCase {
             let partOfSpeech: String
             let example: String
             let exampleTranslation: String
-            let isFree: Bool
         }
         struct Grammar: Decodable {
             let grammarId: String
@@ -25,7 +24,6 @@ final class SeedDataTests: XCTestCase {
             let category: String
             let meaning: String
             let explanation: String
-            let isFree: Bool
             let sortOrder: Int
         }
         struct Quiz: Decodable {
@@ -35,7 +33,6 @@ final class SeedDataTests: XCTestCase {
             let choices: [String]
             let answerIndex: Int
             let explanation: String
-            let isFree: Bool
         }
         let version: Int
         let words: [Word]
@@ -123,23 +120,5 @@ final class SeedDataTests: XCTestCase {
             XCTAssertTrue(grammarIds.contains(quiz.grammarId),
                           "\(quiz.quizId): 参照先の文法項目 \(quiz.grammarId) が無い")
         }
-    }
-
-    /// 解説が無料なのに問題が有料（またはその逆）だと、学習が途中で不自然に途切れる
-    func testQuizFreeFlagMatchesItsGrammarItem() {
-        let freeByGrammarId = Dictionary(
-            seed.grammar.map { ($0.grammarId, $0.isFree) },
-            uniquingKeysWith: { first, _ in first }
-        )
-        for quiz in seed.grammarQuiz {
-            XCTAssertEqual(freeByGrammarId[quiz.grammarId], quiz.isFree,
-                           "\(quiz.quizId): 無料/有料が文法項目と食い違っている")
-        }
-    }
-
-    /// 未購入・試用終了後でも学習を続けられる分量が残っている必要がある
-    func testFreeRangeIsUsable() {
-        XCTAssertGreaterThanOrEqual(seed.words.filter(\.isFree).count, 100)
-        XCTAssertGreaterThanOrEqual(seed.grammarQuiz.filter(\.isFree).count, 20)
     }
 }

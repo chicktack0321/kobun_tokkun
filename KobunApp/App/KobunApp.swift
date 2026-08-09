@@ -6,9 +6,6 @@ struct KobunApp: App {
     var body: some Scene {
         WindowGroup {
             RootTabView()
-                // 試用の起点の記録・購入状態の読み直し・払い戻しの購読をここで始める。
-                // 起動直後に確定させないと、権利が無い状態で一瞬だけ全項目が出題対象になる。
-                .task { Entitlements.shared.start() }
         }
         .modelContainer(AppContainer.shared)
     }

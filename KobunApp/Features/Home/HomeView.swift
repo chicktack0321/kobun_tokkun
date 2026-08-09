@@ -7,7 +7,6 @@ struct HomeView: View {
     @Environment(TabRouter.self) private var router
 
     @State private var viewModel = HomeViewModel()
-    @State private var entitlements = Entitlements.shared
 
     var body: some View {
         NavigationStack {
@@ -18,7 +17,6 @@ struct HomeView: View {
                     startCard
                     masteryCard(title: "単語", summary: viewModel.wordSummary)
                     masteryCard(title: "文法（問題）", summary: viewModel.grammarSummary)
-                    if !entitlements.hasFullAccess { LockedRangeNotice() }
                 }
                 .padding()
             }
@@ -35,11 +33,7 @@ struct HomeView: View {
                 }
             }
         }
-        .onAppear {
-            viewModel.configure(context: context)
-            // 試用の残り日数は日付が変われば変わる。戻るたびに数え直す
-            entitlements.refreshTrial()
-        }
+        .onAppear { viewModel.configure(context: context) }
     }
 
     // MARK: - カード

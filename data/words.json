@@ -8,8 +8,7 @@
       "partOfSpeech": "adjective",
       "example": "あいなく思へど、えとどめず。",
       "exampleTranslation": "気に入らないと思うが、止めることができない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "AKARASAMANARI",
@@ -19,8 +18,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "あからさまに立ち出でて、やがて帰りぬ。",
       "exampleTranslation": "ちょっとの間出かけて、すぐに帰った。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "AKIRAMU",
@@ -30,8 +28,7 @@
       "partOfSpeech": "verb",
       "example": "事の心をあきらめむとす。",
       "exampleTranslation": "事の道理を明らかにしようとする。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "AKUGARU",
@@ -41,8 +38,7 @@
       "partOfSpeech": "verb",
       "example": "もの思ふ人の魂はあくがるるものなり。",
       "exampleTranslation": "もの思いをする人の魂は体から離れさまようものだ。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ASAMASHI",
@@ -52,8 +48,7 @@
       "partOfSpeech": "adjective",
       "example": "かかる姿を見て、あさましと思ふ。",
       "exampleTranslation": "このような姿を見て、驚きあきれると思う。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ASHI",
@@ -63,8 +58,7 @@
       "partOfSpeech": "adjective",
       "example": "あしき事をば言ふまじ。",
       "exampleTranslation": "悪いことは言うべきでない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ASHITA",
@@ -74,8 +68,7 @@
       "partOfSpeech": "noun",
       "example": "つとめてより、あしたまで待ちけり。",
       "exampleTranslation": "早朝から、翌朝まで待った。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ASOBU",
@@ -85,8 +78,7 @@
       "partOfSpeech": "verb",
       "example": "夜もすがら、月のもとにあそぶ。",
       "exampleTranslation": "一晩中、月の下で管弦を楽しむ。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ATARASHI",
@@ -96,8 +88,7 @@
       "partOfSpeech": "adjective",
       "example": "あたらしき人を失ひぬ。",
       "exampleTranslation": "惜しい人を失ってしまった。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ADANARI",
@@ -107,8 +98,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "あだなる契りを頼みけり。",
       "exampleTranslation": "はかない約束をあてにしていた。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ATSUSHI",
@@ -118,8 +108,7 @@
       "partOfSpeech": "adjective",
       "example": "日ごろあつしくなりて、起き上がらず。",
       "exampleTranslation": "何日も病気が重くなって、起き上がらない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ATENARI",
@@ -129,8 +118,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "あてなる女の、笛吹きゐたり。",
       "exampleTranslation": "高貴な女性が、笛を吹いて座っていた。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ADIKINASHI",
@@ -140,8 +128,7 @@
       "partOfSpeech": "adjective",
       "example": "世の中はあぢきなきものなり。",
       "exampleTranslation": "世の中はどうしようもないものだ。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ANAKAMA",
@@ -151,8 +138,7 @@
       "partOfSpeech": "phrase",
       "example": "あなかま、人に聞かすな。",
       "exampleTranslation": "しっ、静かに、人に聞かせるな。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ANAGACHINARI",
@@ -162,8 +148,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "あながちに乞ふゆゑ、許しつ。",
       "exampleTranslation": "強引に頼むので、許した。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "AMATA",
@@ -173,8 +158,7 @@
       "partOfSpeech": "adverb",
       "example": "人あまた集まりて、騒ぎけり。",
       "exampleTranslation": "人がたくさん集まって、騒いだ。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "AHARENARI",
@@ -184,8 +168,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "秋の夕暮こそ、あはれなれ。",
       "exampleTranslation": "秋の夕暮れは、しみじみと趣深い。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "AU",
@@ -195,8 +178,7 @@
       "partOfSpeech": "verb",
       "example": "忍びて、女にあひにけり。",
       "exampleTranslation": "人目を忍んで、女と結婚した。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "AYASHI",
@@ -206,8 +188,7 @@
       "partOfSpeech": "adjective",
       "example": "あやしき賤の家に宿りぬ。",
       "exampleTranslation": "粗末な身分の低い者の家に泊まった。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "AYANASHI",
@@ -217,8 +198,7 @@
       "partOfSpeech": "adjective",
       "example": "あやなく人を恨みけり。",
       "exampleTranslation": "わけもなく人を恨んだ。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "AYANIKUNARI",
@@ -228,8 +208,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "あやにくに雨降りて、え出でず。",
       "exampleTranslation": "あいにく雨が降って、出かけられない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ARAMAHOSHI",
@@ -239,8 +218,7 @@
       "partOfSpeech": "adjective",
       "example": "あらまほしき住まひなり。",
       "exampleTranslation": "理想的な住まいである。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ARIGATASHI",
@@ -250,8 +228,7 @@
       "partOfSpeech": "adjective",
       "example": "かかる人は世にありがたし。",
       "exampleTranslation": "このような人は世にめったにいない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ARIKU",
@@ -261,8 +238,7 @@
       "partOfSpeech": "verb",
       "example": "野山にまじりて、ありきけり。",
       "exampleTranslation": "野山に分け入って、歩き回った。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ARUJI",
@@ -272,8 +248,7 @@
       "partOfSpeech": "noun",
       "example": "あるじまうけしていたはる。",
       "exampleTranslation": "ごちそうを用意してもてなす。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "IKADE",
@@ -283,8 +258,7 @@
       "partOfSpeech": "adverb",
       "example": "いかで京へ帰らむ。",
       "exampleTranslation": "なんとかして都へ帰りたい。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "IGITANASHI",
@@ -294,8 +268,7 @@
       "partOfSpeech": "adjective",
       "example": "いぎたなくて、朝の勤めを怠る。",
       "exampleTranslation": "眠りこけていて、朝の勤めを怠る。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ISASAKA",
@@ -305,8 +278,7 @@
       "partOfSpeech": "adverb",
       "example": "いささかも心を許さず。",
       "exampleTranslation": "少しも気を許さない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ISOGU",
@@ -316,8 +288,7 @@
       "partOfSpeech": "verb",
       "example": "旅の装ひをいそぐ。",
       "exampleTranslation": "旅の支度を準備する。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ITASHI",
@@ -327,8 +298,7 @@
       "partOfSpeech": "adjective",
       "example": "いたく嘆きて、水も飲まず。",
       "exampleTranslation": "ひどく嘆いて、水も飲まない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ITAHARU",
@@ -338,8 +308,7 @@
       "partOfSpeech": "verb",
       "example": "親をいたはりて仕ふ。",
       "exampleTranslation": "親を大切に世話して仕える。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ITADURANARI",
@@ -349,8 +318,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "いたづらに日を過ぐす。",
       "exampleTranslation": "無駄に日を過ごす。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ITSUKU",
@@ -360,8 +328,7 @@
       "partOfSpeech": "verb",
       "example": "娘をいつきかしづく。",
       "exampleTranslation": "娘を大切に育てる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ITSUSHIKA",
@@ -371,8 +338,7 @@
       "partOfSpeech": "adverb",
       "example": "いつしか花の咲かなむ。",
       "exampleTranslation": "早く花が咲いてほしい。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ITODO",
@@ -382,8 +348,7 @@
       "partOfSpeech": "adverb",
       "example": "いとど心細くなりぬ。",
       "exampleTranslation": "ますます心細くなった。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ITOHOSHI",
@@ -393,8 +358,7 @@
       "partOfSpeech": "adjective",
       "example": "幼き子をいとほしと思ふ。",
       "exampleTranslation": "幼い子をかわいいと思う。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "IDOMU",
@@ -404,8 +368,7 @@
       "partOfSpeech": "verb",
       "example": "歌をもていどみけり。",
       "exampleTranslation": "歌で競い合った。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "INABU",
@@ -415,8 +378,7 @@
       "partOfSpeech": "verb",
       "example": "強ひて乞へど、いなびけり。",
       "exampleTranslation": "無理に頼んだが、断った。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "IFUKAHINASHI",
@@ -426,8 +388,7 @@
       "partOfSpeech": "adjective",
       "example": "いふかひなき身と嘆く。",
       "exampleTranslation": "取るに足りない身だと嘆く。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "IMAIMASHI",
@@ -437,8 +398,7 @@
       "partOfSpeech": "adjective",
       "example": "いまいましき事を口にす。",
       "exampleTranslation": "不吉なことを口にする。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "IMAMEKASHI",
@@ -448,8 +408,7 @@
       "partOfSpeech": "adjective",
       "example": "いまめかしき装ひなり。",
       "exampleTranslation": "現代風で華やかな装いである。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "IMIJI",
@@ -459,8 +418,7 @@
       "partOfSpeech": "adjective",
       "example": "いみじうめでたき琴の音なり。",
       "exampleTranslation": "たいそうすばらしい琴の音である。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "IYASHI",
@@ -470,8 +428,7 @@
       "partOfSpeech": "adjective",
       "example": "いやしき者も、心はいやしからず。",
       "exampleTranslation": "身分の低い者も、心は下品ではない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "IRAFU",
@@ -481,8 +438,7 @@
       "partOfSpeech": "verb",
       "example": "問へど、いらへもせず。",
       "exampleTranslation": "尋ねるが、返事もしない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "IRO",
@@ -492,8 +448,7 @@
       "partOfSpeech": "noun",
       "example": "色を好む人なりけり。",
       "exampleTranslation": "恋愛を好む人であった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "UKETAMAHARU",
@@ -503,8 +458,7 @@
       "partOfSpeech": "verb",
       "example": "仰せをうけたまはりぬ。",
       "exampleTranslation": "お言葉をお聞きした。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "USHI",
@@ -514,8 +468,7 @@
       "partOfSpeech": "adjective",
       "example": "世をうしと思ひて、山に入る。",
       "exampleTranslation": "世の中をつらいと思って、山に入る。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "USHIROMETASHI",
@@ -525,8 +478,7 @@
       "partOfSpeech": "adjective",
       "example": "子の行く末うしろめたし。",
       "exampleTranslation": "子の将来が気がかりだ。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "USHIROYASUSHI",
@@ -536,8 +488,7 @@
       "partOfSpeech": "adjective",
       "example": "かの人に任せば、うしろやすし。",
       "exampleTranslation": "あの人に任せれば、安心だ。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "USU",
@@ -547,8 +498,7 @@
       "partOfSpeech": "verb",
       "example": "去年の秋、母うせ給ひぬ。",
       "exampleTranslation": "去年の秋、母が亡くなられた。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "UTATESHI",
@@ -558,8 +508,7 @@
       "partOfSpeech": "adjective",
       "example": "うたてき事を聞きて、心憂し。",
       "exampleTranslation": "不快なことを聞いて、つらい。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "UCHITSUKENARI",
@@ -569,8 +518,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "うちつけに言ひ寄るは、をこなり。",
       "exampleTranslation": "突然言い寄るのは、愚かである。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "UTSUKUSHI",
@@ -580,8 +528,7 @@
       "partOfSpeech": "adjective",
       "example": "三寸ばかりなる人、いとうつくしうてゐたり。",
       "exampleTranslation": "三寸ほどの人が、たいそうかわいらしい様子で座っていた。",
-      "source": "竹取物語",
-      "isFree": true
+      "source": "竹取物語"
     },
     {
       "key": "UTSUTSU",
@@ -591,8 +538,7 @@
       "partOfSpeech": "noun",
       "example": "夢かうつつかわかず。",
       "exampleTranslation": "夢か現実か区別がつかない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "UTSUROFU",
@@ -602,8 +548,7 @@
       "partOfSpeech": "verb",
       "example": "花の色はうつろひにけり。",
       "exampleTranslation": "花の色はあせてしまった。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "URUSASHI",
@@ -613,8 +558,7 @@
       "partOfSpeech": "adjective",
       "example": "うるさく言ひののしる。",
       "exampleTranslation": "わずらわしく大声で言う。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "URUHASHI",
@@ -624,8 +568,7 @@
       "partOfSpeech": "adjective",
       "example": "うるはしき姿にて参れり。",
       "exampleTranslation": "端正な姿で参上した。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "UREFU",
@@ -635,8 +578,7 @@
       "partOfSpeech": "verb",
       "example": "身の憂きをうれへけり。",
       "exampleTranslation": "わが身のつらさを嘆いた。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "EZU",
@@ -646,8 +588,7 @@
       "partOfSpeech": "phrase",
       "example": "え答へず。",
       "exampleTranslation": "答えることができない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ENNARI",
@@ -657,8 +598,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "えんなる姿を見せけり。",
       "exampleTranslation": "優美な姿を見せた。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "OKITSU",
@@ -668,8 +608,7 @@
       "partOfSpeech": "verb",
       "example": "かねておきてしことなり。",
       "exampleTranslation": "前もって決めておいたことである。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "OKOSU",
@@ -679,8 +618,7 @@
       "partOfSpeech": "verb",
       "example": "文をおこせたり。",
       "exampleTranslation": "手紙をよこした。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "OKOTARU",
@@ -690,8 +628,7 @@
       "partOfSpeech": "verb",
       "example": "病おこたりて、起き出でぬ。",
       "exampleTranslation": "病気がよくなって、起き出した。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "OKONAFU",
@@ -701,8 +638,7 @@
       "partOfSpeech": "verb",
       "example": "山にこもりておこなふ。",
       "exampleTranslation": "山にこもって仏道修行をする。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "OKURU",
@@ -712,8 +648,7 @@
       "partOfSpeech": "verb",
       "example": "親におくれて、頼るかたなし。",
       "exampleTranslation": "親に先立たれて、頼るところがない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "OSANASHI",
@@ -723,8 +658,7 @@
       "partOfSpeech": "adjective",
       "example": "をさなき心にも、悲しと思ふ。",
       "exampleTranslation": "幼い心にも、悲しいと思う。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "OSAOSAZU",
@@ -734,8 +668,7 @@
       "partOfSpeech": "phrase",
       "example": "をさをさ人も通はず。",
       "exampleTranslation": "ほとんど人も通わない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ODOROKU",
@@ -745,8 +678,7 @@
       "partOfSpeech": "verb",
       "example": "雨の音におどろきぬ。",
       "exampleTranslation": "雨の音で目を覚ました。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ODOROODOROSHI",
@@ -756,8 +688,7 @@
       "partOfSpeech": "adjective",
       "example": "おどろおどろしく泣きさわぐ。",
       "exampleTranslation": "大げさに泣き騒ぐ。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "ONOZUKARA",
@@ -767,8 +698,7 @@
       "partOfSpeech": "adverb",
       "example": "おのづから道は開くるものなり。",
       "exampleTranslation": "自然と道は開けるものだ。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "ONOGAJISHI",
@@ -778,8 +708,7 @@
       "partOfSpeech": "adverb",
       "example": "おのがじし家に帰りぬ。",
       "exampleTranslation": "めいめい家に帰った。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "OHOKATA",
@@ -789,8 +718,7 @@
       "partOfSpeech": "adverb",
       "example": "おほかた知る人もなし。",
       "exampleTranslation": "まったく知る人もいない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "OHOKENASHI",
@@ -800,8 +728,7 @@
       "partOfSpeech": "adjective",
       "example": "おほけなき望みを抱く。",
       "exampleTranslation": "身のほど知らずな望みを抱く。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "OHOSU",
@@ -811,8 +738,7 @@
       "partOfSpeech": "verb",
       "example": "帝、かくおほせらる。",
       "exampleTranslation": "帝が、このようにおっしゃる。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "OHOTONOGOMORU",
@@ -822,8 +748,7 @@
       "partOfSpeech": "verb",
       "example": "夜更けて、おほとのごもりぬ。",
       "exampleTranslation": "夜が更けて、お休みになった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "OHOYAKE",
@@ -833,8 +758,7 @@
       "partOfSpeech": "noun",
       "example": "おほやけに仕へ奉る。",
       "exampleTranslation": "朝廷にお仕え申し上げる。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "OBOE",
@@ -844,8 +768,7 @@
       "partOfSpeech": "noun",
       "example": "時の帝のおぼえめでたし。",
       "exampleTranslation": "当時の帝の寵愛が厚い。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "OBOSU",
@@ -855,8 +778,7 @@
       "partOfSpeech": "verb",
       "example": "いとあはれとおぼしたり。",
       "exampleTranslation": "たいそう気の毒だとお思いになった。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "OBOSHIMESU",
@@ -866,8 +788,7 @@
       "partOfSpeech": "verb",
       "example": "帝、いかにおぼしめすらむ。",
       "exampleTranslation": "帝は、どのようにお思いになっているだろうか。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "OBOTSUKANASHI",
@@ -877,8 +798,7 @@
       "partOfSpeech": "adjective",
       "example": "音沙汰なくて、おぼつかなし。",
       "exampleTranslation": "便りがなくて、気がかりだ。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "OBOYU",
@@ -888,8 +808,7 @@
       "partOfSpeech": "verb",
       "example": "昔のことぞおぼゆる。",
       "exampleTranslation": "昔のことが自然と思い出される。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "OTONASHI",
@@ -899,8 +818,7 @@
       "partOfSpeech": "adjective",
       "example": "年のわりにおとなしき人なり。",
       "exampleTranslation": "年齢のわりに思慮深い人である。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "OMOSHIROSHI",
@@ -910,8 +828,7 @@
       "partOfSpeech": "adjective",
       "example": "月おもしろき夜なりけり。",
       "exampleTranslation": "月が趣深い夜であった。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "OROKANARI",
@@ -921,8 +838,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "言へばおろかなり。",
       "exampleTranslation": "言葉では言い尽くせない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KAGIRI",
@@ -932,8 +848,7 @@
       "partOfSpeech": "noun",
       "example": "今はかぎりと思ひ定む。",
       "exampleTranslation": "今が最期だと心を決める。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KAGIRINASHI",
@@ -943,8 +858,7 @@
       "partOfSpeech": "adjective",
       "example": "かぎりなくうれしと思ふ。",
       "exampleTranslation": "この上なくうれしいと思う。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KAKOTSU",
@@ -954,8 +868,7 @@
       "partOfSpeech": "verb",
       "example": "身の不運をかこちけり。",
       "exampleTranslation": "わが身の不運に不平を言った。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KAGOTO",
@@ -965,8 +878,7 @@
       "partOfSpeech": "noun",
       "example": "かごとがましく言ひなす。",
       "exampleTranslation": "恨み言めいた言い方をする。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KASHIKOSHI",
@@ -976,8 +888,7 @@
       "partOfSpeech": "adjective",
       "example": "かしこき仰せを承る。",
       "exampleTranslation": "恐れ多いお言葉を承る。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KASHIKOMARU",
@@ -987,8 +898,7 @@
       "partOfSpeech": "verb",
       "example": "かしこまりて、退きぬ。",
       "exampleTranslation": "恐縮して、退出した。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KASHIDZUKU",
@@ -998,8 +908,7 @@
       "partOfSpeech": "verb",
       "example": "一人娘をかしづき給ふ。",
       "exampleTranslation": "一人娘を大切にお育てになる。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KATASHI",
@@ -1009,8 +918,7 @@
       "partOfSpeech": "adjective",
       "example": "知るはかたく、行ふはなほかたし。",
       "exampleTranslation": "知ることは難しく、行うことはさらに難しい。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KATAJIKENASHI",
@@ -1020,8 +928,7 @@
       "partOfSpeech": "adjective",
       "example": "かたじけなき御心ざしなり。",
       "exampleTranslation": "恐れ多いお心遣いである。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KATAHARAITASHI",
@@ -1031,8 +938,7 @@
       "partOfSpeech": "adjective",
       "example": "人の見るにかたはらいたし。",
       "exampleTranslation": "人が見ているのでみっともない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KATACHI",
@@ -1042,8 +948,7 @@
       "partOfSpeech": "noun",
       "example": "かたちいとうるはしき人なり。",
       "exampleTranslation": "顔立ちがたいそう端正な人である。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KATARAFU",
@@ -1053,8 +958,7 @@
       "partOfSpeech": "verb",
       "example": "夜もすがらかたらひ明かす。",
       "exampleTranslation": "一晩中親しく語り明かす。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KATAMINI",
@@ -1064,8 +968,7 @@
       "partOfSpeech": "adverb",
       "example": "かたみに袖をぬらしけり。",
       "exampleTranslation": "互いに涙で袖をぬらした。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KANASHI",
@@ -1075,8 +978,7 @@
       "partOfSpeech": "adjective",
       "example": "子をかなしと思ふ心は同じ。",
       "exampleTranslation": "子をいとしいと思う心は同じである。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KANAFU",
@@ -1086,8 +988,7 @@
       "partOfSpeech": "verb",
       "example": "願ひかなひて、都に帰る。",
       "exampleTranslation": "願いがかなって、都に帰る。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KAHINASHI",
@@ -1097,8 +998,7 @@
       "partOfSpeech": "adjective",
       "example": "嘆きてもかひなし。",
       "exampleTranslation": "嘆いても効果がない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KAHERIGOTO",
@@ -1108,8 +1008,7 @@
       "partOfSpeech": "noun",
       "example": "かへりごとも申さず。",
       "exampleTranslation": "返事も申し上げない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KAHESUGAHESU",
@@ -1119,8 +1018,7 @@
       "partOfSpeech": "adverb",
       "example": "かへすがへす口惜し。",
       "exampleTranslation": "本当に残念だ。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KADZUKU",
@@ -1130,8 +1028,7 @@
       "partOfSpeech": "verb",
       "example": "衣をかづきて、退でぬ。",
       "exampleTranslation": "褒美の衣をいただいて、退出した。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KARAUJITE",
@@ -1141,8 +1038,7 @@
       "partOfSpeech": "adverb",
       "example": "からうじて京にたどり着く。",
       "exampleTranslation": "やっとのことで都にたどり着く。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KARASHI",
@@ -1152,8 +1048,7 @@
       "partOfSpeech": "adjective",
       "example": "からき命を生きのぶ。",
       "exampleTranslation": "つらい命を生きながらえる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KARU",
@@ -1163,8 +1058,7 @@
       "partOfSpeech": "verb",
       "example": "足も遠くかれにけり。",
       "exampleTranslation": "足も遠のいて疎遠になってしまった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KIKOYU",
@@ -1174,8 +1068,7 @@
       "partOfSpeech": "verb",
       "example": "御返り、かく聞こえけり。",
       "exampleTranslation": "お返事を、このように申し上げた。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KIKOSHIMESU",
@@ -1185,8 +1078,7 @@
       "partOfSpeech": "verb",
       "example": "帝、この由をきこしめしけり。",
       "exampleTranslation": "帝が、このことをお聞きになった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KIHA",
@@ -1196,8 +1088,7 @@
       "partOfSpeech": "noun",
       "example": "きは高き人にもあらず。",
       "exampleTranslation": "身分の高い人でもない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KIYORANARI",
@@ -1207,8 +1098,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "きよらなる玉の御子なり。",
       "exampleTranslation": "気品があって美しい皇子である。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KIYOGENARI",
@@ -1218,8 +1108,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "きよげなる家に住みけり。",
       "exampleTranslation": "こぎれいな家に住んでいた。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KUMANASHI",
@@ -1229,8 +1118,7 @@
       "partOfSpeech": "adjective",
       "example": "月くまなくさし入りたり。",
       "exampleTranslation": "月が陰りなくさし込んでいる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KUMOI",
@@ -1240,8 +1128,7 @@
       "partOfSpeech": "noun",
       "example": "くもゐの遠きを思ふ。",
       "exampleTranslation": "宮中の遠いのを思う。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KUYASHI",
@@ -1251,8 +1138,7 @@
       "partOfSpeech": "adjective",
       "example": "言はざりしぞくやしき。",
       "exampleTranslation": "言わなかったのが後悔される。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KUCHIWOSHI",
@@ -1262,8 +1148,7 @@
       "partOfSpeech": "adjective",
       "example": "見ざりしこそくちをしけれ。",
       "exampleTranslation": "見なかったのが残念だ。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KUNZU",
@@ -1273,8 +1158,7 @@
       "partOfSpeech": "verb",
       "example": "独りゐてくんじけり。",
       "exampleTranslation": "一人でいて気がめいった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KEIZU",
@@ -1284,8 +1168,7 @@
       "partOfSpeech": "verb",
       "example": "宮に事の由をけいす。",
       "exampleTranslation": "中宮に事情を申し上げる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KESHIKI",
@@ -1295,8 +1178,7 @@
       "partOfSpeech": "noun",
       "example": "人のけしきを見て、物言ふ。",
       "exampleTranslation": "相手の様子を見て、話をする。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KESHIKARAZU",
@@ -1306,8 +1188,7 @@
       "partOfSpeech": "phrase",
       "example": "けしからぬ姿にて出で立つ。",
       "exampleTranslation": "異様な姿で出かける。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KEJIME",
@@ -1317,8 +1198,7 @@
       "partOfSpeech": "noun",
       "example": "貴賤のけぢめもなし。",
       "exampleTranslation": "身分の高い低いの区別もない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KOUZU",
@@ -1328,8 +1208,7 @@
       "partOfSpeech": "verb",
       "example": "道に迷ひてこうじぬ。",
       "exampleTranslation": "道に迷って疲れ果てた。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KOKOROU",
@@ -1339,8 +1218,7 @@
       "partOfSpeech": "verb",
       "example": "事の心をこころえたり。",
       "exampleTranslation": "事情を理解した。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KOKOROUSHI",
@@ -1350,8 +1228,7 @@
       "partOfSpeech": "adjective",
       "example": "かく言はるるはこころうし。",
       "exampleTranslation": "このように言われるのはつらい。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KOKOROZASHI",
@@ -1361,8 +1238,7 @@
       "partOfSpeech": "noun",
       "example": "深きこころざしを見せけり。",
       "exampleTranslation": "深い愛情を見せた。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KOKOROBAHE",
@@ -1372,8 +1248,7 @@
       "partOfSpeech": "noun",
       "example": "こころばへ優しき人なり。",
       "exampleTranslation": "気立ての優しい人である。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KOKOROGURUSHI",
@@ -1383,8 +1258,7 @@
       "partOfSpeech": "adjective",
       "example": "見るもこころぐるし。",
       "exampleTranslation": "見ていても気の毒だ。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KOKOROMOTONASHI",
@@ -1394,8 +1268,7 @@
       "partOfSpeech": "adjective",
       "example": "返り事のなきぞこころもとなき。",
       "exampleTranslation": "返事がないのがじれったい。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KOKORONIKUSHI",
@@ -1405,8 +1278,7 @@
       "partOfSpeech": "adjective",
       "example": "こころにくきけはひなり。",
       "exampleTranslation": "奥ゆかしい雰囲気である。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KOKOCHI",
@@ -1416,8 +1288,7 @@
       "partOfSpeech": "noun",
       "example": "ここち悪しくて臥したり。",
       "exampleTranslation": "気分が悪くて横になっている。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KOCHITASHI",
@@ -1427,8 +1298,7 @@
       "partOfSpeech": "adjective",
       "example": "人言こちたく聞こゆ。",
       "exampleTranslation": "人の噂が大げさに聞こえる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KOTOGOTOSHI",
@@ -1438,8 +1308,7 @@
       "partOfSpeech": "adjective",
       "example": "ことごとしく飾り立つ。",
       "exampleTranslation": "大げさに飾り立てる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KOTONARI",
@@ -1449,8 +1318,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "人にことなる才あり。",
       "exampleTranslation": "人と違った才能がある。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KOTONI",
@@ -1460,8 +1328,7 @@
       "partOfSpeech": "adverb",
       "example": "ことに秋の空をめづ。",
       "exampleTranslation": "特に秋の空を賞美する。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KOTOWARI",
@@ -1471,8 +1338,7 @@
       "partOfSpeech": "noun",
       "example": "嘆くもことわりなり。",
       "exampleTranslation": "嘆くのももっともである。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "KOZO",
@@ -1482,8 +1348,7 @@
       "partOfSpeech": "noun",
       "example": "こぞの秋、都を出でぬ。",
       "exampleTranslation": "去年の秋、都を出た。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "KOMAYAKANARI",
@@ -1493,8 +1358,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "こまやかに書き記す。",
       "exampleTranslation": "詳しく書き記す。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SAUZAUSHI",
@@ -1504,8 +1368,7 @@
       "partOfSpeech": "adjective",
       "example": "人なくてさうざうし。",
       "exampleTranslation": "人がいなくて物足りない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SAUZOKU",
@@ -1515,8 +1378,7 @@
       "partOfSpeech": "noun",
       "example": "こまやかなるさうぞくを着る。",
       "exampleTranslation": "立派な衣装を着る。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SAKASHI",
@@ -1526,8 +1388,7 @@
       "partOfSpeech": "adjective",
       "example": "さかしき人も過つことあり。",
       "exampleTranslation": "賢い人も過ちを犯すことがある。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "SAKASHIRA",
@@ -1537,8 +1398,7 @@
       "partOfSpeech": "noun",
       "example": "さかしらに口出しす。",
       "exampleTranslation": "利口ぶって口出しする。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SASUGANI",
@@ -1548,8 +1408,7 @@
       "partOfSpeech": "adverb",
       "example": "憎しと思へど、さすがにあはれなり。",
       "exampleTranslation": "憎いと思うが、そうはいってもやはり気の毒だ。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "SANAGARA",
@@ -1559,8 +1418,7 @@
       "partOfSpeech": "adverb",
       "example": "昔のさながらの姿なり。",
       "exampleTranslation": "昔のそのままの姿である。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SAHARU",
@@ -1570,8 +1428,7 @@
       "partOfSpeech": "verb",
       "example": "雨にさはりて、え参らず。",
       "exampleTranslation": "雨に妨げられて、参上できない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SARANARI",
@@ -1581,8 +1438,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "春はあけぼの、夏は夜、月のころはさらなり。",
       "exampleTranslation": "春は明け方、夏は夜、月のころは言うまでもない。",
-      "source": "枕草子",
-      "isFree": true
+      "source": "枕草子"
     },
     {
       "key": "SARANU",
@@ -1592,8 +1448,7 @@
       "partOfSpeech": "phrase",
       "example": "さらぬ別れのなくもがな。",
       "exampleTranslation": "避けられない死別がなければよいのに。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SARANIZU",
@@ -1603,8 +1458,7 @@
       "partOfSpeech": "phrase",
       "example": "さらに知らず。",
       "exampleTranslation": "まったく知らない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "SHIKA",
@@ -1614,8 +1468,7 @@
       "partOfSpeech": "adverb",
       "example": "しか思ふべきにあらず。",
       "exampleTranslation": "そう思うべきではない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SHIDOKENASHI",
@@ -1625,8 +1478,7 @@
       "partOfSpeech": "adjective",
       "example": "しどけなき姿にてゐたり。",
       "exampleTranslation": "無造作な姿で座っていた。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SHINOBU",
@@ -1636,8 +1488,7 @@
       "partOfSpeech": "verb",
       "example": "しのびて通ひけり。",
       "exampleTranslation": "人目を避けて通った。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "SHIRUSHI_KOUKA",
@@ -1647,8 +1498,7 @@
       "partOfSpeech": "noun",
       "example": "祈りのしるしありけり。",
       "exampleTranslation": "祈りの効き目があった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SHIRUSHI_AKIRAKA",
@@ -1658,8 +1508,7 @@
       "partOfSpeech": "adjective",
       "example": "そのけしきしるく見ゆ。",
       "exampleTranslation": "その様子がはっきりと見える。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SHIRUBE",
@@ -1669,8 +1518,7 @@
       "partOfSpeech": "noun",
       "example": "道のしるべを頼む。",
       "exampleTranslation": "道案内を頼む。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SHIRU",
@@ -1680,8 +1528,7 @@
       "partOfSpeech": "verb",
       "example": "国をしる人となりぬ。",
       "exampleTranslation": "国を治める人となった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SUGUSU",
@@ -1691,8 +1538,7 @@
       "partOfSpeech": "verb",
       "example": "むなしく年をすぐす。",
       "exampleTranslation": "むなしく年月を過ごす。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "SUKU",
@@ -1702,8 +1548,7 @@
       "partOfSpeech": "verb",
       "example": "歌にすける人なり。",
       "exampleTranslation": "歌に心を寄せる風流な人である。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SUGOSHI",
@@ -1713,8 +1558,7 @@
       "partOfSpeech": "adjective",
       "example": "秋の山はすごく見ゆ。",
       "exampleTranslation": "秋の山はぞっとするほど寂しく見える。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SUSAMAJI",
@@ -1724,8 +1568,7 @@
       "partOfSpeech": "adjective",
       "example": "すさまじきもの、昼ほゆる犬。",
       "exampleTranslation": "興ざめなもの、昼に吠える犬。",
-      "source": "枕草子",
-      "isFree": true
+      "source": "枕草子"
     },
     {
       "key": "SUZURONARI",
@@ -1735,8 +1578,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "すずろに涙こぼれけり。",
       "exampleTranslation": "なんとなく涙がこぼれた。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SUNAHACHI",
@@ -1746,8 +1588,7 @@
       "partOfSpeech": "adverb",
       "example": "聞くとすなはち走り出づ。",
       "exampleTranslation": "聞くとすぐに走り出る。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SUMAFU",
@@ -1757,8 +1598,7 @@
       "partOfSpeech": "verb",
       "example": "強ひられて、すまひかねたり。",
       "exampleTranslation": "無理強いされて、断りきれなかった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SEUSOKO",
@@ -1768,8 +1608,7 @@
       "partOfSpeech": "noun",
       "example": "せうそこもせで、月日経ぬ。",
       "exampleTranslation": "便りもしないで、月日が経った。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SECHINARI",
@@ -1779,8 +1618,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "せちに乞ひ願ふ。",
       "exampleTranslation": "切実に願う。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SEMUKATANASHI",
@@ -1790,8 +1628,7 @@
       "partOfSpeech": "adjective",
       "example": "今はせむかたなし。",
       "exampleTranslation": "今はどうしようもない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "SOUSU",
@@ -1801,8 +1638,7 @@
       "partOfSpeech": "verb",
       "example": "この由を帝にそうす。",
       "exampleTranslation": "このことを帝に申し上げる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "SORAGOTO",
@@ -1812,8 +1648,7 @@
       "partOfSpeech": "noun",
       "example": "そらごとを言ふべからず。",
       "exampleTranslation": "うそを言ってはならない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TAEZU",
@@ -1823,8 +1658,7 @@
       "partOfSpeech": "phrase",
       "example": "たえて音もせず。",
       "exampleTranslation": "まったく便りもない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TAGUHI",
@@ -1834,8 +1668,7 @@
       "partOfSpeech": "noun",
       "example": "世にたぐひなき美しさなり。",
       "exampleTranslation": "世に匹敵するものがない美しさである。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TAKENASHI",
@@ -1845,8 +1678,7 @@
       "partOfSpeech": "adjective",
       "example": "年老いてたけなくなりぬ。",
       "exampleTranslation": "年老いて力がなくなった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TATEMATSURU",
@@ -1856,8 +1688,7 @@
       "partOfSpeech": "verb",
       "example": "御文をたてまつる。",
       "exampleTranslation": "お手紙を差し上げる。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TANOMU",
@@ -1867,8 +1698,7 @@
       "partOfSpeech": "verb",
       "example": "人をたのみて待つ。",
       "exampleTranslation": "人をあてにして待つ。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TAHABURU",
@@ -1878,8 +1708,7 @@
       "partOfSpeech": "verb",
       "example": "たはぶれにも言ふまじ。",
       "exampleTranslation": "ふざけてでも言うべきでない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TAMAHARU",
@@ -1889,8 +1718,7 @@
       "partOfSpeech": "verb",
       "example": "御衣をたまはりぬ。",
       "exampleTranslation": "お着物をいただいた。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TAMAFU",
@@ -1900,8 +1728,7 @@
       "partOfSpeech": "verb",
       "example": "歌をよみ給ふ。",
       "exampleTranslation": "歌をお詠みになる。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TAMASAKANARI",
@@ -1911,8 +1738,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "たまさかに人の来たる。",
       "exampleTranslation": "たまたま人が訪ねてくる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TAYORI",
@@ -1922,8 +1748,7 @@
       "partOfSpeech": "noun",
       "example": "よきたよりを得て、文をやる。",
       "exampleTranslation": "よい機会を得て、手紙を送る。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TAMERAFU",
@@ -1933,8 +1758,7 @@
       "partOfSpeech": "verb",
       "example": "心をためらひて、物言ふ。",
       "exampleTranslation": "気を静めて、話をする。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "CHIGIRI",
@@ -1944,8 +1768,7 @@
       "partOfSpeech": "noun",
       "example": "前の世のちぎり深し。",
       "exampleTranslation": "前世からの因縁が深い。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "CHIGO",
@@ -1955,8 +1778,7 @@
       "partOfSpeech": "noun",
       "example": "ちごの寝顔はうつくし。",
       "exampleTranslation": "幼児の寝顔はかわいらしい。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TSUKAUMATSURU",
@@ -1966,8 +1788,7 @@
       "partOfSpeech": "verb",
       "example": "年ごろつかうまつりけり。",
       "exampleTranslation": "長年お仕え申し上げた。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TSUKAHASU",
@@ -1977,8 +1798,7 @@
       "partOfSpeech": "verb",
       "example": "使ひをつかはしけり。",
       "exampleTranslation": "使者を派遣した。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TSUKIDZUKISHI",
@@ -1988,8 +1808,7 @@
       "partOfSpeech": "adjective",
       "example": "冬はいと寒きこそつきづきしけれ。",
       "exampleTranslation": "冬はたいそう寒いのが似つかわしい。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TSUKINASHI",
@@ -1999,8 +1818,7 @@
       "partOfSpeech": "adjective",
       "example": "場につきなきふるまひなり。",
       "exampleTranslation": "場に似つかわしくないふるまいである。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TSUGOMORI",
@@ -2010,8 +1828,7 @@
       "partOfSpeech": "noun",
       "example": "三月のつごもりに、都を出づ。",
       "exampleTranslation": "三月の月末に、都を出る。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TSUTANASHI",
@@ -2021,8 +1838,7 @@
       "partOfSpeech": "adjective",
       "example": "筆つたなくて、恥づかし。",
       "exampleTranslation": "字が下手で、恥ずかしい。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TSUTO",
@@ -2032,8 +1848,7 @@
       "partOfSpeech": "adverb",
       "example": "つと寄りて、袖を引く。",
       "exampleTranslation": "さっと近寄って、袖を引く。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TSUTOMETE",
@@ -2043,8 +1858,7 @@
       "partOfSpeech": "noun",
       "example": "雪の降りたるつとめて、いとをかし。",
       "exampleTranslation": "雪の降った早朝は、たいそう趣深い。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TSUHINI",
@@ -2054,8 +1868,7 @@
       "partOfSpeech": "adverb",
       "example": "つひに帰らずなりぬ。",
       "exampleTranslation": "とうとう帰らなくなってしまった。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TSUYUZU",
@@ -2065,8 +1878,7 @@
       "partOfSpeech": "phrase",
       "example": "つゆ知らざりけり。",
       "exampleTranslation": "少しも知らなかった。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TSUREZURENARI",
@@ -2076,8 +1888,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "つれづれなるままに、日暮らし硯に向かふ。",
       "exampleTranslation": "することもなく退屈なのにまかせて、一日中硯に向かう。",
-      "source": "徒然草",
-      "isFree": true
+      "source": "徒然草"
     },
     {
       "key": "TSURENASHI",
@@ -2087,8 +1898,7 @@
       "partOfSpeech": "adjective",
       "example": "つれなき人を恋ひわたる。",
       "exampleTranslation": "冷淡な人を恋し続ける。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TOKIMEKU",
@@ -2098,8 +1908,7 @@
       "partOfSpeech": "verb",
       "example": "時の帝にときめき給ふ。",
       "exampleTranslation": "当時の帝の寵愛をお受けになる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TOSHI",
@@ -2109,8 +1918,7 @@
       "partOfSpeech": "adjective",
       "example": "とく帰り給へ。",
       "exampleTranslation": "早くお帰りください。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TOKOROSESHI",
@@ -2120,8 +1928,7 @@
       "partOfSpeech": "adjective",
       "example": "人多くてところせし。",
       "exampleTranslation": "人が多くて窮屈だ。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "TOBURAFU",
@@ -2131,8 +1938,7 @@
       "partOfSpeech": "verb",
       "example": "病の人をとぶらふ。",
       "exampleTranslation": "病人を見舞う。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "TOMINI",
@@ -2142,8 +1948,7 @@
       "partOfSpeech": "adverb",
       "example": "とみに答へもせず。",
       "exampleTranslation": "すぐに返事もしない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "NAKANAKA",
@@ -2153,8 +1958,7 @@
       "partOfSpeech": "adverb",
       "example": "言はぬぞなかなかよき。",
       "exampleTranslation": "言わないのがかえってよい。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NAGAMU",
@@ -2164,8 +1968,7 @@
       "partOfSpeech": "verb",
       "example": "独りゐて、空をながむ。",
       "exampleTranslation": "一人でいて、もの思いにふけりながら空を見る。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NASAKE",
@@ -2175,8 +1978,7 @@
       "partOfSpeech": "noun",
       "example": "なさけある人と交はる。",
       "exampleTranslation": "思いやりのある人と交際する。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NATSUKASHI",
@@ -2186,8 +1988,7 @@
       "partOfSpeech": "adjective",
       "example": "なつかしき声を聞く。",
       "exampleTranslation": "心ひかれる声を聞く。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NADOKA",
@@ -2197,8 +1998,7 @@
       "partOfSpeech": "adverb",
       "example": "などか参らざりし。",
       "exampleTranslation": "どうして参上しなかったのか。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NANOMENARI",
@@ -2208,8 +2008,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "なのめなる才にはあらず。",
       "exampleTranslation": "平凡な才能ではない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "NABETE",
@@ -2219,8 +2018,7 @@
       "partOfSpeech": "adverb",
       "example": "なべての人にはあらず。",
       "exampleTranslation": "並の人ではない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "NAMAMEKASHI",
@@ -2230,8 +2028,7 @@
       "partOfSpeech": "adjective",
       "example": "なまめかしき姿なり。",
       "exampleTranslation": "優美な姿である。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "NAYAMU",
@@ -2241,8 +2038,7 @@
       "partOfSpeech": "verb",
       "example": "日ごろなやみて、臥したり。",
       "exampleTranslation": "何日も病気で、横になっている。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NARAFU",
@@ -2252,8 +2048,7 @@
       "partOfSpeech": "verb",
       "example": "住みならひて、恋しくなる。",
       "exampleTranslation": "住み慣れて、恋しくなる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "NAHO",
@@ -2263,8 +2058,7 @@
       "partOfSpeech": "adverb",
       "example": "なほ心にかかる。",
       "exampleTranslation": "やはり気にかかる。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NANDEFU",
@@ -2274,8 +2068,7 @@
       "partOfSpeech": "adverb",
       "example": "なんでふ事をか言ふ。",
       "exampleTranslation": "何ということを言うのか。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "NIGENASHI",
@@ -2285,8 +2078,7 @@
       "partOfSpeech": "adjective",
       "example": "年にげなき装ひなり。",
       "exampleTranslation": "年齢に似つかわしくない装いである。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "NIKUSHI",
@@ -2296,8 +2088,7 @@
       "partOfSpeech": "adjective",
       "example": "わざとらしきぞにくき。",
       "exampleTranslation": "わざとらしいのが気に食わない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NIHOFU",
@@ -2307,8 +2098,7 @@
       "partOfSpeech": "verb",
       "example": "梅の花にほひけり。",
       "exampleTranslation": "梅の花が美しく咲き香った。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NUSHI",
@@ -2318,8 +2108,7 @@
       "partOfSpeech": "noun",
       "example": "家のぬしは出でて留守なり。",
       "exampleTranslation": "家の主人は出かけて留守である。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "NEBU",
@@ -2329,8 +2118,7 @@
       "partOfSpeech": "verb",
       "example": "ねびまさりて、美しくなりぬ。",
       "exampleTranslation": "成長して、美しくなった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "NENGORONARI",
@@ -2340,8 +2128,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "ねんごろにもてなしけり。",
       "exampleTranslation": "丁寧にもてなした。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NENZU",
@@ -2351,8 +2138,7 @@
       "partOfSpeech": "verb",
       "example": "痛みをねんじて、動かず。",
       "exampleTranslation": "痛みを我慢して、動かない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NODOKANARI",
@@ -2362,8 +2148,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "のどかなる春の日なり。",
       "exampleTranslation": "おだやかな春の日である。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NONOSHIRU",
@@ -2373,8 +2158,7 @@
       "partOfSpeech": "verb",
       "example": "人々ののしりて、集まりぬ。",
       "exampleTranslation": "人々が大声で騒いで、集まった。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "NOTAMAFU",
@@ -2384,8 +2168,7 @@
       "partOfSpeech": "verb",
       "example": "かくのたまひけり。",
       "exampleTranslation": "このようにおっしゃった。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "HAKANASHI",
@@ -2395,8 +2178,7 @@
       "partOfSpeech": "adjective",
       "example": "はかなき命を惜しむ。",
       "exampleTranslation": "はかない命を惜しむ。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "HAKANAKUNARU",
@@ -2406,8 +2188,7 @@
       "partOfSpeech": "phrase",
       "example": "病重くて、はかなくなり給ひぬ。",
       "exampleTranslation": "病が重くて、お亡くなりになった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "HAKABAKASHI",
@@ -2417,8 +2198,7 @@
       "partOfSpeech": "adjective",
       "example": "はかばかしき答へもなし。",
       "exampleTranslation": "しっかりした返事もない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "HAKARU",
@@ -2428,8 +2208,7 @@
       "partOfSpeech": "verb",
       "example": "人をはかりて、財を取る。",
       "exampleTranslation": "人をだまして、財産を取る。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "HAJI",
@@ -2439,8 +2218,7 @@
       "partOfSpeech": "noun",
       "example": "人前にはぢを見す。",
       "exampleTranslation": "人前で恥をさらす。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "HASHITANASHI",
@@ -2450,8 +2228,7 @@
       "partOfSpeech": "adjective",
       "example": "はしたなく思ひて、退きぬ。",
       "exampleTranslation": "きまり悪く思って、退出した。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "HADZUKASHI",
@@ -2461,8 +2238,7 @@
       "partOfSpeech": "adjective",
       "example": "はづかしき人の前に出づ。",
       "exampleTranslation": "気後れするほど立派な人の前に出る。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "HABERI",
@@ -2472,8 +2248,7 @@
       "partOfSpeech": "verb",
       "example": "かくなむはべる。",
       "exampleTranslation": "このようでございます。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "HARAKARA",
@@ -2483,8 +2258,7 @@
       "partOfSpeech": "noun",
       "example": "はらから三人ありけり。",
       "exampleTranslation": "兄弟が三人いた。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "HIGAGOTO",
@@ -2494,8 +2268,7 @@
       "partOfSpeech": "noun",
       "example": "ひがごとを言ひ広む。",
       "exampleTranslation": "間違ったことを言い広める。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "HIGAHIGASHI",
@@ -2505,8 +2278,7 @@
       "partOfSpeech": "adjective",
       "example": "ひがひがしき心の人なり。",
       "exampleTranslation": "ひねくれた心の人である。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "HITOHENI",
@@ -2516,8 +2288,7 @@
       "partOfSpeech": "adverb",
       "example": "ひとへに頼み奉る。",
       "exampleTranslation": "ひたすらお頼み申し上げる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "HITOYARINARAZU",
@@ -2527,8 +2298,7 @@
       "partOfSpeech": "phrase",
       "example": "ひとやりならず思ひ悩む。",
       "exampleTranslation": "自分から進んで思い悩む。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "HITOWAROSHI",
@@ -2538,8 +2308,7 @@
       "partOfSpeech": "adjective",
       "example": "泣く姿はひとわろし。",
       "exampleTranslation": "泣く姿は体裁が悪い。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "HINEMOSU",
@@ -2549,8 +2318,7 @@
       "partOfSpeech": "adverb",
       "example": "ひねもす雨降りけり。",
       "exampleTranslation": "一日中雨が降った。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "HIMA",
@@ -2560,8 +2328,7 @@
       "partOfSpeech": "noun",
       "example": "雲のひまより月もる。",
       "exampleTranslation": "雲の切れ間から月がもれる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "BINNASHI",
@@ -2571,8 +2338,7 @@
       "partOfSpeech": "adjective",
       "example": "今参るはびんなし。",
       "exampleTranslation": "今参上するのは都合が悪い。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "FUBINNARI",
@@ -2582,8 +2348,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "幼き子をふびんに思ふ。",
       "exampleTranslation": "幼い子を気の毒に思う。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "FUSU",
@@ -2593,8 +2358,7 @@
       "partOfSpeech": "verb",
       "example": "苦しくてふしゐたり。",
       "exampleTranslation": "苦しくて横になっていた。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "FUMI",
@@ -2604,8 +2368,7 @@
       "partOfSpeech": "noun",
       "example": "ふみをやりて、返り事を待つ。",
       "exampleTranslation": "手紙を送って、返事を待つ。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "FURUSATO",
@@ -2615,8 +2378,7 @@
       "partOfSpeech": "noun",
       "example": "ふるさとの荒れたるを見る。",
       "exampleTranslation": "昔住んだ所が荒れているのを見る。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "HOI",
@@ -2626,8 +2388,7 @@
       "partOfSpeech": "noun",
       "example": "ほいを遂げて、出家す。",
       "exampleTranslation": "かねてからの願いを遂げて、出家する。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "HODO",
@@ -2637,8 +2398,7 @@
       "partOfSpeech": "noun",
       "example": "ほどもなく帰り来たり。",
       "exampleTranslation": "まもなく帰ってきた。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MAUKU",
@@ -2648,8 +2408,7 @@
       "partOfSpeech": "verb",
       "example": "饗をまうけて待つ。",
       "exampleTranslation": "ごちそうを準備して待つ。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MAUKE",
@@ -2659,8 +2418,7 @@
       "partOfSpeech": "noun",
       "example": "いみじきまうけをす。",
       "exampleTranslation": "たいそうな準備をする。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MAUZU",
@@ -2670,8 +2428,7 @@
       "partOfSpeech": "verb",
       "example": "社にまうでて、祈る。",
       "exampleTranslation": "神社に参詣して、祈る。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MAUSU",
@@ -2681,8 +2438,7 @@
       "partOfSpeech": "verb",
       "example": "事の由をまうす。",
       "exampleTranslation": "事情を申し上げる。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MAKARU",
@@ -2692,8 +2448,7 @@
       "partOfSpeech": "verb",
       "example": "御前をまかりいづ。",
       "exampleTranslation": "御前を退出する。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MAKADZU",
@@ -2703,8 +2458,7 @@
       "partOfSpeech": "verb",
       "example": "宮中よりまかづ。",
       "exampleTranslation": "宮中から退出する。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MASANASHI",
@@ -2714,8 +2468,7 @@
       "partOfSpeech": "adjective",
       "example": "まさなきふるまひを諫む。",
       "exampleTranslation": "よくないふるまいをいさめる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MASARU",
@@ -2725,8 +2478,7 @@
       "partOfSpeech": "verb",
       "example": "恋しさぞまさりける。",
       "exampleTranslation": "恋しさがいっそう増した。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MAGIRU",
@@ -2736,8 +2488,7 @@
       "partOfSpeech": "verb",
       "example": "人にまぎれて出でぬ。",
       "exampleTranslation": "人にまぎれて出て行った。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MADZU",
@@ -2747,8 +2498,7 @@
       "partOfSpeech": "adverb",
       "example": "まづ火をともせ。",
       "exampleTranslation": "まず第一に火をともせ。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MAMENARI",
@@ -2758,8 +2508,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "まめなる人と頼む。",
       "exampleTranslation": "誠実な人だと信頼する。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MAMORU",
@@ -2769,8 +2518,7 @@
       "partOfSpeech": "verb",
       "example": "顔をまもりて、物言はず。",
       "exampleTranslation": "顔をじっと見つめて、何も言わない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MANEBU",
@@ -2780,8 +2528,7 @@
       "partOfSpeech": "verb",
       "example": "聞きしままにまねぶ。",
       "exampleTranslation": "聞いたとおりにそのまま伝える。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MAWIRU",
@@ -2791,8 +2538,7 @@
       "partOfSpeech": "verb",
       "example": "御前にまゐりて、候ふ。",
       "exampleTranslation": "御前に参上して、お仕えする。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MIKADO",
@@ -2802,8 +2548,7 @@
       "partOfSpeech": "noun",
       "example": "みかどの御代を寿ぐ。",
       "exampleTranslation": "天皇の御代を祝う。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MISOKANARI",
@@ -2813,8 +2558,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "みそかに文をやる。",
       "exampleTranslation": "こっそりと手紙を送る。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MIRU",
@@ -2824,8 +2568,7 @@
       "partOfSpeech": "verb",
       "example": "人にみられて、世に住む。",
       "exampleTranslation": "人と結婚して、世を過ごす。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MIYU",
@@ -2835,8 +2578,7 @@
       "partOfSpeech": "verb",
       "example": "人にみゆべき姿にあらず。",
       "exampleTranslation": "人に姿を見せてよい格好ではない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MUGENARI",
@@ -2846,8 +2588,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "むげに衰へにけり。",
       "exampleTranslation": "すっかり衰えてしまった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MUTSUKASHI",
@@ -2857,8 +2598,7 @@
       "partOfSpeech": "adjective",
       "example": "むつかしき事のみ多し。",
       "exampleTranslation": "わずらわしいことばかり多い。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MUTSUBU",
@@ -2868,8 +2608,7 @@
       "partOfSpeech": "verb",
       "example": "隣とむつびて過ぐす。",
       "exampleTranslation": "隣人と親しくして暮らす。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MUBE",
@@ -2879,8 +2618,7 @@
       "partOfSpeech": "adverb",
       "example": "むべ山風を嵐といふらむ。",
       "exampleTranslation": "なるほど山風を嵐と言うのだろう。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MEZAMASHI",
@@ -2890,8 +2628,7 @@
       "partOfSpeech": "adjective",
       "example": "めざましきものに思ひけり。",
       "exampleTranslation": "心外なものと思った。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MEDZU",
@@ -2901,8 +2638,7 @@
       "partOfSpeech": "verb",
       "example": "花をめでて、日を暮らす。",
       "exampleTranslation": "花を愛して、一日を過ごす。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MEDZURASHI",
@@ -2912,8 +2648,7 @@
       "partOfSpeech": "adjective",
       "example": "めづらしき事を聞く。",
       "exampleTranslation": "すばらしいことを聞く。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MEDETASHI",
@@ -2923,8 +2658,7 @@
       "partOfSpeech": "adjective",
       "example": "いとめでたき琴の音なり。",
       "exampleTranslation": "たいそうすばらしい琴の音である。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MENOTO",
@@ -2934,8 +2668,7 @@
       "partOfSpeech": "noun",
       "example": "めのとに養はれて育つ。",
       "exampleTranslation": "乳母に養われて育つ。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MEYASUSHI",
@@ -2945,8 +2678,7 @@
       "partOfSpeech": "adjective",
       "example": "めやすきふるまひなり。",
       "exampleTranslation": "感じのよいふるまいである。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MESU",
@@ -2956,8 +2688,7 @@
       "partOfSpeech": "verb",
       "example": "人をめして、問はす。",
       "exampleTranslation": "人をお呼びになって、尋ねさせる。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MOTENASU",
@@ -2967,8 +2698,7 @@
       "partOfSpeech": "verb",
       "example": "客をあつくもてなす。",
       "exampleTranslation": "客を手厚く待遇する。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MOTOYORI",
@@ -2978,8 +2708,7 @@
       "partOfSpeech": "adverb",
       "example": "もとより知れる人なり。",
       "exampleTranslation": "もともと知っている人である。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "MONOSU",
@@ -2989,8 +2718,7 @@
       "partOfSpeech": "verb",
       "example": "おのづからものし給ふ。",
       "exampleTranslation": "自然といらっしゃる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MONOSHI",
@@ -3000,8 +2728,7 @@
       "partOfSpeech": "adjective",
       "example": "ものしき事を言ふ人なり。",
       "exampleTranslation": "不愉快なことを言う人である。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "MONOOMOHI",
@@ -3011,8 +2738,7 @@
       "partOfSpeech": "noun",
       "example": "ものおもひに沈みて、痩せぬ。",
       "exampleTranslation": "もの思いに沈んで、痩せてしまった。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YAUYAU",
@@ -3022,8 +2748,7 @@
       "partOfSpeech": "adverb",
       "example": "やうやう白くなりゆく山ぎは。",
       "exampleTranslation": "だんだん白んでいく山の稜線。",
-      "source": "枕草子",
-      "isFree": true
+      "source": "枕草子"
     },
     {
       "key": "YAU",
@@ -3033,8 +2758,7 @@
       "partOfSpeech": "noun",
       "example": "言はむやうもなし。",
       "exampleTranslation": "言いようもない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "YAGATE",
@@ -3044,8 +2768,7 @@
       "partOfSpeech": "adverb",
       "example": "やがて帰り来ず。",
       "exampleTranslation": "そのまま帰って来ない。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YASASHI",
@@ -3055,8 +2778,7 @@
       "partOfSpeech": "adjective",
       "example": "やさしき心づかひなり。",
       "exampleTranslation": "優美な心遣いである。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YASUSHI",
@@ -3066,8 +2788,7 @@
       "partOfSpeech": "adjective",
       "example": "言ふはやすく、行ふはかたし。",
       "exampleTranslation": "言うのは簡単で、行うのは難しい。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YATSUSU",
@@ -3077,8 +2798,7 @@
       "partOfSpeech": "verb",
       "example": "姿をやつして、忍び歩く。",
       "exampleTranslation": "姿を目立たなくして、人目を忍んで歩く。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "YATSURU",
@@ -3088,8 +2808,7 @@
       "partOfSpeech": "verb",
       "example": "旅のほどにやつれ給ひぬ。",
       "exampleTranslation": "旅の間にやせ衰えなさった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "YAMUGOTONASHI",
@@ -3099,8 +2818,7 @@
       "partOfSpeech": "adjective",
       "example": "やむごとなき身分の人なり。",
       "exampleTranslation": "高貴な身分の人である。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YUKASHI",
@@ -3110,8 +2828,7 @@
       "partOfSpeech": "adjective",
       "example": "中のさま、いとゆかし。",
       "exampleTranslation": "中の様子が、たいそう見たい。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YUKUE",
@@ -3121,8 +2838,7 @@
       "partOfSpeech": "noun",
       "example": "ゆくへも知らず、去りぬ。",
       "exampleTranslation": "行き先も分からず、去ってしまった。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YUKURINASHI",
@@ -3132,8 +2848,7 @@
       "partOfSpeech": "adjective",
       "example": "ゆくりなく人の来たる。",
       "exampleTranslation": "思いがけず人が訪ねてくる。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "YUYUSHI",
@@ -3143,8 +2858,7 @@
       "partOfSpeech": "adjective",
       "example": "ゆゆしき事を言ふな。",
       "exampleTranslation": "不吉なことを言うな。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YUWE",
@@ -3154,8 +2868,7 @@
       "partOfSpeech": "noun",
       "example": "ゆゑある家に生まる。",
       "exampleTranslation": "由緒ある家に生まれる。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YUMENA",
@@ -3165,8 +2878,7 @@
       "partOfSpeech": "phrase",
       "example": "ゆめ人に語るな。",
       "exampleTranslation": "決して人に語るな。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YO",
@@ -3176,8 +2888,7 @@
       "partOfSpeech": "noun",
       "example": "よを捨てて、山にこもる。",
       "exampleTranslation": "世を捨てて、山にこもる。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YONONAKA",
@@ -3187,8 +2898,7 @@
       "partOfSpeech": "noun",
       "example": "よのなかを思ひ知りぬ。",
       "exampleTranslation": "男女の仲を思い知った。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YONI",
@@ -3198,8 +2908,7 @@
       "partOfSpeech": "adverb",
       "example": "よにあらじと思ふ。",
       "exampleTranslation": "決してあるまいと思う。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "YOSHI",
@@ -3209,8 +2918,7 @@
       "partOfSpeech": "noun",
       "example": "参らざりしよしを申す。",
       "exampleTranslation": "参上しなかった理由を申し上げる。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YOSHINASHI",
@@ -3220,8 +2928,7 @@
       "partOfSpeech": "adjective",
       "example": "よしなき事に日を暮らす。",
       "exampleTranslation": "つまらないことに一日を費やす。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YOROSHI",
@@ -3231,8 +2938,7 @@
       "partOfSpeech": "adjective",
       "example": "よろしき程の家なり。",
       "exampleTranslation": "まあまあの程度の家である。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "YOHAHI",
@@ -3242,8 +2948,7 @@
       "partOfSpeech": "noun",
       "example": "よはひ八十に及ぶ。",
       "exampleTranslation": "年齢が八十に及ぶ。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "RAUTASHI",
@@ -3253,8 +2958,7 @@
       "partOfSpeech": "adjective",
       "example": "らうたき姫君なり。",
       "exampleTranslation": "かわいらしい姫君である。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "RAURAUJI",
@@ -3264,8 +2968,7 @@
       "partOfSpeech": "adjective",
       "example": "らうらうじき筆づかひなり。",
       "exampleTranslation": "洗練された筆づかいである。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "WAZATO",
@@ -3275,8 +2978,7 @@
       "partOfSpeech": "adverb",
       "example": "わざと使ひをたてまつる。",
       "exampleTranslation": "わざわざ使者を差し向ける。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "WAZA",
@@ -3286,8 +2988,7 @@
       "partOfSpeech": "noun",
       "example": "故人のわざを営む。",
       "exampleTranslation": "故人の法事を営む。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "WATAKUSHI",
@@ -3297,8 +2998,7 @@
       "partOfSpeech": "noun",
       "example": "わたくしの事にあらず。",
       "exampleTranslation": "個人的なことではない。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "WATARU",
@@ -3308,8 +3008,7 @@
       "partOfSpeech": "verb",
       "example": "霧、野にわたれり。",
       "exampleTranslation": "霧が野に一面に立ちこめている。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "WABU",
@@ -3319,8 +3018,7 @@
       "partOfSpeech": "verb",
       "example": "住みわびて、都に出づ。",
       "exampleTranslation": "住みづらくなって、都に出る。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "WADZURAFU",
@@ -3330,8 +3028,7 @@
       "partOfSpeech": "verb",
       "example": "答へにわづらひて、黙しゐたり。",
       "exampleTranslation": "答えに悩んで、黙っていた。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "WARINASHI",
@@ -3341,8 +3038,7 @@
       "partOfSpeech": "adjective",
       "example": "わりなく恋しと思ふ。",
       "exampleTranslation": "どうしようもなく恋しいと思う。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "WAROSHI",
@@ -3352,8 +3048,7 @@
       "partOfSpeech": "adjective",
       "example": "わろき歌をよみ散らす。",
       "exampleTranslation": "下手な歌をやたらに詠む。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "WIRU_SUWARU",
@@ -3363,8 +3058,7 @@
       "partOfSpeech": "verb",
       "example": "端近くゐて、月を見る。",
       "exampleTranslation": "縁側近くに座って、月を見る。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "WIRU_HIKIIRU",
@@ -3374,8 +3068,7 @@
       "partOfSpeech": "verb",
       "example": "供の者をゐて、出で立つ。",
       "exampleTranslation": "供の者を引き連れて、出発する。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "WINAKA",
@@ -3385,8 +3078,7 @@
       "partOfSpeech": "noun",
       "example": "ゐなかに下りて住む。",
       "exampleTranslation": "田舎に下って住む。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "WEMU",
@@ -3396,8 +3088,7 @@
       "partOfSpeech": "verb",
       "example": "うちゑみて、物言ふ。",
       "exampleTranslation": "にっこりほほえんで、話をする。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "WOKASHI",
@@ -3407,8 +3098,7 @@
       "partOfSpeech": "adjective",
       "example": "春はあけぼの、やうやう白くなりゆく山ぎは、をかし。",
       "exampleTranslation": "春は明け方が趣深い、だんだん白んでいく山の稜線が趣深い。",
-      "source": "枕草子",
-      "isFree": true
+      "source": "枕草子"
     },
     {
       "key": "WOKONARI",
@@ -3418,8 +3108,7 @@
       "partOfSpeech": "adjectiveVerb",
       "example": "をこなるふるまひを笑ふ。",
       "exampleTranslation": "愚かなふるまいを笑う。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "WOKOGAMASHI",
@@ -3429,8 +3118,7 @@
       "partOfSpeech": "adjective",
       "example": "をこがましき言ひざまなり。",
       "exampleTranslation": "ばかげた言い方である。",
-      "source": "",
-      "isFree": false
+      "source": ""
     },
     {
       "key": "WORIFUSHI",
@@ -3440,8 +3128,7 @@
       "partOfSpeech": "adverb",
       "example": "をりふし雨降り出でぬ。",
       "exampleTranslation": "ちょうどその時雨が降り出した。",
-      "source": "",
-      "isFree": true
+      "source": ""
     },
     {
       "key": "WORIKARA",
@@ -3451,8 +3138,7 @@
       "partOfSpeech": "noun",
       "example": "をりからの雪に、道閉ぢぬ。",
       "exampleTranslation": "時節がらの雪で、道がふさがった。",
-      "source": "",
-      "isFree": false
+      "source": ""
     }
   ]
 }

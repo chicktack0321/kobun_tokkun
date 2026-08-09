@@ -99,16 +99,15 @@ final class QuizViewModel {
         refreshPoolCounts()
     }
 
-    /// スタート画面の件数を合わせる。権利が変わったときと、絞り込みを変えたときに呼ぶ。
+    /// スタート画面の件数を合わせる。絞り込みを変えたときに呼ぶ。
     func refreshPoolCounts() {
         guard let content, let progressRepository else { return }
-        let rights = Entitlements.shared.rights
         let progress = progressRepository.allProgress()
         wordPoolCount = StudyQueue.filter(
-            items: content.studyWords(rights: rights), byStatus: statusFilter, progress: progress
+            items: content.allWords(), byStatus: statusFilter, progress: progress
         ).count
         grammarPoolCount = StudyQueue.filter(
-            items: content.studyGrammarQuiz(rights: rights), byStatus: statusFilter, progress: progress
+            items: content.allGrammarQuiz(), byStatus: statusFilter, progress: progress
         ).count
     }
 
@@ -117,20 +116,18 @@ final class QuizViewModel {
         genre = request.genre
         scope = request.scope
 
-        let rights = Entitlements.shared.rights
         let progress = progressRepository.allProgress()
 
         switch request.genre {
         case .word:
             questions = buildWordQuestions(
-                pool: content.studyWords(rights: rights),
+                pool: content.allWords(),
                 scope: request.scope,
                 progress: progress
             )
         case .grammar:
             questions = buildGrammarQuestions(
                 content: content,
-                rights: rights,
                 scope: request.scope,
                 progress: progress
             )
@@ -213,17 +210,15 @@ final class QuizViewModel {
 
     private func buildGrammarQuestions(
         content: ContentRepository,
-        rights: AccessRights,
         scope: QuizScope,
         progress: [String: ItemProgress]
     ) -> [QuizQuestion] {
         let pool: [GrammarQuizItem]
         switch scope {
         case .grammarItem(let grammarId, _):
-            // 特定の文法項目を指定して来た場合も、出題できるのは権利の範囲内だけ
-            pool = content.grammarQuiz(forGrammarId: grammarId).filter { rights.canStudy(isFree: $0.isFree) }
+            pool = content.grammarQuiz(forGrammarId: grammarId)
         case .mixed, .reviewOnly:
-            pool = content.studyGrammarQuiz(rights: rights)
+            pool = content.allGrammarQuiz()
         }
 
         let targets = StudyQueue.filter(items: pool, byStatus: statusFilter, progress: progress)

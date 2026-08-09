@@ -34,10 +34,6 @@ final class WordMaster {
     /// 出典（例: "枕草子"）。不明・作例の場合は空文字
     var source: String
 
-    /// 無料で出題対象にできる語か。試用終了後の未購入ユーザーはこの語だけが出題される。
-    /// 閲覧・検索・発音は `isFree` に関わらず常に可能。
-    var isFree: Bool
-
     /// マスターデータの更新検知用
     var updatedAt: Date
 
@@ -50,7 +46,6 @@ final class WordMaster {
         example: String = "",
         exampleTranslation: String = "",
         source: String = "",
-        isFree: Bool = false,
         updatedAt: Date = .now
     ) {
         self.wordId = wordId
@@ -61,7 +56,6 @@ final class WordMaster {
         self.example = example
         self.exampleTranslation = exampleTranslation
         self.source = source
-        self.isFree = isFree
         self.updatedAt = updatedAt
     }
 

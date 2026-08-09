@@ -19,7 +19,6 @@ private struct WordSeedEntry: Decodable {
     let example: String
     let exampleTranslation: String
     let source: String?
-    let isFree: Bool?
 }
 
 private struct GrammarSeedEntry: Decodable {
@@ -33,7 +32,6 @@ private struct GrammarSeedEntry: Decodable {
     let example: String
     let exampleTranslation: String
     let source: String?
-    let isFree: Bool?
     let sortOrder: Int
 }
 
@@ -44,7 +42,6 @@ private struct GrammarQuizSeedEntry: Decodable {
     let choices: [String]
     let answerIndex: Int
     let explanation: String
-    let isFree: Bool?
 }
 
 enum KobunSeederError: Error {
@@ -123,7 +120,6 @@ enum KobunSeeder {
                 word.example = entry.example
                 word.exampleTranslation = entry.exampleTranslation
                 word.source = entry.source ?? ""
-                word.isFree = entry.isFree ?? false
                 word.updatedAt = .now
             } else {
                 context.insert(WordMaster(
@@ -134,8 +130,7 @@ enum KobunSeeder {
                     partOfSpeech: partOfSpeech,
                     example: entry.example,
                     exampleTranslation: entry.exampleTranslation,
-                    source: entry.source ?? "",
-                    isFree: entry.isFree ?? false
+                    source: entry.source ?? ""
                 ))
             }
         }
@@ -162,7 +157,6 @@ enum KobunSeeder {
                 grammar.example = entry.example
                 grammar.exampleTranslation = entry.exampleTranslation
                 grammar.source = entry.source ?? ""
-                grammar.isFree = entry.isFree ?? false
                 grammar.sortOrder = entry.sortOrder
                 grammar.updatedAt = .now
             } else {
@@ -177,7 +171,6 @@ enum KobunSeeder {
                     example: entry.example,
                     exampleTranslation: entry.exampleTranslation,
                     source: entry.source ?? "",
-                    isFree: entry.isFree ?? false,
                     sortOrder: entry.sortOrder
                 ))
             }
@@ -203,7 +196,6 @@ enum KobunSeeder {
                 quiz.choices = entry.choices
                 quiz.answerIndex = entry.answerIndex
                 quiz.explanation = entry.explanation
-                quiz.isFree = entry.isFree ?? false
                 quiz.updatedAt = .now
             } else {
                 context.insert(GrammarQuizItem(
@@ -212,8 +204,7 @@ enum KobunSeeder {
                     question: entry.question,
                     choices: entry.choices,
                     answerIndex: entry.answerIndex,
-                    explanation: entry.explanation,
-                    isFree: entry.isFree ?? false
+                    explanation: entry.explanation
                 ))
             }
         }

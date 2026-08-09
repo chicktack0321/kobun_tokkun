@@ -11,7 +11,6 @@
       "example": "住み慣れし故郷、限りなく思ひ出でらる。",
       "exampleTranslation": "住み慣れた故郷が、この上なく自然と思い出される。",
       "source": "",
-      "isFree": true,
       "sortOrder": 10
     },
     {
@@ -25,7 +24,6 @@
       "example": "大納言に歌よませ給ふ。",
       "exampleTranslation": "大納言に歌をお詠ませになる。",
       "source": "",
-      "isFree": true,
       "sortOrder": 20
     },
     {
@@ -39,7 +37,6 @@
       "example": "花咲かず、鳥も鳴かぬ山なり。",
       "exampleTranslation": "花も咲かず、鳥も鳴かない山である。",
       "source": "",
-      "isFree": true,
       "sortOrder": 30
     },
     {
@@ -53,7 +50,6 @@
       "example": "われこそ行かめ。",
       "exampleTranslation": "私が行こう。",
       "source": "",
-      "isFree": true,
       "sortOrder": 40
     },
     {
@@ -67,7 +63,6 @@
       "example": "われは行かじ。",
       "exampleTranslation": "私は行くまい。",
       "source": "",
-      "isFree": true,
       "sortOrder": 50
     },
     {
@@ -81,7 +76,6 @@
       "example": "いつしか都を見まほし。",
       "exampleTranslation": "早く都を見たい。",
       "source": "",
-      "isFree": true,
       "sortOrder": 60
     },
     {
@@ -95,7 +89,6 @@
       "example": "昔、男ありけり。今は昔、竹取の翁といふ者ありき。",
       "exampleTranslation": "昔、男がいた。今となっては昔のこと、竹取の翁という者がいた。",
       "source": "",
-      "isFree": true,
       "sortOrder": 70
     },
     {
@@ -109,7 +102,6 @@
       "example": "見わたせば花も紅葉もなかりけり。",
       "exampleTranslation": "見渡すと花も紅葉もないのだなあ。",
       "source": "新古今和歌集",
-      "isFree": true,
       "sortOrder": 80
     },
     {
@@ -123,7 +115,6 @@
       "example": "この一矢に定むべしと思へ。よくよく射つべし。",
       "exampleTranslation": "この一本で決めようと思え。きっとうまく射るはずだ。",
       "source": "",
-      "isFree": true,
       "sortOrder": 90
     },
     {
@@ -137,7 +128,6 @@
       "example": "花散りぬ。",
       "exampleTranslation": "花が散ってしまった。",
       "source": "",
-      "isFree": true,
       "sortOrder": 100
     },
     {
@@ -151,7 +141,6 @@
       "example": "咲ける花を見る。",
       "exampleTranslation": "咲いている花を見る。",
       "source": "",
-      "isFree": true,
       "sortOrder": 110
     },
     {
@@ -165,7 +154,6 @@
       "example": "などて泣きけむ。",
       "exampleTranslation": "どうして泣いたのだろう。",
       "source": "",
-      "isFree": true,
       "sortOrder": 120
     },
     {
@@ -179,7 +167,6 @@
       "example": "久方の光のどけき春の日にしづ心なく花の散るらむ。",
       "exampleTranslation": "日の光がのどかな春の日に、どうして落ち着いた心もなく花が散るのだろう。",
       "source": "古今和歌集",
-      "isFree": true,
       "sortOrder": 130
     },
     {
@@ -193,7 +180,6 @@
       "example": "羽なければ空をも飛ぶべからず。",
       "exampleTranslation": "羽がないので空を飛ぶこともできない。",
       "source": "",
-      "isFree": true,
       "sortOrder": 140
     },
     {
@@ -207,7 +193,6 @@
       "example": "人に語るまじきことなり。",
       "exampleTranslation": "人に語ってはならないことである。",
       "source": "",
-      "isFree": true,
       "sortOrder": 150
     },
     {
@@ -221,7 +206,6 @@
       "example": "秋来ぬと目にはさやかに見えねども、風の音にぞおどろかれぬる。花も散りぬめり。",
       "exampleTranslation": "秋が来たと目にははっきり見えないけれど、風の音で自然と気づいた。花も散ってしまったようだ。",
       "source": "",
-      "isFree": true,
       "sortOrder": 160
     },
     {
@@ -235,7 +219,6 @@
       "example": "春過ぎて夏来たるらし。",
       "exampleTranslation": "春が過ぎて夏が来たらしい。",
       "source": "万葉集",
-      "isFree": true,
       "sortOrder": 170
     },
     {
@@ -249,7 +232,6 @@
       "example": "男もすなる日記といふものを、女もしてみむとてするなり。",
       "exampleTranslation": "男も書くという日記というものを、女も書いてみようと思って書くのである。",
       "source": "土佐日記",
-      "isFree": true,
       "sortOrder": 180
     },
     {
@@ -263,7 +245,6 @@
       "example": "これは烏なり。",
       "exampleTranslation": "これは烏である。",
       "source": "",
-      "isFree": true,
       "sortOrder": 190
     },
     {
@@ -277,7 +258,6 @@
       "example": "天下の将軍たり。",
       "exampleTranslation": "天下の将軍である。",
       "source": "",
-      "isFree": true,
       "sortOrder": 200
     },
     {
@@ -291,7 +271,6 @@
       "example": "月日は百代の過客にして、行きかふ年もまた旅人のごとし。",
       "exampleTranslation": "月日は永遠の旅人であって、来ては去る年もまた旅人のようなものだ。",
       "source": "おくのほそ道",
-      "isFree": true,
       "sortOrder": 210
     },
     {
@@ -305,7 +284,6 @@
       "example": "今一度、都を見たし。",
       "exampleTranslation": "もう一度、都を見たい。",
       "source": "",
-      "isFree": true,
       "sortOrder": 220
     },
     {
@@ -319,7 +297,6 @@
       "example": "秋風に山の木の葉のうつろへば人の心も思ほゆるかも。",
       "exampleTranslation": "秋風で山の木の葉が色づくと、人の心の移ろいも自然と思われることだ。",
       "source": "",
-      "isFree": true,
       "sortOrder": 230
     },
     {
@@ -333,7 +310,6 @@
       "example": "大君の命かしこみ聞こしをす。",
       "exampleTranslation": "天皇の御命令を恐れ多く思ってお聞きになる。",
       "source": "",
-      "isFree": true,
       "sortOrder": 240
     },
     {
@@ -347,7 +323,6 @@
       "example": "見まほしく思へど、え見ず。",
       "exampleTranslation": "見たいと思うが、見ることができない。",
       "source": "",
-      "isFree": true,
       "sortOrder": 250
     },
     {
@@ -361,7 +336,6 @@
       "example": "いつしか梅咲かなむ。",
       "exampleTranslation": "早く梅が咲いてほしい。",
       "source": "",
-      "isFree": true,
       "sortOrder": 260
     },
     {
@@ -375,7 +349,6 @@
       "example": "男もすなる日記。これは女のするなり。",
       "exampleTranslation": "男も書くという日記。これは女が書くのである。",
       "source": "",
-      "isFree": true,
       "sortOrder": 270
     },
     {
@@ -389,7 +362,6 @@
       "example": "花散りぬ。花散らぬ枝もあり。",
       "exampleTranslation": "花が散ってしまった。花が散らない枝もある。",
       "source": "",
-      "isFree": true,
       "sortOrder": 280
     },
     {
@@ -403,7 +375,6 @@
       "example": "月ぞ明かき。",
       "exampleTranslation": "月が明るい。",
       "source": "",
-      "isFree": false,
       "sortOrder": 290
     },
     {
@@ -417,7 +388,6 @@
       "example": "この花なむ、いとめでたき。",
       "exampleTranslation": "この花が、たいそうすばらしい。",
       "source": "",
-      "isFree": false,
       "sortOrder": 300
     },
     {
@@ -431,7 +401,6 @@
       "example": "世を知る人やある。",
       "exampleTranslation": "世を知る人がいるだろうか。",
       "source": "",
-      "isFree": false,
       "sortOrder": 310
     },
     {
@@ -445,7 +414,6 @@
       "example": "いづれの山か天に近き。",
       "exampleTranslation": "どの山が天に近いのか。",
       "source": "",
-      "isFree": false,
       "sortOrder": 320
     },
     {
@@ -459,7 +427,6 @@
       "example": "秋の夕暮こそあはれなれ。",
       "exampleTranslation": "秋の夕暮れこそしみじみと趣深い。",
       "source": "",
-      "isFree": false,
       "sortOrder": 330
     },
     {
@@ -473,7 +440,6 @@
       "example": "花は散り、月は隠れぬ。",
       "exampleTranslation": "花は散り、月は隠れてしまった。",
       "source": "",
-      "isFree": false,
       "sortOrder": 340
     },
     {
@@ -487,7 +453,6 @@
       "example": "風吹かば、舟出さじ。風吹けば、波高し。",
       "exampleTranslation": "もし風が吹いたら、舟を出すまい。風が吹くので、波が高い。",
       "source": "",
-      "isFree": false,
       "sortOrder": 350
     },
     {
@@ -501,7 +466,6 @@
       "example": "雨降るとも、行かむ。",
       "exampleTranslation": "たとえ雨が降っても、行こう。",
       "source": "",
-      "isFree": false,
       "sortOrder": 360
     },
     {
@@ -515,7 +479,6 @@
       "example": "呼べども、答へず。",
       "exampleTranslation": "呼ぶけれども、答えない。",
       "source": "",
-      "isFree": false,
       "sortOrder": 370
     },
     {
@@ -529,7 +492,6 @@
       "example": "門を叩くに、答ふる人なし。",
       "exampleTranslation": "門をたたいたところ、答える人がいない。",
       "source": "",
-      "isFree": false,
       "sortOrder": 380
     },
     {
@@ -543,7 +505,6 @@
       "example": "物も言はで、去りぬ。",
       "exampleTranslation": "何も言わないで、去ってしまった。",
       "source": "",
-      "isFree": false,
       "sortOrder": 390
     },
     {
@@ -557,7 +518,6 @@
       "example": "夜な夜な、月を見つつ明かす。",
       "exampleTranslation": "毎晩、月を見ながら夜を明かす。",
       "source": "",
-      "isFree": false,
       "sortOrder": 400
     },
     {
@@ -571,7 +531,6 @@
       "example": "知りながら、告げず。",
       "exampleTranslation": "知っていながら、告げない。",
       "source": "",
-      "isFree": false,
       "sortOrder": 410
     },
     {
@@ -585,7 +544,6 @@
       "example": "待つと言ひしものを、来ず。",
       "exampleTranslation": "待つと言ったのに、来ない。",
       "source": "",
-      "isFree": false,
       "sortOrder": 420
     },
     {
@@ -599,7 +557,6 @@
       "example": "一目だに見ばや。",
       "exampleTranslation": "せめて一目だけでも見たい。",
       "source": "",
-      "isFree": false,
       "sortOrder": 430
     },
     {
@@ -613,7 +570,6 @@
       "example": "雨降り、風さへ吹きぬ。",
       "exampleTranslation": "雨が降り、そのうえ風までも吹いた。",
       "source": "",
-      "isFree": false,
       "sortOrder": 440
     },
     {
@@ -627,7 +583,6 @@
       "example": "聖人すら過つ。",
       "exampleTranslation": "聖人でさえ過ちを犯す。",
       "source": "",
-      "isFree": false,
       "sortOrder": 450
     },
     {
@@ -641,7 +596,6 @@
       "example": "三日ばかりありて、帰りぬ。",
       "exampleTranslation": "三日ほど経って、帰った。",
       "source": "",
-      "isFree": false,
       "sortOrder": 460
     },
     {
@@ -655,7 +609,6 @@
       "example": "などか参らざりし。",
       "exampleTranslation": "どうして参上しなかったのか。",
       "source": "",
-      "isFree": false,
       "sortOrder": 470
     },
     {
@@ -669,7 +622,6 @@
       "example": "今一度、都を見ばや。",
       "exampleTranslation": "もう一度、都を見たい。",
       "source": "",
-      "isFree": false,
       "sortOrder": 480
     },
     {
@@ -683,7 +635,6 @@
       "example": "はや花咲かなむ。",
       "exampleTranslation": "早く花が咲いてほしい。",
       "source": "",
-      "isFree": false,
       "sortOrder": 490
     },
     {
@@ -697,7 +648,6 @@
       "example": "世の中にたえて桜のなかりせば春の心はのどけからまし。散らぬ花もがな。",
       "exampleTranslation": "世の中にまったく桜がなかったら春の心はのどかだろうに。散らない花があればなあ。",
       "source": "",
-      "isFree": false,
       "sortOrder": 500
     },
     {
@@ -711,7 +661,6 @@
       "example": "な忘れそ。",
       "exampleTranslation": "忘れないでくれ。",
       "source": "",
-      "isFree": false,
       "sortOrder": 510
     },
     {
@@ -725,7 +674,6 @@
       "example": "とく行けかし。",
       "exampleTranslation": "早く行けよ。",
       "source": "",
-      "isFree": false,
       "sortOrder": 520
     },
     {
@@ -739,7 +687,6 @@
       "example": "舟にて渡る。人して文をやる。",
       "exampleTranslation": "舟で渡る。人に頼んで手紙を送る。",
       "source": "",
-      "isFree": false,
       "sortOrder": 530
     },
     {
@@ -753,7 +700,6 @@
       "example": "見るより、逃げ出しぬ。",
       "exampleTranslation": "見るとすぐに、逃げ出した。",
       "source": "",
-      "isFree": false,
       "sortOrder": 540
     },
     {
@@ -767,7 +713,6 @@
       "example": "帝、大納言に問ひ給ふ。大納言、答へ申す。",
       "exampleTranslation": "帝が、大納言にお尋ねになる。大納言が、お答え申し上げる。",
       "source": "",
-      "isFree": false,
       "sortOrder": 550
     },
     {
@@ -781,7 +726,6 @@
       "example": "帝、御覧じ給ふ。",
       "exampleTranslation": "帝が、ご覧になる。",
       "source": "",
-      "isFree": false,
       "sortOrder": 560
     },
     {
@@ -795,7 +739,6 @@
       "example": "さ思ひ給ふる。",
       "exampleTranslation": "そのように思っております。",
       "source": "",
-      "isFree": false,
       "sortOrder": 570
     },
     {
@@ -809,7 +752,6 @@
       "example": "宮は内におはします。",
       "exampleTranslation": "宮は宮中にいらっしゃる。",
       "source": "",
-      "isFree": false,
       "sortOrder": 580
     },
     {
@@ -823,7 +765,6 @@
       "example": "帝、かくのたまはせけり。",
       "exampleTranslation": "帝が、このようにおっしゃった。",
       "source": "",
-      "isFree": false,
       "sortOrder": 590
     },
     {
@@ -837,7 +778,6 @@
       "example": "帝、御文を御覧ず。",
       "exampleTranslation": "帝が、お手紙をご覧になる。",
       "source": "",
-      "isFree": false,
       "sortOrder": 600
     },
     {
@@ -851,7 +791,6 @@
       "example": "人を召して、問はせ給ふ。",
       "exampleTranslation": "人をお呼びになって、お尋ねさせなさる。",
       "source": "",
-      "isFree": false,
       "sortOrder": 610
     },
     {
@@ -865,7 +804,6 @@
       "example": "夜更けて、おほとのごもりぬ。",
       "exampleTranslation": "夜が更けて、お休みになった。",
       "source": "",
-      "isFree": false,
       "sortOrder": 620
     },
     {
@@ -879,7 +817,6 @@
       "example": "宮に御文聞こえ給ふ。",
       "exampleTranslation": "宮にお手紙を差し上げなさる。",
       "source": "",
-      "isFree": false,
       "sortOrder": 630
     },
     {
@@ -893,7 +830,6 @@
       "example": "この由を帝に奏す。",
       "exampleTranslation": "このことを帝に申し上げる。",
       "source": "",
-      "isFree": false,
       "sortOrder": 640
     },
     {
@@ -907,7 +843,6 @@
       "example": "御衣をたてまつる。",
       "exampleTranslation": "お着物を差し上げる。",
       "source": "",
-      "isFree": false,
       "sortOrder": 650
     },
     {
@@ -921,7 +856,6 @@
       "example": "御前に参りて、候ふ。",
       "exampleTranslation": "御前に参上して、お仕えする。",
       "source": "",
-      "isFree": false,
       "sortOrder": 660
     },
     {
@@ -935,7 +869,6 @@
       "example": "御前をまかりいづ。",
       "exampleTranslation": "御前を退出する。",
       "source": "",
-      "isFree": false,
       "sortOrder": 670
     },
     {
@@ -949,7 +882,6 @@
       "example": "年ごろ仕うまつりけり。",
       "exampleTranslation": "長年お仕え申し上げた。",
       "source": "",
-      "isFree": false,
       "sortOrder": 680
     },
     {
@@ -963,7 +895,6 @@
       "example": "かかる事なむはべる。",
       "exampleTranslation": "このようなことがございます。",
       "source": "",
-      "isFree": false,
       "sortOrder": 690
     },
     {
@@ -977,7 +908,6 @@
       "example": "帝、御覧ぜさせ給ふ。",
       "exampleTranslation": "帝が、ご覧になる。",
       "source": "",
-      "isFree": false,
       "sortOrder": 700
     },
     {
@@ -991,7 +921,6 @@
       "example": "花ぞ散りける。月こそ明かけれ。",
       "exampleTranslation": "花が散ったことよ。月が明るい。",
       "source": "",
-      "isFree": false,
       "sortOrder": 710
     },
     {
@@ -1005,7 +934,6 @@
       "example": "命こそ惜しけれ、名を汚さじ。",
       "exampleTranslation": "命は惜しいけれども、名を汚すまい。",
       "source": "",
-      "isFree": false,
       "sortOrder": 720
     },
     {
@@ -1019,7 +947,6 @@
       "example": "静かにありけり。花散りにけり。",
       "exampleTranslation": "静かであった。花が散ってしまった。",
       "source": "",
-      "isFree": false,
       "sortOrder": 730
     },
     {
@@ -1033,7 +960,6 @@
       "example": "花咲かなむ。花咲きなむ。花なむ咲く。",
       "exampleTranslation": "花が咲いてほしい。花がきっと咲くだろう。花が咲く。",
       "source": "",
-      "isFree": false,
       "sortOrder": 740
     },
     {
@@ -1047,7 +973,6 @@
       "example": "白う咲きたる花。",
       "exampleTranslation": "白く咲いている花。",
       "source": "",
-      "isFree": false,
       "sortOrder": 750
     },
     {
@@ -1061,7 +986,6 @@
       "example": "書かず（四段）／過ぎず（上二段）／受けず（下二段）",
       "exampleTranslation": "―",
       "source": "",
-      "isFree": false,
       "sortOrder": 760
     },
     {
@@ -1075,7 +999,6 @@
       "example": "うれしかりけり。静かなりけり。",
       "exampleTranslation": "うれしかった。静かであった。",
       "source": "",
-      "isFree": false,
       "sortOrder": 770
     },
     {
@@ -1089,7 +1012,6 @@
       "example": "花あるべし。",
       "exampleTranslation": "花があるだろう。",
       "source": "",
-      "isFree": false,
       "sortOrder": 780
     },
     {
@@ -1103,7 +1025,6 @@
       "example": "花の色はうつりにけりないたづらにわが身世にふるながめせしまに",
       "exampleTranslation": "桜の色はあせてしまったなあ、むなしく、私が世を過ごし物思いにふけっていた間に（「ふる」＝経る・降る、「ながめ」＝眺め・長雨の掛詞）",
       "source": "古今和歌集",
-      "isFree": false,
       "sortOrder": 790
     },
     {
@@ -1117,7 +1038,6 @@
       "example": "つれづれなるままに、日暮らし硯に向かひて",
       "exampleTranslation": "することもなく退屈なのにまかせて、一日中硯に向かって",
       "source": "徒然草",
-      "isFree": false,
       "sortOrder": 800
     }
   ]

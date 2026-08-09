@@ -7,7 +7,6 @@ struct QuizView: View {
     @Environment(TabRouter.self) private var router
 
     @State private var viewModel = QuizViewModel()
-    @State private var entitlements = Entitlements.shared
 
     var body: some View {
         NavigationStack {
@@ -54,7 +53,6 @@ struct QuizView: View {
             // 見ていない問題が不正解として記録されている
             if newPhase == .active { viewModel.resumeTimer() } else { viewModel.suspendTimer() }
         }
-        .onChange(of: entitlements.rights) { _, _ in viewModel.refreshPoolCounts() }
     }
 }
 
@@ -62,7 +60,6 @@ struct QuizView: View {
 
 private struct QuizStartView: View {
     @Bindable var viewModel: QuizViewModel
-    @State private var entitlements = Entitlements.shared
 
     var body: some View {
         ScrollView {
@@ -102,9 +99,6 @@ private struct QuizStartView: View {
                     .foregroundStyle(.secondary)
                 }
 
-                if !entitlements.hasFullAccess {
-                    LockedRangeNotice()
-                }
             }
             .padding()
         }
@@ -148,26 +142,6 @@ struct StatusFilterCard: View {
                 }
             }
             .pickerStyle(.segmented)
-        }
-    }
-}
-
-/// 試用終了後・未購入のときに、何が制限されているのかを説明する。
-/// 「使えなくなった」ではなく「出題範囲が狭まっている」ことを明示するために出す。
-struct LockedRangeNotice: View {
-    var body: some View {
-        DashboardCard(title: "出題範囲について", infoMessage: MetricExplanations.freeRange) {
-            VStack(alignment: .leading, spacing: 10) {
-                Text("いまは無料範囲の項目だけが出題されます。単語帳と文法解説はすべて読めます。")
-                    .font(.subheadline)
-                    .foregroundStyle(.secondary)
-                NavigationLink {
-                    PaywallView()
-                } label: {
-                    Label("すべての単語・文法を解放する", systemImage: "lock.open")
-                }
-                .font(.subheadline)
-            }
         }
     }
 }

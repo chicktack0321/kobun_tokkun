@@ -23,10 +23,6 @@ final class GrammarQuizItem {
 
     var explanation: String
 
-    /// 紐づく文法項目の `isFree` をビルドスクリプトが伝播させる。
-    /// 解説が無料なのに問題が有料（またはその逆）だと、学習の途中で不自然に途切れる。
-    var isFree: Bool
-
     var updatedAt: Date
 
     init(
@@ -36,7 +32,6 @@ final class GrammarQuizItem {
         choices: [String],
         answerIndex: Int,
         explanation: String = "",
-        isFree: Bool = false,
         updatedAt: Date = .now
     ) {
         self.quizId = quizId
@@ -45,7 +40,6 @@ final class GrammarQuizItem {
         self.choices = choices
         self.answerIndex = answerIndex
         self.explanation = explanation
-        self.isFree = isFree
         self.updatedAt = updatedAt
     }
 

@@ -15,6 +15,4 @@ enum UITestID {
     static let libraryRow = "libraryRow"
     /// ホームの「学習の記録」カード（学習履歴への入口）
     static let historyCardLink = "historyCardLink"
-    /// 設定画面の「出題範囲」（購入画面への入口）
-    static let paywallLink = "paywallLink"
 }

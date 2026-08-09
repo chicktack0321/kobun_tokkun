@@ -6,8 +6,6 @@ import Observation
 @MainActor
 final class ListeningViewModel {
     private(set) var items: [ListeningItem] = []
-    /// 権利の制限で聞ける語が減っているか（案内を出すかの判断に使う）
-    private(set) var isLimited = false
     /// 絞り込みを外したときに聞ける語数。「0語」の理由を言い分けるのに使う
     private(set) var unfilteredCount = 0
 
@@ -77,15 +75,11 @@ final class ListeningViewModel {
 
     func rebuild() {
         guard let content, let progressRepository else { return }
-        let rights = Entitlements.shared.rights
         let all = content.allWords()
-        let pool = content.studyWords(rights: rights)
-
-        unfilteredCount = pool.count
-        isLimited = pool.count < all.count
+        unfilteredCount = all.count
 
         let filtered = StudyQueue.filter(
-            items: pool,
+            items: all,
             byStatus: statusFilter,
             progress: progressRepository.allProgress()
         )
