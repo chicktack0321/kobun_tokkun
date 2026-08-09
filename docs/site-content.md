@@ -311,9 +311,9 @@ Googleアカウントへのログインは不要です。
 
 | 用途 | URL | 状態 |
 | --- | --- | --- |
-| プライバシーポリシー | `https://sites.google.com/view/kobun-tokkun/privacy-policy` | 未公開 |
-| サポート | `https://sites.google.com/view/kobun-tokkun/support` | 未公開 |
-| お問い合わせフォーム | （作成後に記入） | 未作成 |
+| プライバシーポリシー | `https://sites.google.com/view/kobun-tokkun/privacy-policy` | 公開済 |
+| サポート | `https://sites.google.com/view/kobun-tokkun/support` | 公開済 |
+| お問い合わせフォーム | https://forms.gle/LsygpWKxCiKrm86V9 | 公開済み |
 
 上2つは `KobunApp/Common/AppConfig.swift` に埋め込み済み。
 
